@@ -14,3 +14,10 @@
 * přeloženy popisky chladičů pro Arena Commander
 * přeložeby delivery mise od UDM
 * název aplikace v mobiGlas "Contract Manager" je v češtině zkrácen jen na "Kontrakty"
+
+---
+## Přispěvatelé
+* Jarred
+* Hawell_cze
+* fid0rka
+* TrionCZ
