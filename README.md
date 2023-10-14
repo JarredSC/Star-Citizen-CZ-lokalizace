@@ -22,8 +22,9 @@
 * inventář: přeloženo rozhraní
 * mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
 * překlad několika klávesových hintů
-* překlad rozhraní terminálu lékárny
+* překlad rozhraní terminálu lékárny a nabízeného zboží
 * překlad rozhraní terminálu pojišťovny (výběr místa pro regeneraci)
+* překlad výrobků od Gemini
 
 ### verze 0.0b (experimentální) 13-10-2024 12:00
 * opravy překlepů a přizpůsobení přeložených stringů na kapitálky, kde si to žádá diakritika
