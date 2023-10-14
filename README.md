@@ -1,7 +1,17 @@
 # Star Citizen lokalizace
-🚧 Toto je rozpracovaná verze překladu hry Star Citizen, na které se stále pracuje.
+🚧 Toto je rozpracovaná verze neoficiální překladu hry Star Citizen, na které se stále pracuje.
 
 ⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
+
+---
+## Návod pro instalaci (automatická)
+
+## Návod pro instalaci (manuální)
+1. Stáhněte si zip soubor:
+2. Rozbalte jej v v herním adresáři `\StarCitizen\LIVE\data\`. Vytvoří se vám tak nová složka `Localization` s jazykovou podsložkou `english`, kde se nachází samotný soubor s překladem `global.ini`.
+3. V herním adresáři `\StarCitizen\LIVE\data\` poté editujte soubor `user.cfg`.
+4. Do tohoto souboru vložte nový řádek: `g_language = english` a změnu uložte.
+5. Spusťte hru.
 
 ---
 ## Přispěvatelé
@@ -10,10 +20,6 @@
 * Hawell_cze
 * DarbyScabb
 * fid0rka
----
-## Návod pro instalaci (automatická)
-
-## Návod pro instalaci (manuální)
 ---
 ## Provedené změny
 ### verze 0.1 (v přípravě)
