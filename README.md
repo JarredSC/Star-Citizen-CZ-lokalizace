@@ -2,7 +2,22 @@
 🚧 Toto je rozpracovaná verze překladu hry Star Citizen, na které se stále pracuje.
 
 ---
+## Přispěvatelé
+* Jarred
+* Hawell_cze
+* TrionCZ
+* DarbyScabb
+* fid0rka
+
+---
 ## Provedené změny
+### verze 0.1 (v přípravě)
+* ASOP terminál: překlad rozhraní pro claimování
+* přeložen dialog pro ukončení hry
+* inventář: přeloženo rozhraní
+* mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
+* překlad několika klávesových hintů
+
 ### verze 0.0b (experimentální) 13-10-2024 12:00
 * opravy překlepů a přizpůsobení přeložených stringů na kapitálky, kde si to žádá diakritika
 * pojem "vehicle" je dočaně nahrazen slovem "stroj" (ne všude)
@@ -15,9 +30,4 @@
 * přeložeby delivery mise od UDM
 * název aplikace v mobiGlas "Contract Manager" je v češtině zkrácen jen na "Kontrakty"
 
----
-## Přispěvatelé
-* Jarred
-* Hawell_cze
-* fid0rka
-* TrionCZ
+
