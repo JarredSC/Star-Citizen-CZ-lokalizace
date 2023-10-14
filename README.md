@@ -42,6 +42,7 @@
 * přeložen dialog pro ukončení hry
 * inventář: přeloženo rozhraní
 * mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
+* mobiGlas: přeloženo rozhraní F11 (některé prvky jsou fixní a nepřeložitelné v žádných jazycích - a to včetně nastavení kanálů)
 * překlad několika klávesových hintů
 * překlad rozhraní terminálu lékárny a nabízeného zboží
 * překlad rozhraní terminálu pojišťovny (výběr místa pro regeneraci)
