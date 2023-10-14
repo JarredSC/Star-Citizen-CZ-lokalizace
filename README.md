@@ -5,13 +5,27 @@
 
 ---
 ## Návod pro instalaci (automatická)
+1. Stáhněte si instalační soubor: Star_Citizen_-_Instalator_jazyku-V1.cmd
+2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
+3. Po dokončení instalace můžete začít hrát!
 
 ## Návod pro instalaci (manuální)
-1. Stáhněte si zip soubor:
+1. Stáhněte si zip soubor: [main.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/archive/refs/heads/main.zip).
 2. Rozbalte jej v v herním adresáři `\StarCitizen\LIVE\data\`. Vytvoří se vám tak nová složka `Localization` s jazykovou podsložkou `english`, kde se nachází samotný soubor s překladem `global.ini`.
 3. V herním adresáři `\StarCitizen\LIVE\data\` poté editujte soubor `user.cfg`.
 4. Do tohoto souboru vložte nový řádek: `g_language = english` a změnu uložte.
-5. Spusťte hru.
+5. To je vše, můžete začít hrát!
+---
+## Otázky a odovědi
+
+**Může mi překlad rozbít hru? Hrozí mi 30k?**
+> Ne. Soubor global.ini pouze nahrazuje znaky textových řětezců ve hře. Na chod hry, klienta nebo serveru nemá žádný vliv.
+
+**Všechno mám naistalované správně, ale ve hře se všude objevují technické texty začínající zavináčem. Co je špatně?**
+> Zřejmě nemá soubor global.ini správné kódování. Ujistěte se, že soubor je uložen v kódování UTF-8 BOM.
+
+**Našel jsem chybu, kde ji mohu nahlásit?**
+> Chyby nám prosím hlaště na komunitním discordu v kanálu [Lokalizace Star Citizen](https://discord.com/channels/926921932341919765/1162077785376964719)
 
 ---
 ## Přispěvatelé
@@ -24,6 +38,7 @@
 ## Provedené změny
 ### verze 0.1 (v přípravě)
 * ASOP terminál: překlad rozhraní pro claimování
+* velká část těžebního gameplay
 * přeložen dialog pro ukončení hry
 * inventář: přeloženo rozhraní
 * mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
@@ -31,6 +46,8 @@
 * překlad rozhraní terminálu lékárny a nabízeného zboží
 * překlad rozhraní terminálu pojišťovny (výběr místa pro regeneraci)
 * překlad výrobků od Gemini
+* překlad popisků hlavních lokací a orbitálních stanic
+* stovky malých překladů a úprav
 
 ### verze 0.0b (experimentální) 13-10-2024 12:00
 * opravy překlepů a přizpůsobení přeložených stringů na kapitálky, kde si to žádá diakritika
