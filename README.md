@@ -33,6 +33,8 @@
 * TrionCZ
 * Hawell_cze
 * DarbyScabb
+* Atisis
+* The_Boogie
 * fid0rka
 ---
 ## Provedené změny
