@@ -12,7 +12,7 @@
 
 ## Návod pro instalaci (manuální)
 1. Stáhněte si zip soubor: [main.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/archive/refs/heads/main.zip).
-2. Rozbalte jej v v herním adresáři `\StarCitizen\LIVE\data\`. Vytvoří se vám tak nová složka `Localization` s jazykovou podsložkou `english`, kde se nachází samotný soubor s překladem `global.ini`.
+2. |V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
 3. V herním adresáři `\StarCitizen\LIVE\data\` poté editujte soubor `user.cfg`.
 4. Do tohoto souboru vložte nový řádek: `g_language = english` a změnu uložte.
 5. To je vše, můžete začít hrát!
