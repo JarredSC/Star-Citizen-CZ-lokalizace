@@ -1,14 +1,19 @@
 # Star Citizen lokalizace
 🚧 Toto je rozpracovaná verze překladu hry Star Citizen, na které se stále pracuje.
 
+⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
+
 ---
 ## Přispěvatelé
 * Jarred
-* Hawell_cze
 * TrionCZ
+* Hawell_cze
 * DarbyScabb
 * fid0rka
+---
+## Návod pro instalaci (automatická)
 
+## Návod pro instalaci (manuální)
 ---
 ## Provedené změny
 ### verze 0.1 (v přípravě)
@@ -17,6 +22,8 @@
 * inventář: přeloženo rozhraní
 * mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
 * překlad několika klávesových hintů
+* překlad rozhraní terminálu lékárny
+* překlad rozhraní terminálu pojišťovny (výběr místa pro regeneraci)
 
 ### verze 0.0b (experimentální) 13-10-2024 12:00
 * opravy překlepů a přizpůsobení přeložených stringů na kapitálky, kde si to žádá diakritika
