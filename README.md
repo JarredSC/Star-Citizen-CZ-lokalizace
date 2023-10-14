@@ -5,7 +5,8 @@
 
 ---
 ## Návod pro instalaci (automatická)
-1. Stáhněte si instalační soubor: Star_Citizen_-_Instalator_jazyku-V1.cmd
+1. Stáhněte si instalační script: Star_Citizen_-_Instalator_jazyku-V1.cmd
+    > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu a nastaví `user.cfg` soubor.
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
 3. Po dokončení instalace můžete začít hrát!
 
