@@ -26,7 +26,10 @@
 > Zřejmě nemá soubor global.ini správné kódování. Ujistěte se, že soubor je uložen v kódování UTF-8 BOM.
 
 **Našel jsem chybu, kde ji mohu nahlásit?**
-> Chyby nám prosím hlaště na komunitním discordu v kanálu [Lokalizace Star Citizen](https://discord.com/channels/926921932341919765/1162077785376964719)
+> Chyby nám prosím hlaště na komunitním discordu v kanálu [Lokalizace Star Citizen](https://discord.com/channels/926921932341919765/1162077785376964719).
+
+**Windows mi hlásí, že instalační script je nebezpečný!**
+> Windows automaticky hlásí jakýkoli skript za nebezpečný, jelikož skripty dokážou napáchat spoustu škody, pokud jsou třeba zneužívány k instalaci virů. Vždy byste měli být opatrní, pokud spouštíte scripty od neznámých a neověřených zdrojů. Náš script je velmi jednoduchý a slouží pouze k vytvoření požadových složek, stažení `global.ini` souboru a vložení potřebného konfiguračního řádku do souboru `user.cfg`.
 
 ---
 ## Přispěvatelé
