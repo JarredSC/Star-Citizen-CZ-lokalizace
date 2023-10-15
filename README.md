@@ -6,7 +6,7 @@
 ---
 ## Návod pro instalaci (automatická)
 1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V1.cmd](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/main/instalace/Star_Citizen_-_Instalator_jazyku-V1.cmd)
-    > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu a nastaví `user.cfg` soubor.
+    > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu a nastaví `user.cfg` soubor. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod](instalace/Star_Citizen_-_Instalator_jazyku-V1.cmd).
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
 3. Po dokončení instalace můžete začít hrát!
 
@@ -38,10 +38,22 @@
 * The_Boogie
 * fid0rka
 ---
+## Známé problémy
+Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsahuje velkou škálu starých assetů, které nejsou uzpůsobené pro texty jiných jazyků.
+* **chybějící diakrtika**: hra má řadu fontů, které nepodporují českou diakritiku, proto některé přeložené texty bez diakritiky
+* **nepřeložené texty**: některá interface (např. starmapa s plánováním cest nebo rozhraní pro kvantové cestování, nastavení chatovacích kanálů aj.) nejsou přizpůsobená pro překlad do žádného jazyka; tyto interface mají texty zakódované přímo v herním kódu a nelze je změnit
+---
 ## Provedené změny
-### verze 0.1 (v přípravě)
-* ASOP terminál: překlad rozhraní pro claimování
+### verze 0.2 (aktuálně v přípravě)
+* hromadné překlady stovky textů
 * velká část těžebního gameplay
+* přidány popisky k libračním bodům ve Stantonu a Pyru
+* přeložena velká část UI zbraní
+* přeložena velká část textů outlaw komentů, dialogů atd.
+* "stroj" změněno na "vozidlo"
+
+### verze 0.1
+* ASOP terminál: překlad rozhraní pro claimování
 * přeložen dialog pro ukončení hry
 * inventář: přeloženo rozhraní
 * mobiGlas: přeloženo rozhraní pro majáky (beacons) a texty ke všem typům majáků: medical, combat, escort, transport, rescue
