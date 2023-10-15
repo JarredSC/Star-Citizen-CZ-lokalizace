@@ -45,7 +45,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **divný překlad**: některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál
 ---
 ## Provedené změny
-### verze 0.2 (aktuálně v přípravě)
+### verze 0.2a
 * hromadné překlady stovky textů
 * velká část těžebního gameplay
 * přidány popisky k libračním bodům ve Stantonu a Pyru
