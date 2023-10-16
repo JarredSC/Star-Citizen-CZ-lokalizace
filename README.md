@@ -37,6 +37,9 @@
 **Je možné lokalizaci použít i na PTU?**
   > Možné to je. Mějte ale na paměti, že herní soubory na PTU obvykle obsahují nový obsah s novými texty, které `global.ini` soubor pro LIVE verzi ještě nepokrývá.
 
+**Jak si mohu nastavit ve hře titulky?**
+  > Ve hře otevřte dialog `Možnosti`. Zde na záložce `HERNÍ NASTAVENÍ` nejdete tři možnosti: `Povolit titulky`, `Titulky dialogů` a `Titulky audia kokpitu`.
+
 ---
 ## Přispěvatelé
 * Jarred
@@ -58,6 +61,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### připravovaná verze
 * opravy chyb
 * stovky malých překladů a úprav
+* doplněna řada překladů popisků lokací
+* překlad skupiny misí
+* překlad skupiny popisků pro zbraně
+* přeložena další skupina titulků (jak nastavit titulky najdete v sekci `Otázky a odpovědi`.
 
 ### verze 0.2a
 * hromadné překlady stovky textů
