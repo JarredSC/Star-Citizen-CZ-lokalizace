@@ -57,8 +57,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **divný překlad**: některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
-## verze 0.2b
-### připravovaná verze
+## Změny
+### verze 0.2b
 * úpravy diakritiky (především pro interní práci)
 * přeloženy popisky řady lodi
 * přeloženy části UI Delphi
