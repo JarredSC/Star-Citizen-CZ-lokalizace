@@ -57,14 +57,21 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **divný překlad**: některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
-## Provedené změny
+## verze 0.2b
 ### připravovaná verze
+* úpravy diakritiky (především pro interní práci)
+* přeloženy popisky řady lodi
+* přeloženy části UI Delphi
+* většina UI, příručky, mise a popisky ve vězení Klescher
+* popisky některých planet a Jumppointu do budoucna
+* hromada drobných úprav, překlad interakci, pitíček v baru a části nastaveni (keybindy a settings)
 * opravy chyb
 * stovky malých překladů a úprav
 * doplněna řada překladů popisků lokací
 * překlad skupiny misí
 * překlad skupiny popisků pro zbraně
 * přeložena další skupina titulků (jak nastavit titulky najdete v sekci `Otázky a odpovědi`.
+* Carrac výtahy
 
 ### verze 0.2a
 * hromadné překlady stovky textů
