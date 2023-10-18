@@ -58,17 +58,18 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### připravovaná verze 0.2c
+### verze 0.2c
 * opravy chyb
 * přeloženy popisky všech zbraní od společnosti Behring
-* přeložena část PI Wanted misí
+* přeložena celá PI Wanted mise (projde korekcí)
+* přeloženy tři mise na derelict Reclaimerech (Sieze the Data, Failed Negotiations a Brech and Steal)
 * přeložena část pause menu
 * přeloženy popisky části lokalit ve Stantonu a většiny platforem Crusaderu
 * přeložy mise Olympus Principal - Černá skřínka; Hledání klienta; Zeta-Prolanide
 * Přeloženy ilegální salvage mise od Tar Pits
 * přeloženy vybrané salvage popisky
 * přeloženy všechny popisky k lodím a vozidlům
-* přeloženy všechny popisky k novým předmětům pro verzi 3.21
+* přeloženy všechny popisky k většině nových předmětů pro verzi 3.21
 
 ### verze 0.2b
 * úpravy diakritiky (především pro interní práci)
