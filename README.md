@@ -68,6 +68,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * Přeloženy ilegální salvage mise od Tar Pits
 * přeloženy vybrané salvage popisky
 * přeloženy všechny popisky k lodím a vozidlům
+* přeloženy všechny popisky k novým předmětům pro verzi 3.21
 
 ### verze 0.2b
 * úpravy diakritiky (především pro interní práci)
