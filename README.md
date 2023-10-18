@@ -1,5 +1,5 @@
 # Star Citizen lokalizace
-🚧 Toto je rozpracovaná verze neoficiální překladu hry Star Citizen, na které se stále pracuje.
+🚧 Toto je rozpracovaná verze neoficiálního překladu hry Star Citizen, na které se stále pracuje.
 
 ⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
