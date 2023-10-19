@@ -60,7 +60,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze (3a)
 * přeloženy zbraně od poslečností: FireStorm Kinetics, Broad & Rabiee, Esperia, Gallenson Tactical Systems
-* přeložena iterakce, oznámení a popisky pro Data Heist misi ve verzi 3.21
+* přeložena iterakce, oznámení a popisky pro Data Heist misi ve verzi 3.21.X
 
 ### verze 0.2c
 * opravy chyb
