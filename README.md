@@ -59,7 +59,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### verze 0.3
-* přeložeby maintenance general mise - odvoz odpadu
+* přeloženy maintenance general mise - odvoz odpadu
 * přeloženy certifikační mise Bounty Hunters Guild
 * přeloženy typy misí Facility Sweep a Bounty Collection od Hurston Dynamics
 * přeložena iterakce, oznámení a popisky pro Data Heist misi ve verzi 3.21.X
