@@ -61,15 +61,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### verze 0.3
 * přeložeby maintenance general mise - odvoz odpadu
 * přeloženy certifikační mise Bounty Hunters Guild
-* přeložebny typy misí Facility Sweep a Bounty Collection od Hurston Dynamics
+* přeloženy typy misí Facility Sweep a Bounty Collection od Hurston Dynamics
 * přeložena iterakce, oznámení a popisky pro Data Heist misi ve verzi 3.21.X
 * přeloženy zbraně od poslečností: FireStorm Kinetics, Broad & Rabiee, Esperia, Gallenson Tactical Systems
-* prelozeny popisky a vybrané názvy komodit, které lze přeprodat (některé i do budoucna), vc. harvestables - blue bilva aj.
+* přeloženy popisky a vybrané názvy komodit, které lze přeprodat (některé i do budoucna), vc. harvestables - blue bilva aj.
 * překlad titulků monologů hlášení v nemocnici Maria Pure of Heart
 * přeložena část vypínání/hackování Comm Array
 * přeloženy záznamy v deníku k jurisdikcím s popisem
 * přeložena aplikace mo.trader
-* přeložeby warning hlášky/texty v lodích
+* přeloženy warning hlášky/texty v lodích
 * přeložena většina textu a značek pro XenoThreat event (pozn. titulky k monologům SAIC Dulli budou později)
 * kvůli současné chybějící podpoře diakrtiky v Klecheru, byla v této lokalitě všude odstraněna diakritika
 * nasazen strojový překlad části NPC hlášek a rozhovorů nejen v misích (bude průběžně revidováno)
