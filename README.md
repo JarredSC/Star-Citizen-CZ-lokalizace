@@ -60,6 +60,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze
 * přeloženy zbraně od společnosti Gemini
+* přeloženy zásobníky a munice ke zbraním
 
 ### verze 0.3
 * přeloženy maintenance general mise - odvoz odpadu
