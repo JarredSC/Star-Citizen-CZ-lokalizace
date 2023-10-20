@@ -58,6 +58,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### připravovaná verze
+* přeloženy zbraně od společnosti Gemini
+
 ### verze 0.3
 * přeloženy maintenance general mise - odvoz odpadu
 * přeloženy certifikační mise Bounty Hunters Guild
