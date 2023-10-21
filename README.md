@@ -59,7 +59,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### připravovaná verze
-* přeloženy zbraně od společnosti Gemini, Hedeby Gunworks
+* přeloženy zbraně od společnosti Gemini, Hedeby Gunworks, Hurston Dynamics
 * přeloženy zásobníky a munice ke zbraním
 * přeloženy všechny parametry začínající "bounty" určené převážně během plnění bounty misí
 * opravy chyb
