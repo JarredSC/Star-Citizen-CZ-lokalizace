@@ -60,6 +60,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze
 * přeloženy Red Wind mise
+* přeloženy Research mise se sondami
 * přeloženy zbraně od společnosti Gemini, Hedeby Gunworks, Hurston Dynamics, Joker Engineering, KnightBridge Arms
 * přeloženy zásobníky a munice ke zbraním
 * přeloženy všechny parametry začínající "bounty" určené převážně během plnění bounty misí
