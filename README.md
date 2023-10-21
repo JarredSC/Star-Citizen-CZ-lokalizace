@@ -4,14 +4,14 @@
 ⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
 ---
-## Návod pro instalaci (automatická)
+## INSTALACE (automatická)
 1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V1.cmd](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/main/instalace/Star_Citizen_-_Instalator_jazyku-V1.cmd)
     > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu a nastaví `user.cfg` soubor. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod](instalace/Star_Citizen_-_Instalator_jazyku-V1.cmd).
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
 3. Po dokončení instalace můžete začít hrát!
 
-## Návod pro instalaci (manuální)
+## INSTALACE (manuální)
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
 2. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
