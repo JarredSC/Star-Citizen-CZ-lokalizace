@@ -62,6 +62,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy zbraně od společnosti Gemini
 * přeloženy zásobníky a munice ke zbraním
 * přeloženy všechny parametry začínající "bounty" určené převážně během plnění bounty misí
+* opravy chyb
 
 ### verze 0.3
 * přeloženy maintenance general mise - odvoz odpadu
