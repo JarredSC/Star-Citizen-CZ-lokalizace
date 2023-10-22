@@ -58,13 +58,26 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### připravovaná verze
+### verze 0.4
 * přeloženy Red Wind mise
 * přeloženy Research mise se sondami
 * přeloženy zbraně od společnosti Gemini, Hedeby Gunworks, Hurston Dynamics, Joker Engineering, KnightBridge Arms
 * přeloženy zásobníky a munice ke zbraním
 * přeloženy všechny parametry začínající "bounty" určené převážně během plnění bounty misí
-* opravy chyb
+* přeloženy role posádky (pro investigační mise)
+* přeloženy popisky investigačních misí (hledání posádky)
+* přeloženy další části HUDu (např.: v bezvědomí)
+* přeloženo UI rafinačního kiosku
+* přeloženo UI automatu na deliverky
+* přeložena většina legálních a nelegálních black box misí
+* přeložena mise UGENT: Boarding in Progress - 890J
+* přeloženo UI kiosku na pokuty
+* přeložena další část Journalu v mobiGlasu + korekce
+* korekce mise P.I. Wanted
+* přeložena většina HUDu pro Salvage a filler
+* přeložen deposit kiosek ve vězení
+* přeložena "Price of Freedom" mise od Twitch
+* opravy chyb, další korekce a drobné překlady
 
 ### verze 0.3
 * přeloženy maintenance general mise - odvoz odpadu
