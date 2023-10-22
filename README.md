@@ -5,7 +5,7 @@
 
 ---
 ## INSTALACE (automatická)
-1. Stáhněte si instalační script: <a id="raw-url" href="https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/main/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd">Download FILE</a>
+1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V2.cmd](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/main/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd)
     > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu, nastaví `user.cfg` soubor a vymění EasyAntiCheat obrázek, který se zobrazuje při spouštění hry. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod]([instalace/Star_Citizen_-_Instalator_jazyku-V1.cmd](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/3bbf059a7ed11101d8ef9f41e9f89a51fde150a7/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd)).
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
