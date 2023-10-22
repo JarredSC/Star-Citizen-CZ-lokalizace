@@ -70,7 +70,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženo UI rafinačního kiosku
 * přeloženo UI automatu na deliverky
 * přeložena většina legálních a nelegálních black box misí
-* přeložena mise UGENT: Boarding in Progress - 890J
+* přeložena mise URGENT: Boarding in Progress - 890J
 * přeloženo UI kiosku na pokuty
 * přeložena další část Journalu v mobiGlasu + korekce
 * korekce mise P.I. Wanted
