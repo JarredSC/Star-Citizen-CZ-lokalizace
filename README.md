@@ -16,6 +16,7 @@
 2. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
 3. V herním adresáři `\StarCitizen\LIVE\` poté editujte soubor `user.cfg`.
+    > Pokud vám soubor `user.cfg` chybí, můžete jej vytvořit jako nový textový soubor, který pojmenujete přesně jako `user.cfg`.
     > Pokud chcete použít lokalizaci na PTU, musíte soubor `user.cfg` editovat v adresáři `\StarCitizen\PTU\`.
 4. Do tohoto souboru vložte nový řádek: `g_language = english` a změnu uložte.
 5. To je vše, můžete začít hrát!
