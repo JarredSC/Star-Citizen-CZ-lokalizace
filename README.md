@@ -61,8 +61,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### připravovaná verze
+
+### verze 0.4b
+* nový splash screen EAC - v0.4b
 * přeloženy zbraně od společností Klaus & Werner, Kruger Intergalactic a Kroneg
-* přeloženy popisky K Hurston Dynamics misím: Eliminate Blade a Halt Illegal Surveillance
+* přeloženy popisky k Hurston Dynamics misím: Eliminate Blade a Halt Illegal Surveillance
+* přeloženy všechny texty k misím od Twitch (meet, intro, stash, steal evidence, eliminace)
+* přeloženy všechny info tabule na Orisonu (historie) + tabule s popisem lodí v Crusader Showroom
+* dopřeloženo UI medical kiosků (med bed, med výtah)
+* přeloženy názvy a popisky většiny itemů pro mise
 
 ### verze 0.4a
 * tato verze neobsahuje žádné změny v global.ini souboru, přidává pouze "SplashScreen.png" pro EasyAntiCheat - upravený obrázek, který lze vidět během načítání hry v procesu spouštění AntiCheatu (brzy se bude vkládat sám pomocí installeru nebo si ho můžete vložit ručně do složky EasyAntiCheat v instalační složce LIVE nebo PTU)
