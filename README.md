@@ -62,6 +62,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze
 * přeloženy zbraně od společností Klaus & Werner, Kruger Intergalactic a Kroneg
+* přeloženy popisky K Hurston Dynamics misím: Eliminate Blade a Halt Illegal Surveillance
 
 ### verze 0.4a
 * tato verze neobsahuje žádné změny v global.ini souboru, přidává pouze "SplashScreen.png" pro EasyAntiCheat - upravený obrázek, který lze vidět během načítání hry v procesu spouštění AntiCheatu (brzy se bude vkládat sám pomocí installeru nebo si ho můžete vložit ručně do složky EasyAntiCheat v instalační složce LIVE nebo PTU)
