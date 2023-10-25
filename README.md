@@ -62,6 +62,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze
 * překlad armorů od RRS
+* překlad první sady misí od Covalexu
 
 ### verze 0.4b
 * nový splash screen EAC - v0.4b
