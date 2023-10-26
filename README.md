@@ -64,6 +64,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * překlad popisků zbraní od Kastak Arms
 * překlad armorů od RRS
 * překlad první sady misí od Covalexu
+* překlad různých popisků pro Pyro
+* překlad Refueling UI Starfarera
+* překlad další části UI + HUD (sken, QT, mining)
+* překlad repair a hack mise Comm-Array + UI panelu na hack
+* přaklad textů a popisků IAE
+* překlad komunikace poručíků ze SoO v datapadech a mobi
+* překlad UI a HUD pro Hull-C nakládání
+* překlad většiny popisků lokací misí
+* drobné překlady, opravy a diakritika
 
 ### verze 0.4b
 * nový splash screen EAC - v0.4b
