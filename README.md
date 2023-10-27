@@ -73,7 +73,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * překlad UI a HUD pro Hull-C nakládání
 * překlad většiny popisků lokací misí
 * přeloženy mise kolem ArcCorpu (BlacJac - narkotika, bounty, consignment, mercenary a další)
-* přeloženy texty s historií Crusaderu
 * drobné překlady, opravy a diakritika
 
 ### verze 0.4b
