@@ -61,6 +61,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### připravovaná verze
+
+### verze 0.4c
 * překlad popisků zbraní od Kastak Arms
 * překlad armorů od RRS
 * překlad první sady misí od Covalexu
