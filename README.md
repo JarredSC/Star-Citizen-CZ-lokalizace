@@ -62,7 +62,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### připravovaná verze
 * [TECH-PREVIEW] přeloženy popisky lokací a odkazy na ně
-* [TECH-PREVIEW] přeloženy vybrané mise od XenoThreat
+* [TECH-PREVIEW] přeloženo 10 misí od XenoThreat
+* [TECH-PREVIEW] přeloženo 15 misí od Občané za Pyro (Citizens for Pyro)
 
 ### verze 0.4d
 * přidány parametry pro soustavu Pyro (netýká se překladu)
