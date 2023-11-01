@@ -60,7 +60,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### připravovaná verze
+### 0.4e
 * [TECH-PREVIEW] přeloženy popisky lokací a odkazy na ně
 * [TECH-PREVIEW] přeloženo 10 misí od XenoThreat
 * [TECH-PREVIEW] přeloženo 15 misí od Občané za Pyro (Citizens for Pyro)
