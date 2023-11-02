@@ -60,6 +60,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### 0.4f
+* [EPTU] přeloženy dodatečné popisky pro Data Heist
+* [TECH-PREVIEW] přeloženo 19 misí od Headhunterů
+* [TECH-PREVIEW] přeloženo 10 misí od Rough & Ready
+* [TECH-PREVIEW] přeloženy 4 mise od XenoThreat
+
 ### 0.4e
 * [TECH-PREVIEW] přeloženy popisky lokací a odkazy na ně
 * [TECH-PREVIEW] přeloženo 10 misí od XenoThreat
