@@ -60,7 +60,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### připravovaná verze
+### 0.4g | 04-11-2023
 * [LIVE] opravy nahlášených chby
 * [EPTU] přeloženy nové Data Heist mise a doprovodné texty
 * [TECH-PREVIEW] přeloženo 6 misí od Headhunterů
