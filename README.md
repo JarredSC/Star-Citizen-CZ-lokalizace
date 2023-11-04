@@ -61,6 +61,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### připravovaná verze
+* [LIVE] opravy nahlášených chby
+* [EPTU] přeloženy nové Data Heist mise a doprovodné texty
 * [TECH-PREVIEW] přeloženo 6 misí od Headhunterů
 * [TECH-PREVIEW] přeloženo 6 misí od Rough & Ready
 * [TECH-PREVIEW] přeloženy tři mise od XenoThreat
