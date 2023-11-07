@@ -60,6 +60,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### připravovaná verze 0.4h
+* opravy chyb
+* úpravy textů ve zdravotnických zařízení
+* [EPTU] aktualizace parametrů pro tutoriál, který nově funguje i pro New Babbage
+* přeloženy parametry k eventu Siege of Orison
+
 ### 0.4g | 04-11-2023
 * [LIVE] opravy nahlášených chby
 * [EPTU] přeloženy nové Data Heist mise a doprovodné texty
