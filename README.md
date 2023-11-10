@@ -60,11 +60,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### připravovaná verze 0.4h
-* přeloženy popisky zbraní od Lightning Bolt Co.
-* opravy chyb
-* úpravy textů ve zdravotnických zařízení
-* přeloženy parametry k eventu Siege of Orison
+### připravovaná verze 0.5a
+* [LIVE] přeložeby legal spacecargo mise
+* [LIVE] přeloženy popisky zbraní od Lightning Bolt Co.
+* [LIVE] přeloženy popisky na New Babbage
+* [LIVE] opravy chyb
+* [LIVE] úpravy textů ve zdravotnických zařízení
+* [LIVE/EPTU] přeloženy parametry k eventu Siege of Orison
+* [LIVE] přeloženy stovky drobných textů
 * [EPTU] aktualizace parametrů pro tutoriál, který nově funguje i pro New Babbage
 
 ### 0.4g | 04-11-2023
