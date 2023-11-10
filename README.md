@@ -66,8 +66,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [LIVE] přeloženy popisky na New Babbage
 * [LIVE] opravy chyb
 * [LIVE] úpravy textů ve zdravotnických zařízení
-* [LIVE/EPTU] přeloženy parametry k eventu Siege of Orison
 * [LIVE] přeloženy stovky drobných textů
+* [LIVE/EPTU] přeloženy parametry k eventu Siege of Orison
 * [EPTU] aktualizace parametrů pro tutoriál, který nově funguje i pro New Babbage
 
 ### 0.4g | 04-11-2023
