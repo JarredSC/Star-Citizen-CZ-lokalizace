@@ -61,7 +61,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### připravovaná verze 0.5a
-* [LIVE] přeložeby legal spacecargo mise
+* [LIVE] přeložeby mise _Cargo Recovery_, _Cargo Retrieval_, _Cargo Salvage_, _Cargo Collection_, _Retrieval Needed_, _Lost Cargo_, _Cargo Assist_, _Shipment Lost_, _Need a Hand_, _Lost in Space_
 * [LIVE] přeloženy popisky zbraní od Lightning Bolt Co.
 * [LIVE] přeloženy popisky na New Babbage
 * [LIVE] opravy chyb
