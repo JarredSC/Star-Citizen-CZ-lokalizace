@@ -66,7 +66,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy nové zbraně pro IAE 2953 a Luminalia
 * přeloženy nové skiny pro IAE 2953 a Luminalia
 * přeloženy nové kusy oblečení a armoru pro IAE 2953 a Luminalia
-* přeloženy nové dárky pro letoční Luminalii
+* přeloženy nové dárky pro letošní Luminalii
 * přeloženy nadcházející subscriber flairy
 * přeloženy popisky RR stanic, zbylých stanic v Pyru, popisků planet a míst v budoucích soustavách, outpostů a lokací ve Stantonu
 * přeloženy úkoly (objectives) u dalších Covalex misí v Gundo stanici
