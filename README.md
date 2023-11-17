@@ -82,7 +82,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [EPTU] aktualizace parametrů pro tutoriál, který nově funguje i pro New Babbage
 
 ### 0.4g | 04-11-2023
-* [LIVE] opravy nahlášených chby
+* [LIVE] opravy nahlášených chyby
 * [EPTU] přeloženy nové Data Heist mise a doprovodné texty
 * [TECH-PREVIEW] přeloženo 6 misí od Headhunterů
 * [TECH-PREVIEW] přeloženo 6 misí od Rough & Ready
