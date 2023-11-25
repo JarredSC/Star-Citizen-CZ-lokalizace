@@ -60,6 +60,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### 0.5c | 25-11-2023
+* přeloženy další Covalex mise
+* přeloženy reakce spojené s reputací u Covalex Shipping
+* oprava hromady nahlášených chyb
+* 
 ### 0.5b | 17-11-2023
 * přeloženy texty pro IAE 2953
 * přeloženy mise pro Luminalii
