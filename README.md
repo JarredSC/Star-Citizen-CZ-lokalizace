@@ -60,6 +60,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### 0.5d | 09-12-2023
+* [EPTU] přeloženy všechny nové texty pro verzi 3.22.0
+* [LIVE] přeloženy veškeré zobrazované údaje i nápovědy při skenování (lodě, těžba)
+* [LIVE] přeloženy zbývající části textů u zdravotnických zařízení
+* [LIVE] přeloženy nové "assassin" mise přidané ve verzi 3.21.1
+* [LIVE] překlady různých textů napříč hrou
+
 ### 0.5c | 25-11-2023
 * přeloženy další Covalex mise
 * přeloženy reakce spojené s reputací u Covalex Shipping
