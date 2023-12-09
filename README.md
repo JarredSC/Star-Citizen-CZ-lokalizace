@@ -66,6 +66,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [LIVE] přeloženy zbývající části textů u zdravotnických zařízení
 * [LIVE] přeloženy nové "assassin" mise přidané ve verzi 3.21.1
 * [LIVE] překlady různých textů napříč hrou
+* opravy nahlášených chyb
 
 ### 0.5c | 25-11-2023
 * přeloženy další Covalex mise
