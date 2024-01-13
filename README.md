@@ -62,6 +62,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.5f | v přípravě
 * upraveno nebo doplněno na 200 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků, opravy chyb aj.)
+  * hinty v tutoriálu
+  * texty pro mise na Crusader platformách
+  * popisky ke zbraním
+  * popisky ke stanicím v soustavě Pyro
+  * popisky k různým misím aj.
 
 ### 0.5e | 09-18-2023
 * [LIVE] přeloženy nové texty přidané s poslední verzí pro 3.22.0
