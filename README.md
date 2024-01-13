@@ -70,6 +70,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy mise:
   * Recovery Contract, Vault Extraction, Safe Retrieval, Secure Retrieval ze skupiny "constantine_recoverysafe"
   * Delivery Pilot for Covalex, Frustrated with Covalex, Complete Delivery Order, Finish Covalex Delivery, Need My Package Found, Waiting On My Package, Personal Effects, Help Me Get My Stuff Back, Unexpected Inheritance, A Mother's Plea, Looking for Closure, My Dad's Stuff
+  * set misí Extermination Job (criminal base sweep)
+  * set misí No Proof, No Problem (criminal blackbox recover)
+  * set misí Supply Re-Up (criminal local delivery)
+ * drobné překlady
 
 ### 0.5e | 09-18-2023
 * [LIVE] přeloženy nové texty přidané s poslední verzí pro 3.22.0
