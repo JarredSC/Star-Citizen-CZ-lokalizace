@@ -67,6 +67,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * popisky ke zbraním
   * popisky ke stanicím v soustavě Pyro
   * popisky k různým misím aj.
+* přeloženy mise:
+  * Recovery Contract, Vault Extraction, Safe Retrieval, Secure Retrieval ze skupiny "constantine_recoverysafe"
+  * Delivery Pilot for Covalex, Frustrated with Covalex, Complete Delivery Order, Finish Covalex Delivery, Need My Package Found, Waiting On My Package, Personal Effects, Help Me Get My Stuff Back, Unexpected Inheritance, A Mother's Plea, Looking for Closure, My Dad's Stuff
 
 ### 0.5e | 09-18-2023
 * [LIVE] přeloženy nové texty přidané s poslední verzí pro 3.22.0
