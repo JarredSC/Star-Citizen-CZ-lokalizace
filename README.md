@@ -73,6 +73,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * set misí Extermination Job (criminal base sweep)
   * set misí No Proof, No Problem (criminal blackbox recover)
   * set misí Supply Re-Up (criminal local delivery)
+  * mise Recover Stolen Property, Retrieve Property From Thief, Reclaim Stolen Items, Stolen Goods Found, Property Retrieval a Thief Located (recover stolen space mise)
+  * Recover Property, Property Retrieval, Property Reclamation, Stolen Goods Located, Retrieve Stolen Property a Stolen Property Found (recover stolen mise)
+ * překlad infa k reputaci Wildstar Racing
  * drobné překlady
 
 ### 0.5e | 09-18-2023
@@ -91,7 +94,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy další Covalex mise
 * přeloženy reakce spojené s reputací u Covalex Shipping
 * oprava hromady nahlášených chyb
-* 
+  
 ### 0.5b | 17-11-2023
 * přeloženy texty pro IAE 2953
 * přeloženy mise pro Luminalii
