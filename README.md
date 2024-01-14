@@ -67,14 +67,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * popisky ke zbraním
   * popisky ke stanicím v soustavě Pyro
   * popisky k různým misím aj.
-* přeloženy mise:
-  * Recovery Contract, Vault Extraction, Safe Retrieval, Secure Retrieval ze skupiny "constantine_recoverysafe"
-  * Delivery Pilot for Covalex, Frustrated with Covalex, Complete Delivery Order, Finish Covalex Delivery, Need My Package Found, Waiting On My Package, Personal Effects, Help Me Get My Stuff Back, Unexpected Inheritance, A Mother's Plea, Looking for Closure, My Dad's Stuff
-  * set misí Extermination Job (criminal base sweep)
-  * set misí No Proof, No Problem (criminal blackbox recover)
-  * set misí Supply Re-Up (criminal local delivery)
-  * mise Recover Stolen Property, Retrieve Property From Thief, Reclaim Stolen Items, Stolen Goods Found, Property Retrieval a Thief Located (recover stolen space mise)
-  * Recover Property, Property Retrieval, Property Reclamation, Stolen Goods Located, Retrieve Stolen Property a Stolen Property Found (recover stolen mise)
+* **přeloženy mise**:
+  * mise Recovery Contract, Vault Extraction, Safe Retrieval, Secure Retrieval ze skupiny "constantine_recoverysafe"
+  * mise Recover Property, Property Retrieval, Property Reclamation, Stolen Goods Located, Retrieve Stolen Property a Stolen Property Found ze skupiny "recoverstolen"
+  * mise Recover Stolen Property, Retrieve Property From Thief, Reclaim Stolen Items, Stolen Goods Found, Property Retrieval a Thief Located ze skupiny "recoverstolen_space"
+  * mise Delivery Pilot for Covalex, Frustrated with Covalex, Complete Delivery Order, Finish Covalex Delivery, Need My Package Found, Waiting On My Package, Personal Effects, Help Me Get My Stuff Back, Unexpected Inheritance, A Mother's Plea, Looking for Closure, My Dad's Stuff ze skupiny "covalex_delivery"
+  * set misí Extermination Job ze skupiny "criminal_basesweep
+  * set misí No Proof, No Problem ze skupiny "criminal_blackbox_recover"
+  * set misí Supply Re-Up ze skupiny "criminal_local_delivery"
  * překlad infa k reputaci Wildstar Racing
  * drobné překlady
 
