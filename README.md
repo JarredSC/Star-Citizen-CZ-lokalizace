@@ -77,6 +77,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * set misí Supply Re-Up ze skupiny "criminal_local_delivery"
  * překlad infa k reputaci Wildstar Racing
  * drobné překlady
+* přeloženy popisky ke 101 košilím a tričkům
+
 
 ### 0.5e | 09-18-2023
 * [LIVE] přeloženy nové texty přidané s poslední verzí pro 3.22.0
