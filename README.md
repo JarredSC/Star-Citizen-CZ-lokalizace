@@ -76,7 +76,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * set misí No Proof, No Problem ze skupiny "criminal_blackbox_recover"
   * set misí Supply Re-Up ze skupiny "criminal_local_delivery"
  * překlad infa k reputaci Wildstar Racing
- * přeloženy popisky ke 105 košilím a tričkům
+ * přeloženo kompletních 105 unikáních popisků ke košilím a tričkům
+ * přeloženo kompletních 27 unikátních popisků k rukavicím
+ *přeloženy kompletní nátěry pro:
+    * lodě Hawk (6), Herald (3) Vulture (11)
  * drobné překlady
 
 
