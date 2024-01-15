@@ -76,8 +76,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * set misí No Proof, No Problem ze skupiny "criminal_blackbox_recover"
   * set misí Supply Re-Up ze skupiny "criminal_local_delivery"
  * překlad infa k reputaci Wildstar Racing
+ * přeloženy popisky ke 105 košilím a tričkům
  * drobné překlady
-* přeloženy popisky ke 101 košilím a tričkům
 
 
 ### 0.5e | 09-18-2023
