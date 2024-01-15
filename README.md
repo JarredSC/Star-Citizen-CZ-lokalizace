@@ -78,8 +78,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
  * překlad infa k reputaci Wildstar Racing
  * přeloženo kompletních 105 unikáních popisků ke košilím a tričkům
  * přeloženo kompletních 27 unikátních popisků k rukavicím
- *přeloženy kompletní nátěry pro:
-    * lodě Hawk (6), Herald (3) Vulture (11)
+ * přeloženy kompletní nátěry pro:
+  * lodě Hawk (6), Herald (3) Vulture (11)
  * drobné překlady
 
 
