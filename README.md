@@ -83,6 +83,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
      * vozidla Centurion (3), Cyclone (14), Lynx (3), Mule (5), Nova (6), PTV (6)
      * gravlevy Dragonfly (7), HoverQuad (7), Nox (9)
      * mobiglas
+ * přeloežny parametry k Jumptown 2
  * drobné překlady
 
 
