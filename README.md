@@ -80,8 +80,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
  * přeloženo kompletních 105 unikáních popisků ke košilím a tričkům
  * přeloženo kompletních 27 unikátních popisků k rukavicím
  * přeloženy barevné varianty pro:
-     * lodě 100 (13), 400i (10), 600i (8), Arrow (6), Aurora (19), Avenger (11), Buccaneer (3), C8(R) (8), Carrack (9), Caterpillar (7), Constellation (8), Corsair (6), Cutlass (9), Cutter (17), Defender (6), Eclipse (4), Freelancer (7), Fury (6), Fury LX (3), Gladius (7), Hammerhead (4), Hawk (6), Herald (3), Hornet (3), Hull (6), Hurricane (4), F8 (2), M50 (2), Mantis (2), Merlin (1), MOLE (6), MPUV (2), Mustang (9), Nomad (9), Prospector (9), Prowler (5), Raft (5), Razor (6), Reclaimer (3), Redeemer (8), série 300 (24), Vulture (11)
-     * vozidla Centurion (3), Cyclone (14), Lynx (3), Mule (5), Nova (6), PTV (6)
+     * lodě 100 (13), 400i (10), 600i (8), Ares (12), Arrow (6), Aurora (19), Avenger (11), Buccaneer (3), C8(R) (8), Carrack (9), Caterpillar (7), Constellation (8), Corsair (6), Cutlass (9), Cutter (17), Defender (6), Eclipse (4), Freelancer (7), Fury (6), Fury LX (3), Gladius (7), Hammerhead (4), Hawk (6), Herald (3), Hornet (3), Hull (6), Hurricane (4), F8 (2), M50 (2), Mantis (2), Merlin (1), MOLE (6), MPUV (2), MSR (11), Mustang (9), Nomad (9), Prospector (9), Prowler (5), Raft (5), Razor (6), Reclaimer (3), Redeemer (8), Reliant (6), Retaliator (3), Saber (3), San'tok.yāi (3), Scorpius (10), Scout (4), série 300 (24), Spirit (10), SRV (4), Starfarer (4), Vulture (11)
+     * vozidla Centurion (3), Cyclone (14), Lynx (3), Mule (5), Nova (6), PTV (6), ROC(-DS) (7), Spartan (5)
      * gravlevy Dragonfly (7), HoverQuad (7), Nox (9)
      * mobiglas
  * přeloežny parametry k Jumptown 2
