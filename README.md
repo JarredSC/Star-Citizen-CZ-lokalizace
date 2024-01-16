@@ -79,7 +79,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
  * přeloženo kompletních 105 unikáních popisků ke košilím a tričkům
  * přeloženo kompletních 27 unikátních popisků k rukavicím
  * přeloženy kompletní nátěry pro:
-     * lodě Cutter (17), Fury (6), Fury LX (3), Gladius (7), Hawk (6), Herald (3), HoverQuad (7), Vulture (11)
+     * lodě 100 (13), 400i (10), 600i (8), Arrow (6), Aurora (14), Avenger (11), Cutter (17), Fury (6), Fury LX (3), Gladius (7), Hawk (6), Herald (3), HoverQuad (7), Vulture (11)
  * drobné překlady
 
 
