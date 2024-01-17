@@ -73,6 +73,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * mise Recover Stolen Property, Retrieve Property From Thief, Reclaim Stolen Items, Stolen Goods Found, Property Retrieval a Thief Located ze skupiny "recoverstolen_space"
   * mise Delivery Pilot for Covalex, Frustrated with Covalex, Complete Delivery Order, Finish Covalex Delivery, Need My Package Found, Waiting On My Package, Personal Effects, Help Me Get My Stuff Back, Unexpected Inheritance, A Mother's Plea, Looking for Closure, My Dad's Stuff ze skupiny "covalex_delivery"
   * mise Trespassers Detected at [location], Security Post Breached, [location] Infiltrated, Break In At [location] se skupiny "kareahsweep"
+  * mise future ghost, empty casket, problem elimination, permanent lesson, gone for good, target erased ze skupiny "ruto_assassin"
   * set misí Extermination Job ze skupiny "criminal_basesweep"
   * set misí No Proof, No Problem ze skupiny "criminal_blackbox_recover"
   * set misí Supply Re-Up ze skupiny "criminal_local_delivery"
@@ -85,7 +86,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
      * vozidla Centurion (3), Cyclone (14), Lynx (3), Mule (5), Nova (6), PTV (6), ROC(-DS) (7), Spartan (5), Ursa (2)
      * gravlevy Dragonfly (7), HoverQuad (7), Nox (9)
      * mobiglas
- * přeloežny parametry k Jumptown 2
+ * přeloženy parametry k Jumptown 2
+ * přeloženy popisky generátorů energie (78)
  * drobné překlady
 
 
