@@ -83,6 +83,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
  * přeloženy popisky předmětů:
       * kompletních 105 unikáních popisků ke košilím a tričkům
       * kompletních 27 unikátních popisků k rukavicím
+      * kompletních 56 unikátních popisků k pokrývkám hlavy
       * kompletních 78 popisků pro generátory energie
  * dočasně termíny "paint" a "livery" přeloženy jako "lakování"
  * přeloženy barevné varianty pro:
