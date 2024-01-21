@@ -61,6 +61,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.6 | v přípravě
+* **nový instalátor češtiny do hry**, stahovat můžete zde...
 * upraveno nebo doplněno na 200 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků, opravy chyb aj.)
   * hinty v tutoriálu
   * texty pro mise na Crusader platformách
