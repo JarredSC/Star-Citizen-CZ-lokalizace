@@ -4,7 +4,37 @@
 ⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
 ---
-## INSTALACE (automatická)
+## AUTOMATICKÝ INSTALÁTOR verze 0.3 beta
+Instalátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
+
+[Stáhnout instalátor](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star%20Citizen%20CZ.exe) (*Tento instalační soubor nemá zatím certifikát, proto může váš systém Windows vyžadovat potvrzení pro spuštění.*)
+
+### Základní funkce:
+- detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění)
+- detekce aktuální verze překladu v hlavním repozitáři zde
+- detekce instalované verze překladu (včetně skriptem, či ručně instalovaného překladu)
+- možnost jedním klikem instalovat, aktualizovat nebo odinstalovat překlad
+- možnost otevřít adresář s uloženými screenshoty ze hry
+- možnost zobrazení seznamu změn
+- proklik na komunitní Discord (logo Discord v hlavním okně programu)
+
+### Připravované funkce:
+- zvýraznění či upozornění v případě detekce verze překladu, která je starší, než poslední dostupná verze v repozitáři
+- detekce PTU, EPTU a TECH-PREVIEW kanálů s možností instalace překladu
+- možnost promazání SHADER a USER adresářů
+- možnost spuštění RSI Launcheru či hry přímo z programu
+- možnost aktualizace programu přímo z menu programu
+- automatická aktualizace překladu
+- možnost běhu na pozadí + automatický start (ideální při využití automatických aktualizací překladu)
+- možnost uložení nalezené složky s knihovnou Star Citizen (odpadne nutnost složku vyhledávat po každém spuštění)
+
+### Známé chyby / problémy:
+- instalátor neumí odinstalovat překlad s upraveným user.cfg souborem
+- ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
+
+*Jelikož se jedná o beta verzi, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
+
+## INSTALACE (automatická pomocí skriptu)
 1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V2.cmd](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd) přes pravé tlačítko myši "`Uložit odkaz jako…`".
     > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu, nastaví `user.cfg` soubor a vymění EasyAntiCheat obrázek, který se zobrazuje při spouštění hry. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/d90fec3517d538a939e368cce8ac154cc1685907/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd "instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd").
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
@@ -60,14 +90,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.6 | v přípravě
-* **nový instalátor češtiny do hry**, stahovat můžete zde...
+### 0.6 | 28-01-2024
+* **nový instalátor češtiny do hry**, více informací najdete zde...
 * upraveno nebo doplněno na 200 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků, opravy chyb aj.)
   * hinty v tutoriálu
   * texty pro mise na Crusader platformách
   * popisky ke zbraním (převážně chybně uvedené údaje kadence)
   * popisky ke stanicím v soustavě Pyro
   * popisky k různým misím aj.
+* Přeloženy texty hlášek (140) pro Siege of Orison, zatím ale bez kontextu a prosíme test, zdali dávají smysl.
 * **přeloženy mise**:
   * mise Recovery Contract, Vault Extraction, Safe Retrieval, Secure Retrieval ze skupiny "constantine_recoverysafe"
   * mise Recover Property, Property Retrieval, Property Reclamation, Stolen Goods Located, Retrieve Stolen Property a Stolen Property Found ze skupiny "recoverstolen"
@@ -99,7 +130,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
      * gravlevy Dragonfly (7), HoverQuad (7), Nox (9)
      * mobiglas
  * přeloženy parametry k Jumptown 2
+ * [TECH-PREVIEW] přeloženy nové parametry včetně předmětů pro Red Festival 2954 a nových závodních okruhů
  * drobné překlady
+ * opravy nahlášených chyb (chyby spojené s terminálem KelTo nejsou zahrnuty)
 
 
 ### 0.5e | 09-18-2023
