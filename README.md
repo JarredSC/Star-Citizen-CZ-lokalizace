@@ -77,6 +77,7 @@ Instalátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace 
 * TrionCZ
 * Hawell_cze
 * DarbyScabb
+* Kissman (instalátor)
 * Atisis
 * The_Boogie
 * fid0rka
