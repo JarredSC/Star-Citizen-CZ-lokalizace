@@ -92,7 +92,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.6 | 28-01-2024
-* **nový instalátor češtiny do hry**, více informací najdete zde...
+* **nový instalátor češtiny do hry**, více informací najdete [zde](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#automatick%C3%BD-instal%C3%A1tor-verze-03-beta).
 * upraveno nebo doplněno na 200 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků, opravy chyb aj.)
   * hinty v tutoriálu
   * texty pro mise na Crusader platformách
