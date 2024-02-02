@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy hlášky vendorů
 * přeloženy všechny UI prvky pro připravovaný hacking (ui_hacking_ parametry)
 * přeložena další část objectivů misí
+* přeloženy všechny parametry crus_histmarker (histrorie Crusaderu pro budoucí použití)
 * drobné úpravy textů
 * opravy nahlášených chyb
 
