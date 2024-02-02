@@ -91,6 +91,20 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
+### 0.6a | v přípravě
+* **přeloženy mise**:
+  * mise Ghost Hunter, Obituary, True or False, You See Dead People, Confirmation Needed, Final Goodbye, Last Steps ze skupiny "confirmkill"
+  * mise Property Reclamation, Take Away, Lost and Found, A Light Touch, Floater, Grab 'N Go, Go Fish, Search and Seizure, Appropriation, Procurement ze skupiny "spacecargo_illegal"
+  * mise Five Finger Discount, Take Away, Shopping Spree, Piñata, Smash & Grab, Procurement Job ze skupiny "spacesteal"
+  * set misí Not So Secret Stash ze skupiny "criminal_recoverstash"
+  * set misí Unauthorized Surveillance Detected ze skupiny "crusader_danger"
+  * set misí Remove Claimjumpers ze skupiny "shubin_claimsweep"
+* přeloženy vybrané texty interface pro Arena Commander, mobiGlas, závodní mise a notifikace pro partu
+* přeloženy NPC dialogy pro vybrané mise
+* přeloženy hlášky vendorů
+* drobné úpravy textů
+* opravy nahlášených chyb
+
 ### 0.6 | 28-01-2024
 * **nový instalátor češtiny do hry**, více informací najdete [zde](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#automatick%C3%BD-instal%C3%A1tor-verze-03-beta).
 * upraveno nebo doplněno na 200 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků, opravy chyb aj.)
