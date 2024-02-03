@@ -91,7 +91,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.6a | v přípravě
+### 0.6b | v přípravě
+
+### 0.6a 
 * **přeloženy mise**:
   * mise Ghost Hunter, Obituary, True or False, You See Dead People, Confirmation Needed, Final Goodbye, Last Steps ze skupiny "confirmkill"
   * mise Property Reclamation, Take Away, Lost and Found, A Light Touch, Floater, Grab 'N Go, Go Fish, Search and Seizure, Appropriation, Procurement ze skupiny "spacecargo_illegal"
@@ -103,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy NPC dialogy pro vybrané mise
 * přeloženy hlášky vendorů
 * přeloženy všechny UI prvky pro připravovaný hacking (ui_hacking_ 200 parametrů)
-* přeložena další část objectivů misí
+* přeložena další část objectivů misí a velká část zbytku ea_ui pro arena commander
 * přeloženy všechny parametry crus_histmarker (histrorie Crusaderu pro budoucí použití)
 * drobné úpravy textů
 * opravy nahlášených chyb
