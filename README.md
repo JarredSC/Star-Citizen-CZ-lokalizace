@@ -102,7 +102,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy vybrané texty interface pro Arena Commander, mobiGlas, závodní mise a notifikace pro partu
 * přeloženy NPC dialogy pro vybrané mise
 * přeloženy hlášky vendorů
-* přeloženy všechny UI prvky pro připravovaný hacking (ui_hacking_ parametry)
+* přeloženy všechny UI prvky pro připravovaný hacking (ui_hacking_ 200 parametrů)
 * přeložena další část objectivů misí
 * přeloženy všechny parametry crus_histmarker (histrorie Crusaderu pro budoucí použití)
 * drobné úpravy textů
