@@ -91,13 +91,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.6b | v přípravě
+### 0.6c | v přípravě
 * **dopřeloženo**:
   * parametry input_key (vstupy)
   * parametry kiosk_ui (rozhraní některých kiosků)
   * popisky a objectivy delivery misí pro Ling Family Hauling
   * zbylé texty pro delivery mise s parametry FTL_
   
+### 0.6b | 03-02-2024
+* hotfix písmen v AC
 
 ### 0.6a | 03-02-2024
 * **přeloženy mise**:
