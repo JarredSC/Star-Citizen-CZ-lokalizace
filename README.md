@@ -92,6 +92,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.6b | v přípravě
+* **dopřeloženo**:
+  * parametry input_key (vstupy)
+  * parametry kiosk_ui (rozhraní některých kiosků)
+  * popisky a objectivy delivery misí pro Ling Family Hauling
+  * zbylé texty pro delivery mise s parametry FTL_
+  
 
 ### 0.6a | 03-02-2024
 * **přeloženy mise**:
