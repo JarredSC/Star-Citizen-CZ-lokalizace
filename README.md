@@ -93,6 +93,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.6c | v přípravě
 * **přeloženo**:
+  * mise URGENT: Retake Security Post Kareah
   * nové parametry pro 3.22.1 (HexPenetrator + Arena Commander)
 * **dopřeloženo**:
   * parametry input_key (vstupy)
