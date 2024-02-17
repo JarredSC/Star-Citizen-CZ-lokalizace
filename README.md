@@ -91,7 +91,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.6c | v přípravě
+### 0.6d | v přípravě
+
+### 0.6c | 17-02-2024
 * **přeloženo**:
   * mise URGENT: Retake Security Post Kareah
   * nové parametry pro 3.22.1 (HexPenetrator + Arena Commander)
