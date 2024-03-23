@@ -99,6 +99,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * dočasně odebrán překlad materiálů a komodit kvůli použití externích nástrojů (překlad bude řešen, až budou ve hře dostatečné nástroje pro ekonomiku a ochodování)
 * přeloženy popisky těžebních laserů
 * přeloženy nové parametry pro Hornety F7A Mk II a F7C Mk II verze včetně popisků nových nátěrů
+* drobné úpravy textů
+* opravy nahlášených chyb
 
 ### 0.6c | 17-02-2024
 * **přeloženo**:
