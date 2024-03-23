@@ -91,7 +91,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.6d | v přípravě
+### 0.6e | v priprave
+* 
+
+### 0.6d | 23-03-2024
 * upraveno nebo doplněno 46 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků)
 * dočasně odebrán překlad materiálů a komodit kvůli použití externích nástrojů (překlad bude řešen, až budou ve hře dostatečné nástroje pro ekonomiku a ochodování)
 * přeloženy popisky těžebních laserů
