@@ -93,7 +93,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7 | v priprave
 * přeloženy nové parametry pro verzi alfa 3.23:
-  * ...
+  * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
