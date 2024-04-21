@@ -98,6 +98,23 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * vybrané názvy oblastí na mapě
   * parametry k nové fauně včetně misí
   * parametry k distribučním centrům
+  * mobiGlas:
+    * parametry reputace pro Clovus Darneely, On-Call Area, Dusters, Eckhart Secuirty, Tecia "Twich" Pacheco, UEE Navy, Securty, Kletcher Rehabilitation Facilities, Outlaws
+    * interface pro Contracts, Health, Wallet a hlavní stránku
+  * parametry pro fyzický stav postavy hráče
+  * názvy a popisky speciálních každoročních eventů
+  * Arena Commander:
+    * nové módy a jejich popisky
+  * úvodní obrazovka hry a různá hlášení
+  * parametry k odměnám pro XenoThreat event
+  * HUD:
+    * parametry pro gimbal mód
+    * parametry pro trespassing
+    * interface pro quantum skoky
+    * hlášky pro cargo, jump pointy a ATC
+    * parametry u MDF
+    * parametry pro automatické zaměřování
+  * popisky nových outpostů v Pyru
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
