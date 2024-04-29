@@ -105,11 +105,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * interface pro Contracts, Health, Wallet a hlavní stránku
     * parametry pro fyzický stav postavy hráče
     * popisky ve Starmapě včetně UI a názvů zón
-  * názvy a popisky speciálních každoročních eventů
-  * Arena Commander:
-    * nové módy a jejich popisky
-  * úvodní obrazovka hry a různá hlášení
-  * parametry k odměnám pro XenoThreat event
   * HUD:
     * parametry pro gimbal mód
     * parametry pro trespassing
@@ -117,8 +112,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * hlášky pro cargo, jump pointy a ATC
     * parametry u MDF
     * parametry pro automatické zaměřování
+  * Arena Commander:
+    * nové módy a jejich popisky
+  * názvy a popisky speciálních každoročních eventů
+  * úvodní obrazovka hry a různá hlášení
+  * parametry k odměnám pro XenoThreat event
   * popisky nových outpostů v Pyru
-* desítky řásků textů titulek pro ATC (příprava na pozdější verze), řádky pro nákladní výtahy
+* desítky řádků textů titulek pro ATC (příprava na pozdější verze), řádky pro nákladní výtahy
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
