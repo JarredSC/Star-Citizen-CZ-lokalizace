@@ -120,8 +120,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
-
-* dopřeložení staršách textů z předchozích verzí:
+* dopřeložení starších textů z předchozích verzí:
     * mise na hledání posádky (search crew (20))
     * mise na hledání osoby z vraku (search body (20))
     * názvy misí pro skupinu Vaughn (30)
