@@ -103,7 +103,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * mobiGlas:
     * parametry reputace pro Clovus Darneely, On-Call Area, Dusters, Eckhart Secuirty, Tecia "Twich" Pacheco, UEE Navy, Securty, Kletcher Rehabilitation Facilities, Outlaws
     * interface pro Contracts, Health, Wallet a hlavní stránku
-  * parametry pro fyzický stav postavy hráče
+    * parametry pro fyzický stav postavy hráče
+    * popisky ve Starmapě včetně UI a názvů zón
   * názvy a popisky speciálních každoročních eventů
   * Arena Commander:
     * nové módy a jejich popisky
@@ -117,6 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * parametry u MDF
     * parametry pro automatické zaměřování
   * popisky nových outpostů v Pyru
+* desítky řásků textů titulek pro ATC (příprava na pozdější verze), řádky pro nákladní výtahy
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
