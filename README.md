@@ -121,15 +121,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
 
-* dopřeloženy starší mise:
+* dopřeložení staršách textů z předchozích verzí:
     * mise na hledání posádky (search crew (20))
     * mise na hledání osoby z vraku (search body (20))
     * názvy misí pro skupinu Vaughn (30)
     * manifest pro misi Price of Freedom
     * veškeré popisky a názvy misí pro vyzvednutí balíku z vraku (planetcollect série (300 řádků))
-* přeloženy chybové hlášky nákupních kiosků (52)
-* přeloženy texty v nastavení hry (150 řádků, většina ze starších verzí, část 3.23)
-* přeloženy texty z datapadů vězňů z útěkového koridoru Klescheru (10)
+    * přeloženy chybové hlášky nákupních kiosků (52)
+    * přeloženy texty v nastavení hry (150 řádků, většina ze starších verzí, část 3.23)
+    * přeloženy texty z datapadů vězňů z útěkového koridoru Klescheru (10)
 
 ### 0.6d | 23-03-2024
 * upraveno nebo doplněno 46 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků)
