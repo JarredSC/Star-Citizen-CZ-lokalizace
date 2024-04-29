@@ -91,7 +91,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ---
 ## Změny
-### 0.7 | v priprave
+### 0.7 | v přípravě
 * přeloženy nové parametry pro verzi alfa 3.23:
   * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
   * mise Elusive Bounty, Evasive Bounty, Destroy Contraband, Neutralize Outlaw Incursion, Bounty Located, Eradicate All Nests a Nest Extermination od Hurston Dynamics
@@ -120,6 +120,16 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
 * aktualizace překladu u změněných textů (74)
+
+* dopřeloženy starší mise:
+    * mise na hledání posádky (search crew (20))
+    * mise na hledání osoby z vraku (search body (20))
+    * názvy misí pro skupinu Vaughn (30)
+    * manifest pro misi Price of Freedom
+    * veškeré popisky a názvy misí pro vyzvednutí balíku z vraku (planetcollect série (300 řádků))
+* přeloženy chybové hlášky nákupních kiosků (52)
+* přeloženy texty v nastavení hry (150 řádků, většina ze starších verzí, část 3.23)
+* přeloženy texty z datapadů vězňů z útěkového koridoru Klescheru (10)
 
 ### 0.6d | 23-03-2024
 * upraveno nebo doplněno 46 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků)
