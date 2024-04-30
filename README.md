@@ -100,6 +100,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * vybrané názvy oblastí na mapě
   * parametry k nové fauně včetně misí
   * parametry k distribučním centrům
+  * popisky lodí a nátěrů pro Mirai Pulse a Mirai Pulse LX
   * mobiGlas:
     * parametry reputace pro Clovus Darneely, On-Call Area, Dusters, Eckhart Secuirty, Tecia "Twich" Pacheco, UEE Navy, Securty, Kletcher Rehabilitation Facilities, Outlaws
     * interface pro Contracts, Health, Wallet a hlavní stránku
