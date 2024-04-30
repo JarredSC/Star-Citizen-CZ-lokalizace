@@ -1,7 +1,7 @@
 # Star Citizen lokalizace
 🚧 Toto je rozpracovaná verze neoficiálního překladu hry Star Citizen, na které se stále pracuje.
 
-⚠️ Hra ještě nemá implementované building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
+⚠️ Hra ještě nemá implementované v3echnz building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
 ---
 ## AUTOMATICKÝ INSTALÁTOR verze 0.3 beta
@@ -93,8 +93,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-kompatibilita: LIVE 3.23
 ### 0.7 | v přípravě
+![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)
 * přeloženy nové parametry pro verzi alfa 3.23:
   * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
   * mise Elusive Bounty, Evasive Bounty, Destroy Contraband, Neutralize Outlaw Incursion, Bounty Located, Eradicate All Nests a Nest Extermination od Hurston Dynamics
