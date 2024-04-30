@@ -89,6 +89,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **nepřeložené texty**: některá interface (např. starmapa s plánováním cest nebo rozhraní pro kvantové cestování, nastavení chatovacích kanálů aj.) nejsou přizpůsobená pro překlad do žádného jazyka; tyto interface mají texty zakódované přímo v herním kódu a nelze je změnit
 * **divný překlad**: některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
+### Specifické případy
+* **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
 ### 0.7 | v přípravě
@@ -119,6 +121,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * úvodní obrazovka hry a různá hlášení
   * parametry k odměnám pro XenoThreat event
   * popisky nových outpostů v Pyru
+* Interface:
+  * Úprava některých textů pro interakce, které nově podporují diakritiku
+  * úprava textů u nákupního terminálu, které nově podporují diakrtiku
+  * úprava textů u terminálu na placení pokut, které nově podporují diakritiku a nebo potřebují převod na velká písmena
+  * úáložka "Kup" konečně změněna na "KOUPIT", jelikož s novým UI přišlo rozšíření textového pole
 * desítky řádků textů titulek pro ATC (příprava na pozdější verze), řádky pro nákladní výtahy
 * úpravy mobiGlas nutné po jeho převodu na building bloky:
   * nutno převést všech dostud přeložených názvů misí (271) na kapitálky
