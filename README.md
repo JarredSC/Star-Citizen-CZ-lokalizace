@@ -98,7 +98,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
   * mise Elusive Bounty, Evasive Bounty, Destroy Contraband, Neutralize Outlaw Incursion, Bounty Located, Eradicate All Nests a Nest Extermination od Hurston Dynamics
   * mise Eradicate Illegal Stash, Remove Hostile Force, Apprehend Bounty, Secure Bounty, Active Bounty, Wildlife Population Control, Wildlife Population Management, Wildlife Population Control, Wildlife Control, Whereabouts Unknown a Reported Missing od microTech
-  * 6 misí od Citizen for Pyro (Občané za Pyro) pro soustavu Pyro  
+  * 6 misí od Citizen for Pyro (Občané za Pyro) pro soustavu Pyro
+  * 11 misí od Covalex
   * vybrané názvy oblastí na mapě
   * parametry k nové fauně včetně misí
   * parametry k distribučním centrům
