@@ -93,8 +93,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### 0.7 | v přípravě
+### 0.7 | 01-05-2024
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/EPTU%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 * přeloženy nové parametry pro verzi alfa 3.23:
   * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
   * mise Elusive Bounty, Evasive Bounty, Destroy Contraband, Neutralize Outlaw Incursion, Bounty Located, Eradicate All Nests a Nest Extermination od Hurston Dynamics
@@ -105,6 +106,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * parametry k nové fauně včetně misí
   * parametry k distribučním centrům
   * popisky lodí a nátěrů pro Mirai Pulse a Mirai Pulse LX
+  * parametry pro nový nástroj tvorby postavy
   * mobiGlas:
     * parametry reputace pro Clovus Darneely, On-Call Area, Dusters, Eckhart Secuirty, Tecia "Twich" Pacheco, UEE Navy, Securty, Kletcher Rehabilitation Facilities, Outlaws
     * interface pro Contracts, Health, Wallet a hlavní stránku
@@ -143,6 +145,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * přeloženy texty z datapadů vězňů z útěkového koridoru Klescheru (10)
 
 ### 0.6d | 23-03-2024
+[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)
+[![Static Badge](https://img.shields.io/badge/EPTU%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)
 * upraveno nebo doplněno 46 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků)
 * dočasně odebrán překlad materiálů a komodit kvůli použití externích nástrojů (překlad bude řešen, až budou ve hře dostatečné nástroje pro ekonomiku a ochodování)
 * přeloženy popisky těžebních laserů
