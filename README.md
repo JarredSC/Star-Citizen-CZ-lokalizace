@@ -45,9 +45,11 @@ Instalátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace 
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
 2. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
+    > > Pokud chcete použít lokalizaci na EPTU, spusťte skript v herním adresáři: `\StarCitizen\EPTU\data\`.
 3. V herním adresáři `\StarCitizen\LIVE\` poté editujte soubor `user.cfg`.
     > Pokud vám soubor `user.cfg` chybí, můžete jej vytvořit jako nový textový soubor, který pojmenujete přesně jako `user.cfg`.
     > Pokud chcete použít lokalizaci na PTU, musíte soubor `user.cfg` editovat v adresáři `\StarCitizen\PTU\`.
+    > > Pokud chcete použít lokalizaci na EPTU, musíte soubor `user.cfg` editovat v adresáři `\StarCitizen\PTU\`.
 4. Do tohoto souboru vložte nový řádek: `g_language = english` a změnu uložte.
 5. To je vše, můžete začít hrát!
 ---
