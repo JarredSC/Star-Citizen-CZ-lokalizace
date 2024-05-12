@@ -4,8 +4,18 @@
 ⚠️ Hra ještě nemá implementované v3echnz building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
 ---
-## AUTOMATICKÝ INSTALÁTOR verze 0.3 beta
-Instalátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
+## OBSAH
+- [INSTALACE automatická pomocí instalátoru](#instalace-automatická-pomocí-instalátoru)
+- [INSTALACE automatická pomocí skriptu](#instalace-automatická-pomocí-skriptu)
+- [INSTALACE manuální](#instalace-manuální)
+- [Otázky a odpovědi](#otázky-a-odpovědi)
+- [Přispěvatelé](#přispěvatelé)
+- [Známé problémy](#známé-problémy)
+- [Změny](#změny)
+
+
+## INSTALACE automatická pomocí instalátoru
+Instalátor v0.3 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
 [Stáhnout instalátor](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star%20Citizen%20CZ.exe) (*Tento instalační soubor nemá zatím certifikát, proto může váš systém Windows vyžadovat potvrzení pro spuštění.*)
 
@@ -18,37 +28,26 @@ Instalátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace 
 - možnost zobrazení seznamu změn
 - proklik na komunitní Discord (logo Discord v hlavním okně programu)
 
-### Připravované funkce:
-- zvýraznění či upozornění v případě detekce verze překladu, která je starší, než poslední dostupná verze v repozitáři
-- detekce PTU, EPTU a TECH-PREVIEW kanálů s možností instalace překladu
-- možnost promazání SHADER a USER adresářů
-- možnost spuštění RSI Launcheru či hry přímo z programu
-- možnost aktualizace programu přímo z menu programu
-- automatická aktualizace překladu
-- možnost běhu na pozadí + automatický start (ideální při využití automatických aktualizací překladu)
-- možnost uložení nalezené složky s knihovnou Star Citizen (odpadne nutnost složku vyhledávat po každém spuštění)
-
 ### Známé chyby / problémy:
-- instalátor neumí odinstalovat překlad s upraveným user.cfg souborem
 - ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
 
 *Jelikož se jedná o beta verzi, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
 
-## INSTALACE (automatická pomocí skriptu)
+## INSTALACE automatická pomocí skriptu
 1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V2.cmd](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd) přes pravé tlačítko myši "`Uložit odkaz jako…`".
     > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu, nastaví `user.cfg` soubor a vymění EasyAntiCheat obrázek, který se zobrazuje při spouštění hry. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/d90fec3517d538a939e368cce8ac154cc1685907/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd "instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd").
 2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
 3. Po dokončení instalace můžete začít hrát!
 
-## INSTALACE (manuální)
+## INSTALACE manuální
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
 2. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
     > Pokud chcete použít lokalizaci na EPTU, spusťte skript v herním adresáři: `\StarCitizen\EPTU\data\`.
 5. To je vše, můžete začít hrát!
 ---
-## Otázky a odovědi
+## Otázky a odpovědi
 
 **Může mi překlad rozbít hru? Hrozí mi 30k?**
   > Ne. Soubor global.ini pouze nahrazuje znaky textových řětezců ve hře. Na chod hry, klienta nebo serveru nemá žádný vliv.
@@ -88,11 +87,18 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ### Specifické případy
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
+* **Názvy misí po rozkliknutí mobiGlas**: Chybí diakritika u rozkliknutých názvů misí v mobiGlas. Tyto názvy mají navíc všechna počáteční písmena slov velká. Tento font zatím nepovoluje české znaky a aplikuje anglickou gramatiku.
+[![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
 ### 0.7a | v přípravě
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+
+[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
+
+[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
 * přeloženy texty pro Invictus Launch Week
   * informační panely ve vstupní a výstavních halách (test: diakritika vynechána pouze u nepodporovaných znaků: ě, š, ů, ď. Prosíme o feedback, zdali je lepší prozatím vynechat diakritiku úplně a nebo jen u písmenek, která ji nedovolují.)
   * titulky pro hlášení orbitálních stanic o lodích Bengal, Javelin, Idris a Polaris
