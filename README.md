@@ -94,7 +94,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 * přeloženy texty pro Invictus Launch Week
-  * informační panely ve vstupní hale
+  * informační panely ve vstupní a výstavních halách (test: diakritika vynechána pouze u nepodporovaných znaků: ě, š, ů, ď. Prosíme o feedback, zdali je lepší prozatím vynechat diakritiku úplně a nebo jen u písmenek, která ji nedovolují.)
   * titulky pro hlášení orbitálních stanic o lodích Bengal, Javelin, Idris a Polaris
 * nové Dying Star nátěry a jejich popisky
 ### 0.7 | 01-05-2024
