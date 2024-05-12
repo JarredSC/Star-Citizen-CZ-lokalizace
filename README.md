@@ -96,6 +96,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy texty pro Invictus Launch Week
   * informační panely ve vstupní hale
   * titulky pro hlášení orbitálních stanic o lodích Bengal, Javelin, Idris a Polaris
+* nové Dying Star nátěry a jejich popisky
 ### 0.7 | 01-05-2024
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/EPTU%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
