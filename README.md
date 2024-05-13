@@ -93,6 +93,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7c | v přípravě
 
+* hlášky turistů (254)
+* hlášky v nemocnicích (45)
+
 ### 0.7b | 13-05-2024
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
