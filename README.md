@@ -95,7 +95,16 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy hlášky turistů (254)
 * přeloženy hlášky v nemocnicích (45)
-* přeloženy popisky k nápovědám ohledně zdraví hráče (65)
+* přeloženy popisky k nápovědám:
+  * zdraví hráče (65)
+  * léčení (21)
+  * CrimeStat (4)
+  * chat (2)
+  * kamera (2)
+  * mapy (2)
+  * mobiGlas (3)
+  * odhlášení (15)
+  * EVA (5)
 
 ### 0.7b | 13-05-2024
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
