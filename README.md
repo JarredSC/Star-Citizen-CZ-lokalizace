@@ -91,7 +91,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7a | v přípravě
+### 0.7b | v přípravě
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 
@@ -99,6 +99,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
+* [3.23.1] informační panely na palubě Idris pro Invictus Launch Week
+* [3.23.1] popisky nových nátěrů pro Cutter, Hornet, MPUV-1T, Nomad, Retaliator, Saber, San'tok.yāi, Syulen a Ursa
+* [3.23.1] popisky moduků pro Retaliator
+* [3.23.1] popisky pro nové lodě Aegis Saber Firebird a Argo MPUV Tractor
+### 0.7a | 12-05-2024
 * [3.23.1] přeloženy texty pro Invictus Launch Week
   * informační panely ve vstupní a výstavních halách (test: diakritika vynechána pouze u nepodporovaných znaků: ě, š, ů, ď. Prosíme o feedback, zdali je lepší prozatím vynechat diakritiku úplně a nebo jen u písmenek, která ji nedovolují.)
   * titulky pro hlášení orbitálních stanic o lodích Bengal, Javelin, Idris a Polaris
