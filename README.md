@@ -93,6 +93,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7c | v přípravě
 
+* [3.23.1] přeloženy informační panely pro loď UEES War Hammer třídy Javelin
 * přeloženy hlášky turistů (254)
 * přeloženy hlášky v nemocnicích (45)
 * přeloženy popisky k nápovědám:
@@ -102,9 +103,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * chat (2)
   * kamera (2)
   * mapy (2)
-  * mobiGlas (3)
+  * mobiGlas (5)
   * odhlášení (15)
   * EVA (5)
+  * monitorované území (4)
+  * kyslík (7)
+  * interakce (38)
+  * pohyb postavy (8)
+  * nakupování (3)
+* opravy nahlášených chyb
 
 ### 0.7b | 13-05-2024
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
