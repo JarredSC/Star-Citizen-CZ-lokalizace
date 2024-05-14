@@ -93,7 +93,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7d | v přípravě
 
-* [3.23.1] přeložena hlášění pro haly Invictusu a DefensConu (33)
+* [3.23.1] přeložena hlášění pro haly Invicta a DefensConu (33)
 * přeloženy hlášky u přepážek TDD, ubytování aj. (234)
 * přeloženy hlášky u celních kontrol (70)
 * přeloženy popisky k nápovědám:
