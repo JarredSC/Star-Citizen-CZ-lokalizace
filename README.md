@@ -91,7 +91,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7c | v přípravě
+### 0.7c | 14-05-2024
+
+[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+
+[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
+
+[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [3.23.1] přeloženy informační panely pro loď UEES War Hammer třídy Javelin
 * přeloženy hlášky turistů (254)
@@ -111,15 +118,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * interakce (38)
   * pohyb postavy (8)
   * nakupování (3)
+  * stamina (3)
+  * quantum (20)
 * opravy nahlášených chyb
 
 ### 0.7b | 13-05-2024
-[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-
-[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
-
-[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [3.23.1] informační tabule k Invictus Launch Week
 * [3.23.1] informační panely na palubě Idris pro Invictus Launch Week
