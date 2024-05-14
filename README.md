@@ -91,6 +91,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
+### 0.7d | v přípravě
+
+* přeloženy hlášky u přepážek TDD, ubytování aj. (234)
+* přeloženy popisky k nápovědám:
+  * boj zblízka (12)
+
 ### 0.7c | 14-05-2024
 
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
