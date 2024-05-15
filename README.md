@@ -95,12 +95,22 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7d | v přípravě
+### 0.7e | v přípravě
+
+### 0.7d | 15-05-2024
+
+[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+
+[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
+
+[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [3.23.1] přeložena hlášění pro haly Invicta a DefensConu (33)
 * [3.23.1] přidán nový parametr pro popisek vozidla RSI Ursa Medivac
 * "Personal Innert Though (PIT)" dočasně pojmenováno jako "Přehled interních témat (PIT)"
 * dočasně odstraněna diakritika z názvů misí do doby, než CIG opraví daný font písma
+* přeloženy nově dodané parametry pro Character Customizer: "Review" a "Body Type" (bohužel víc zatím nedodáno)
 * přeloženy hlášky u přepážek TDD, ubytování aj. (234)
 * přeloženy hlášky u celních kontrol (70)
 * přeloženy popisky k nápovědám:
@@ -113,13 +123,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * MFD (4)
 
 ### 0.7c | 14-05-2024
-
-[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-
-[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
-
-[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [3.23.1] přeloženy informační panely pro loď UEES War Hammer třídy Javelin
 * přeloženy hlášky turistů (254)
