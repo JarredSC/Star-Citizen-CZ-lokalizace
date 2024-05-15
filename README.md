@@ -8,6 +8,7 @@
 - [INSTALACE automatická pomocí instalátoru](#instalace-automatická-pomocí-instalátoru)
 - [INSTALACE automatická pomocí skriptu](#instalace-automatická-pomocí-skriptu)
 - [INSTALACE manuální](#instalace-manuální)
+- [ODINSTALOVÁNÍ](#odinstalování)
 - [Otázky a odpovědi](#otázky-a-odpovědi)
 - [Přispěvatelé](#přispěvatelé)
 - [Známé problémy](#známé-problémy)
@@ -46,6 +47,9 @@ Instalátor v0.3 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
     > Pokud chcete použít lokalizaci na EPTU, spusťte skript v herním adresáři: `\StarCitizen\EPTU\data\`.
 5. To je vše, můžete začít hrát!
+
+## ODINSTALOVÁNÍ
+1. Stačí smazat (nebo přepsat) složku `Localization` v adresáři `\data\`.
 ---
 ## Otázky a odpovědi
 
