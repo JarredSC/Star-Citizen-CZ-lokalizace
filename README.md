@@ -95,10 +95,17 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * [3.23.1] přeložena hlášění pro haly Invicta a DefensConu (33)
 * [3.23.1] přidán nový parametr pro popisek vozidla RSI Ursa Medivac
+* "Personal Innert Though (PIT)" dočasně pojmenováno jako "Přehled interních témat (PIT)"
 * přeloženy hlášky u přepážek TDD, ubytování aj. (234)
 * přeloženy hlášky u celních kontrol (70)
 * přeloženy popisky k nápovědám:
   * boj zblízka (12)
+  * náklad (18)
+  * kontakty (2)
+  * CryAstro (2)
+  * PIT (14)
+  * pickups (3)
+  * MFD (4)
 
 ### 0.7c | 14-05-2024
 
