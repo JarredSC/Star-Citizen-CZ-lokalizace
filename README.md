@@ -94,6 +94,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.7d | v přípravě
 
 * [3.23.1] přeložena hlášění pro haly Invicta a DefensConu (33)
+* [3.23.1] přidán nový parametr pro popisek vozidla RSI Ursa Medivac
 * přeloženy hlášky u přepážek TDD, ubytování aj. (234)
 * přeloženy hlášky u celních kontrol (70)
 * přeloženy popisky k nápovědám:
