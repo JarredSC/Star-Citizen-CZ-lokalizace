@@ -97,10 +97,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7e | v přípravě
 
+* [3.23.1] odstraněna diakritika u informačních panelů Invictus stánku v hlavní hale i expo halách
+* [3.23.1] přeloženo hlášení pro lodě UEES War Hammer a UEES Barbary během Invicta (43)
+* dodány popisky pro lodě: Zeus CL, ES, MR; Storm AA; Glaive; Arrastra a Syulen
+
 ### 0.7d | 15-05-2024
 
 [![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%203.23.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
 
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/edit/main/README.md#ot%C3%A1zky-a-odov%C4%9Bdi)
 
