@@ -100,6 +100,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [3.23.1] odstraněna diakritika u informačních panelů Invictus stánku v hlavní hale i expo halách
 * [3.23.1] přeloženo hlášení pro lodě UEES War Hammer a UEES Barbary během Invicta (43)
 * dodány popisky pro lodě: Zeus CL, ES, MR; Storm AA; Glaive; Arrastra a Syulen
+* přeloženy popisky k nápovědám:
+  * loď (36)
+  * vozidlo (6)
+  * terminály (3)
+  * respawn (5)
+  * oprava (6)
 
 ### 0.7d | 15-05-2024
 
