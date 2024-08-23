@@ -108,6 +108,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy cargo haul mise
 * přeložena část interface nákladních výtahů
 * přeloženy popisky nových budoucích nátěrů pro lodě a flairů
+* nová loď Aegis Sabre Peregrine
 
 ### 0.7h | 02-08-24 3.24 PTU (1. část)
 * přidáno všech 508 nových parametrů pro verzi 3.24 (přeložena první část: 287 parametrů)
