@@ -99,6 +99,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * aktualizováno 94 parametrů (jejich originální text byl změněn vývojáři) včetně popisků pro nové Cargo Haul mise
 * přeloženy mise od společnosti Northrock: _Bounty Assignment (PvP i PvE - VLRT, LRT, MRT, VHRT, ERT), Escapee Bounty Assignment, Pro Tem Escapee Bounty Contract, Pro Tem Escapee Bounty Contract (Reevaluation), Apprehend Suspect, Pro Tem Suspect Apprehension, Pro Tem Suspect Apprehension (Reevaluation), Pro Tem Bounty Contract, Pro Tem Bounty Contract (Reevaluation), Retrieval Op, Pro Tem Group Warrant Contract, Pro Tem Group Warrant (Reevaluation), Bounty Assignment: Group Warrant (MRT, HRT, VHRT, ERT), Property Retrieval_
 * přeloženy parametry k reputaci společnosti Northrock
+* přeloženy popisky pro understuity a jejich helmy (41)
 * odstraněno 22 parametrů (placeholdery, které vývojáři odstranili)
 * "Citizens for Pyro" přejmenováno ve všech parametrech na "Citizens for Prosperity" (týká se nadcházející soustavy Pyro)
 * opraveno 30 překlepů v názvech proměnných v popiskách misí
