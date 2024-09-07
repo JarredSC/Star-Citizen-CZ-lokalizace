@@ -95,15 +95,19 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7j | 02-09-24 3.24 LIVE
+### 0.7k | 07-09-24 3.24.1 PTU
+[![Static Badge](https://img.shields.io/badge/PTU%203.24.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%203.24-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-<!--[![Static Badge](https://img.shields.io/badge/PTU%203.24-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
 
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidány nové parametry pro verzy 3.24.1 PTU včetně parametrů pro power suit ARGO ATLS
+
+### 0.7j | 02-09-24 3.24 LIVE
 * aktualizováno 94 parametrů (jejich originální text byl změněn vývojáři) včetně popisků pro nové Cargo Haul mise
 * přeloženy mise od společnosti Northrock: _Bounty Assignment (PvP i PvE - VLRT, LRT, MRT, VHRT, ERT), Escapee Bounty Assignment, Pro Tem Escapee Bounty Contract, Pro Tem Escapee Bounty Contract (Reevaluation), Apprehend Suspect, Pro Tem Suspect Apprehension, Pro Tem Suspect Apprehension (Reevaluation), Pro Tem Bounty Contract, Pro Tem Bounty Contract (Reevaluation), Retrieval Op, Pro Tem Group Warrant Contract, Pro Tem Group Warrant (Reevaluation), Bounty Assignment: Group Warrant (MRT, HRT, VHRT, ERT), Property Retrieval_
 * přeloženy parametry k reputaci společnosti Northrock
