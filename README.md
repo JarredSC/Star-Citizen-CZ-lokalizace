@@ -106,6 +106,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidány nové parametry pro verzy 3.24.1 PTU včetně parametrů pro power suit ARGO ATLS
+* opraveny nalezené překlepy
+* odstraněna některá diakritika u parametrů s nepodporovaným fontem
+* opravy nahlášených chyb
 
 ### 0.7j | 02-09-24 3.24 LIVE
 * aktualizováno 94 parametrů (jejich originální text byl změněn vývojáři) včetně popisků pro nové Cargo Haul mise
