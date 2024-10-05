@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy další texty pro nákladní výtahy
 * přeloženy parametry k formaci
 * převod control hintů na velká písmena z důvodu změny fontu, který neumí převádět diakritiku minusek na verzálky (tento font nepodporuje české písmeno "Řř")
+* přeloženo několik chybějících hintů
 
 
 ### 0.7k | 07-09-24 3.24.1 PTU
