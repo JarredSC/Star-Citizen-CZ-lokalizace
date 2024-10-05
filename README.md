@@ -99,7 +99,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeložena část interface pro MDF (zbraňové skupiny)
 * přeložena nápovědná interface pro tractor beam
-* přeloženy popisky pro nové nátěry lodi Zeus Mk II
+* přeloženy popisky pro nové nátěry lodi Zeus Mk II, nátěry z Pirátského týdne a nátěry exoskeletu ATLS
 * přeloženy další texty pro nákladní výtahy
 
 
