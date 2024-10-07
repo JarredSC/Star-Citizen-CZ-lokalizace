@@ -97,13 +97,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7l | v přípravě
 
+* přeloženy popisky nových předmětů (88)
 * přeložena část interface pro MDF (zbraňové skupiny)
 * přeložena nápovědná interface pro tractor beam
 * přeloženy popisky pro nové nátěry lodi Zeus Mk II, nátěry z Pirátského týdne a nátěry exoskeletu ATLS
 * přeloženy popisky speciálních eventů ILW, IAE, Foundation Festival, narozeniny hráče, CitizenCon a First Contact Day (Alien Week)
 * přeloženy další texty pro nákladní výtahy
 * přeloženy parametry k formaci
-* převod control hintů na velká písmena z důvodu změny fontu, který neumí převádět diakritiku minusek na verzálky (tento font nepodporuje české písmeno "Řř")
+* převod control hintů na velká písmena z důvodu změny fontu, který neumí převádět diakritiku minusek na verzálky (tento font nepodporuje např. české písmeno "Řř" u vybraných výrobců lodí)
 * přeloženo několik chybějících hintů
 
 
