@@ -97,6 +97,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7m | v přípravě
 
+* přeložen popisek nového vozítka Argo CSV-SM a popisky jeho nátěrů
 * přeloženy hlášky prodejců lodí SHIPDEALER1 (202)
 * úpravy rozhraní Arena Commander kvůli dočasnému halloweenskému vzhledu (nedporuje vybrané české znaky)
 
