@@ -95,14 +95,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7m | v přípravě
-
-* přeloženy parametry nového eventu včetně navazujících misí od Eckhart Security, Citizens for Prosperity a Frontier Fighters (184)
-* přeložen popisek nového vozítka Argo CSV-SM a popisky jeho nátěrů
-* přeloženy hlášky prodejců lodí SHIPDEALER1 (202)
-* úpravy rozhraní Arena Commander kvůli dočasnému halloweenskému vzhledu (nedporuje vybrané české znaky)
-
-### 0.7l | 07-10-24
+### 0.7m | 14-10-24
 [![Static Badge](https://img.shields.io/badge/PTU%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%203.24.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
@@ -111,6 +104,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přeloženy parametry nového eventu včetně navazujících misí od Eckhart Security, Citizens for Prosperity a Frontier Fighters (184)
+* přeložen popisek nového vozítka Argo CSV-SM a popisky jeho nátěrů
+* přeloženy hlášky prodejců lodí SHIPDEALER1 (202)
+* úpravy rozhraní Arena Commander kvůli dočasnému halloweenskému vzhledu (nedporuje vybrané české znaky)
+
+### 0.7l | 07-10-24
 
 * přeloženy popisky nových předmětů (88)
 * přeložena část interface pro MDF (zbraňové skupiny)
