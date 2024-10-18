@@ -95,20 +95,23 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7n | v přípravě
+### 0.7n | 18-10-24 3.24.2 LIVE
 
-* přeloženy hlášky prodejců lodí SHIPDEALER2 (202)
-* přeloženy nové parametry pro Save Stanton mise
-
-### 0.7m | 14-10-24 3.24.2 PTU
-[![Static Badge](https://img.shields.io/badge/PTU%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%203.24.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+<!--[![Static Badge](https://img.shields.io/badge/PTU%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+[![Static Badge](https://img.shields.io/badge/LIVE%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
 
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přeloženy hlášky prodejců lodí SHIPDEALER2 (202)
+* přeloženy nové parametry pro Save Stanton mise
+* změna některých parametrů pro Save Stanton mise, které byly pozměněny vývojáři
+* smazáno 57 placeholderů, které byly odstraněny ze hry
+
+### 0.7m | 14-10-24 3.24.2 PTU
 
 * přeloženy parametry nového eventu včetně navazujících misí od Eckhart Security, Citizens for Prosperity a Frontier Fighters (184)
 * přeložen popisek nového vozítka Argo CSV-SM a popisky jeho nátěrů
