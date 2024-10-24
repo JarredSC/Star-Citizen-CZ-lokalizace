@@ -16,18 +16,19 @@
 
 
 ## INSTALACE automatická pomocí instalátoru
-Instalátor v0.3 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
+Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
 [Stáhnout instalátor](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star%20Citizen%20CZ.exe) (*Tento instalační soubor nemá zatím certifikát, proto může váš systém Windows vyžadovat potvrzení pro spuštění.*)
 
 ### Základní funkce:
 - detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění)
-- detekce aktuální verze překladu v hlavním repozitáři zde
+- detekce aktuální verze překladu v hlavním repozitáři pro LIVE a PTU
 - detekce instalované verze překladu (včetně skriptem, či ručně instalovaného překladu)
 - možnost jedním klikem instalovat, aktualizovat nebo odinstalovat překlad
 - možnost otevřít adresář s uloženými screenshoty ze hry
 - možnost zobrazení seznamu změn
 - proklik na komunitní Discord (logo Discord v hlavním okně programu)
+- checkbox pro zapnutí (automaticky nastaveno) nebo vypnutí ukládání nalezené cesty ke game library; dovoluje resetovat a vyhledat cestu znovu po restartu instalátoru)
 
 ### Známé chyby / problémy:
 - ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
