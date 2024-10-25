@@ -96,13 +96,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7o | v přípravě
+### 0.7o | 25-10-24 PTU/LIVE
 
-* opraveny nahlášené chyby (převod textu na verzálky kvůli nepodpoře minusek s diakritikou)
-
-### 0.7n | 18-10-24 3.24.2 LIVE
-
-<!--[![Static Badge](https://img.shields.io/badge/PTU%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+[![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
@@ -110,6 +106,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* dodány nové parametery pro verzi 3.24.3 – převážně pro IAE (celkem 282 parametrů)
+* přeloženy nové flairy, CitizenCon odměny a IAE reklamní předměty
+* opraveny nahlášené chyby (převod textu na verzálky kvůli nepodpoře minusek s diakritikou)
+
+### 0.7n | 18-10-24 3.24.2 LIVE
 
 * přeloženy hlášky prodejců lodí SHIPDEALER2 (202)
 * přeloženy nové parametry pro Save Stanton mise
