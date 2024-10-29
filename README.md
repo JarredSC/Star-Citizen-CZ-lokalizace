@@ -96,6 +96,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
+### 0.7p | v přípravě
+
+* opraveny nahlášené chyby
+
 ### 0.7o | 25-10-24 PTU/LIVE
 
 [![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
