@@ -98,6 +98,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7p | v přípravě
 
+* převod markerů misí na verzálky (hra automaticky převádí text na verzálky, ale písmena s diakritikou převést neumí, takže to za ní musíme udělat my)
 * opraveny nahlášené chyby
 
 ### 0.7o | 25-10-24 PTU/LIVE
