@@ -78,10 +78,8 @@ Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
 * TrionCZ
 * Hawell_cze
 * DarbyScabb
+* The_Boogie (testování)
 * Kissman (instalátor)
-* Atisis
-* The_Boogie
-* fid0rka
 * Shockbreaker (grafika EAC)
 ---
 ## Známé problémy
