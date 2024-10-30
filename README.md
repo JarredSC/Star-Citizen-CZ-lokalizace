@@ -99,6 +99,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.7p | v přípravě
 
 * převod markerů misí na verzálky (hra automaticky převádí text na verzálky, ale písmena s diakritikou převést neumí, takže to za ní musíme udělat my)
+* vybrané hodnosti pro transport gildu dočasně bez diakritiky (jejich názvy se zobrazují v cargo výtahu, který nepodporuje vybrané české znaky)
+* "Komunikační družice" přejmenovaná na "Comm satelit" kvůli nepodpoře "č" na markerech v mapě.
 * opraveny nahlášené chyby
 
 ### 0.7o | 25-10-24 PTU/LIVE
