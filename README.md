@@ -96,10 +96,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7p | v přípravě
 
+* dodány chybějící překlady pro tutoriál
 * převod markerů misí na verzálky (hra automaticky převádí text na verzálky, ale písmena s diakritikou převést neumí, takže to za ní musíme udělat my)
 * vybrané hodnosti pro transport gildu dočasně bez diakritiky (jejich názvy se zobrazují v cargo výtahu, který nepodporuje vybrané české znaky)
 * "Komunikační družice" přejmenovaná na "Comm satelit" kvůli nepodpoře "č" na markerech v mapě.
 * "sunspots" nově přeložené jako "pigmentové skvriny" při tvorbě postavy
+* vybrané kategorie předmětů dočasně přejmenovány kvůli UI cargo výtahů, které nepodporují vybrané české znaky ("těžba" -> "dobývání surovin"; "odpalovače" -> "launchery"; "čepice" -> "pokrývky", "zbraně" -> "arzenál"; "oblečení" -> "ošacení")
 * opraveny nahlášené chyby
 
 ### 0.7o | 25-10-24 PTU/LIVE
