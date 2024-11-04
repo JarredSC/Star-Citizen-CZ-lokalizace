@@ -96,6 +96,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7p | v přípravě
 
+* přeloženy mise: Missing Person Report
+* přeloženy následující texty v Deníku: "Vylepšená integrace StarMapy a Quantumu"; "Lepší výživa, lepší vaše já"
+* přeložen úvodní text a disclaimer pro Open Track závodní mise
 * dodány chybějící překlady pro tutoriál
 * převod markerů misí na verzálky (hra automaticky převádí text na verzálky, ale písmena s diakritikou převést neumí, takže to za ní musíme udělat my)
 * vybrané hodnosti pro transport gildu dočasně bez diakritiky (jejich názvy se zobrazují v cargo výtahu, který nepodporuje vybrané české znaky)
