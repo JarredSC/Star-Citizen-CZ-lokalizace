@@ -96,7 +96,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7p | v přípravě
 
-* přeloženy mise: Missing Person Report
+* přeloženy variace misí: Missing Person Report; Eliminate Threat from Hurston Space
 * přeloženy následující texty v Deníku:
     * "Vylepšená integrace StarMapy a Quantumu"
     * "Lepší výživa, lepší vaše já"
