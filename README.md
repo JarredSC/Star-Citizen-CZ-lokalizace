@@ -96,7 +96,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7p | v přípravě
 
-* přeloženy variace misí: Missing Person Report; Eliminate Threat from Hurston Space
+* přeloženy variace misí:
+    * Missing Person Report
+    * hurston_UGF mise: Eliminate Threat from Hurston Space; Guard Facility Against Threat; Guard Facility Against Hostiles; Guard Facility; Guard Facility Against Dangerous Hostiles; Eliminate Contraband Stash; Eliminate Narcotic Stash; Eliminate Drug Stash
 * přeloženy následující texty v Deníku:
     * "Vylepšená integrace StarMapy a Quantumu"
     * "Lepší výživa, lepší vaše já"
