@@ -31,7 +31,8 @@ Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
 - checkbox pro zapnutí (automaticky nastaveno) nebo vypnutí ukládání nalezené cesty ke game library; dovoluje resetovat a vyhledat cestu znovu po restartu instalátoru)
 
 ### Známé chyby / problémy:
-- ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
+- Pokud vám instalátor detekuje jinou složku, než kde máte hru ve skutečnosti nainstalovanou, zkontrolujte lokaci vaší hry v RSI Launcheru. Pokud se nalezená cesta v instalátoru odlišuje od cesty uvedené v RSI Launcheru, známená to, že máte hru nainstalovanou na více místech (duplicitně). V takovém případě se podívejte do složky, kterou vám našel instalátor a tuto smažte. Poté v instalátoru odšrtněte políčko "Po restartu si pamatuj knihovnu" a restartujte instalátor. Automaticky by se pak měla nalézt správna cesta.
+- Ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
 
 *Jelikož se jedná o beta verzi, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
 
