@@ -113,6 +113,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * "sunspots" nově přeložené jako "pigmentové skvriny" při tvorbě postavy
 * vybrané kategorie předmětů dočasně přejmenovány kvůli UI cargo výtahů, které nepodporují vybrané české znaky ("těžba" -> "dobývání surovin"; "odpalovače" -> "launchery"; "čepice" -> "pokrývky", "zbraně" -> "arzenál"; "oblečení" -> "ošacení")
 * opraveny nahlášené chyby
+* odstraněno 264 parametrů (většinou staré placeholdery, které CIG vyňalo z lokalizačního souboru)
+* aktualizováno 59 parametrů, u kterých se změnil originální anglický text
 
 ### 0.7o | 25-10-24 PTU/LIVE
 
