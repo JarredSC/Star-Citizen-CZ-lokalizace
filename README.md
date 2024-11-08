@@ -114,14 +114,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * "Lepší výživa, lepší vaše já"
     * "Regenerace a základní první pomoc"
     * "Sledování vašeho zdraví"
-* přeloženy popisky všech trestných činnů (47)
+* přeloženy popisky všech trestných činů (47)
 * přeložen úvodní text a disclaimer pro Open Track závodní mise
 * přeloženy nové parametry pro operaci Save Stanton
 * dodány chybějící překlady pro tutoriál
 * převod markerů misí na verzálky (hra automaticky převádí text na verzálky, ale písmena s diakritikou převést neumí, takže to za ní musíme udělat my)
 * vybrané hodnosti pro transport gildu dočasně bez diakritiky (jejich názvy se zobrazují v cargo výtahu, který nepodporuje vybrané české znaky)
 * "Komunikační družice" přejmenovaná na "Comm satelit" kvůli nepodpoře "č" na markerech v mapě.
-* "sunspots" nově přeložené jako "pigmentové skvriny" při tvorbě postavy
+* "sunspots" nově přeložené jako "pigmentové skvrny" při tvorbě postavy
 * vybrané kategorie předmětů dočasně přejmenovány kvůli UI cargo výtahů, které nepodporují vybrané české znaky ("těžba" -> "dobývání surovin"; "odpalovače" -> "launchery"; "čepice" -> "pokrývky", "zbraně" -> "arzenál"; "oblečení" -> "ošacení")
 * opraveny nahlášené chyby
 * odstraněno 264 parametrů (většinou staré placeholdery, které CIG vyňalo z lokalizačního souboru)
