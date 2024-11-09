@@ -45,10 +45,11 @@ Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
 
 ## INSTALACE manuální
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
-2. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
+3. Vytvořit složku `data` v adresáři `\StarCitizen\LIVE\`
+3. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
     > Pokud chcete použít lokalizaci na EPTU, spusťte skript v herním adresáři: `\StarCitizen\EPTU\data\`.
-5. To je vše, můžete začít hrát!
+4. To je vše, můžete začít hrát!
 
 ## ODINSTALOVÁNÍ
 1. Stačí smazat (nebo přepsat) složku `Localization` v adresáři `\data\`.
