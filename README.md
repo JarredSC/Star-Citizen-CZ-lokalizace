@@ -98,6 +98,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7q | v přípravě
 * přeloženy variace misí pro "crusader_bounty"
+* ostranění diakritiky u vybraných parametrů pro prodejní terminály (někteří obchodníci mají terminály s fonty, které nepodporují žádnou diakritiku, ale parametry jsou sdílené se všemi, takže musíme ustoupit tomu nejhoršímu fontu; Slovo "peněženka" u terminálů nahrazena slovem "kredity")
+* opravy nahlášených chyb
 
 ### 0.7p | 08-11-24 PTU/LIVE
 
