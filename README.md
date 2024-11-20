@@ -103,6 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy variace misí pro "crusader_bounty"
 * změna sousloví "Systém Stanton" na "soustava Stanton" ve všech parametrech
 * ostranění diakritiky u vybraných parametrů pro prodejní terminály (někteří obchodníci mají terminály s fonty, které nepodporují žádnou diakritiku, ale parametry jsou sdílené se všemi, takže musíme ustoupit tomu nejhoršímu fontu; Slovo "peněženka" u terminálů nahrazena slovem "kredity")
+* popisky lodí, kde lze nastavit respawn byly převedeny na verzálky, protože terminál na nastavení respawnu neumí převádět automaticky diakritiku na verzálky, takže to za něj musíme opět udělat my
 * opravy nahlášených chyb
 
 ### 0.7p | 08-11-24 PTU/LIVE
