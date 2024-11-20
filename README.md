@@ -3,6 +3,11 @@
 
 ⚠️ Hra ještě nemá implementované všechny building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
 
+## Podpora
+Čeština a všechny její aktualizace jsou poskytovány zdarma. Pokud ale chcete přispět na pokračující vývoj lokalizace, můžete nám přispět libovolnou částkou. [![Darovat příspěvek](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ETTG6FZNFU3RJ)
+
+[![Darovat příspěvek](https://i.imgur.com/mUx3h8J.png)](#)
+
 ---
 ## OBSAH
 - [INSTALACE automatická pomocí instalátoru](#instalace-automatická-pomocí-instalátoru)
