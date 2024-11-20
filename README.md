@@ -98,6 +98,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7q | v přípravě
 
+* revize všech parametrů k eventu Save Stanton (180): dodání nových parametrů a aktualizace češtiny u parametrů, které změnily svůj anglický text
 * přeloženy popisky pro 30 nových skinů (nátěrů)
 * přeloženy nové popisky pro lodě na IAE (Ironclad, Ironclad Assault, Paladin)
 * přeloženy variace misí pro "crusader_bounty"
