@@ -101,6 +101,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy popisky pro 30 nových skinů (nátěrů)
 * přeloženy nové popisky pro lodě na IAE (Ironclad, Ironclad Assault, Paladin)
 * přeloženy variace misí pro "crusader_bounty"
+* změna sousloví "Systém Stanton" na "soustava Stanton" ve všech parametrech
 * ostranění diakritiky u vybraných parametrů pro prodejní terminály (někteří obchodníci mají terminály s fonty, které nepodporují žádnou diakritiku, ale parametry jsou sdílené se všemi, takže musíme ustoupit tomu nejhoršímu fontu; Slovo "peněženka" u terminálů nahrazena slovem "kredity")
 * opravy nahlášených chyb
 
