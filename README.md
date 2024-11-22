@@ -103,6 +103,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7r | v přípravě
 
+* přeloženy mise:
+    * pro nájemné lovce od microTech Protection Services (mtps_bounty)
+    * Remove Illegal Occupants od microTech Protection Services (mtps_basesweep)
 * přeloženy chybějící parametry pro AC interface
 * navrácena dočasně odebraná diakritika u vybraných parametrů AC interface (dočasně odebrána kvůli halloweenskému skinu, který diakritiku neuměl)
 * slovo "nátěr" v názvech nahrazeno slovem "lakování" kvůli nepodpoře písmene "ě" u terminálu nákladního výtahu
