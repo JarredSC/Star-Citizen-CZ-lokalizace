@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy chybějící parametry pro AC interface
 * navrácena dočasně odebraná diakritika u vybraných parametrů AC interface (dočasně odebrána kvůli halloweenskému skinu, který diakritiku neuměl)
+* slovo "nátěr" v názvech nahrazeno slovem "lakování" kvůli nepodpoře písmene "ě" u terminálu nákladního výtahu
 
 ### 0.7q | 20-11-24 PTU/LIVE
 
