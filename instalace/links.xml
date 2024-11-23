@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item text="Star Citizen Česko Slovensko">
+    <submenu>
+      <item text="Organizace" url="https://robertsspaceindustries.com/orgs/CZSK" />  
+      <item text="Discord">
+        <submenu>
+          <item text="Připojit se na náš Discord" url="https://www.google.com" />
+          <item text="Kanál s návody" url="https://discord.com/channels/926921932341919765/1019872713713659965" />
+          <item text="Diskuze k překladu Star Citizen" url="https://discord.com/channels/926921932341919765/1162077785376964719" />
+        </submenu>
+      </item>
+      <item text="Komunitní mapa hráčů" url="https://www.google.com/maps/d/u/2/viewer?mid=1D-N794_RD7wsDt5AayWjf0QJ82fwe0o&hl=cs&ll=49.53699999999999%2C16.512000000000018&z=8" />
+      <item text="Star Citizen CZ/SK Wiki" url="https://wiki.theravens.cz/star-citizen/index.php/Hlavn%C3%AD_strana" />
+      <item text="CZ/SK Bar Citizen" url="https://barcitizen.star-citizen.cz/" />
+      <item text="Náš Facebook" url="https://www.facebook.com/StarCitizenCzSk" />
+      <item text="Náš Youtube" url="https://www.youtube.com/c/StarCitizen%C4%8Cesko-Slovensko" />
+    </submenu>
+  </item>
+  <item text="---" />
+  <item text="Roberts Space Industries">
+    <submenu>
+      <item text="Můj RSI účet" url="https://robertsspaceindustries.com/account/settings" />
+      <item text="Můj RSI hanár" url="https://robertsspaceindustries.com/account/pledges" />
+      <item text="RSI Obchod">
+        <submenu>
+          <item text="Herní balíky" url="https://robertsspaceindustries.com/store/pledge/browse/game-packages?sort=weight&direction=desc" />
+          <item text="Samostatné lodě" url="https://robertsspaceindustries.com/pledge/ships?sale=true&sortField=name&sortDirection=asc" />
+          <item text="Upgrady lodí" url="https://robertsspaceindustries.com/pledge/ships?sale=true&sortField=name&sortDirection=asc" />
+        </submenu>
+      </item>
+      <item text="Spectrum" url="https://robertsspaceindustries.com/spectrum/community/SC" />
+      <item text="Issue Council" url="https://issue-council.robertsspaceindustries.com/" />
+      <item text="Telemetrie" url="https://robertsspaceindustries.com/telemetry" />
+      <item text="Stav RSI služeb" url="https://status.robertsspaceindustries.com/" />
+      <item text="Plán vývoje" url="https://robertsspaceindustries.com/roadmap/release-view" />
+      <item text="Financování vývoje" url="https://robertsspaceindustries.com/funding-goals" />
+    </submenu>
+  </item>
+  <item text="---" />
+  <item text="Erkul" url="https://www.erkul.games/" />
+  <item text="CCUgame" url="https://ccugame.app/" />
+  <item text="UEXcorp" url="https://uexcorp.space/" />
+</menu>
