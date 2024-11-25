@@ -35,6 +35,8 @@
       <item text="Plán vývoje" url="https://robertsspaceindustries.com/roadmap/release-view" />
       <item text="Financování vývoje" url="https://robertsspaceindustries.com/funding-goals" />
       <item text="Hvězdná mapa" url="https://robertsspaceindustries.com/starmap" />
+      <item text="Oprava herní postavy" url="https://robertsspaceindustries.com/account/reset" />
+      <item text="Kopírovat herní postavu do PTU" url="https://robertsspaceindustries.com/account/copy/ptu" />
     </submenu>
   </item>
   <item text="---" />
