@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.7s | v přípravě
 
 * název aplikace v mobiGlas "REP" přejmenováno na "REPUTACE"
+* "Engineering" část lodi přeložena jako "strojovna"
 * opravy nahlášených chyb
 
 ### 0.7r | 23-11-24 EPTU/LIVE
