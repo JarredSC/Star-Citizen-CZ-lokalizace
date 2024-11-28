@@ -35,9 +35,10 @@
       <item text="Plán vývoje" url="https://robertsspaceindustries.com/roadmap/release-view" />
       <item text="Financování vývoje" url="https://robertsspaceindustries.com/funding-goals" />
       <item text="Hvězdná mapa" url="https://robertsspaceindustries.com/starmap" />
+      <item text="Tabulka náhradních lodí" url="https://support.robertsspaceindustries.com/hc/en-us/articles/360003093114-Loaner-Ship-Matrix" />
       <item text="Oprava herní postavy" url="https://robertsspaceindustries.com/account/reset" />
       <item text="Kopírovat herní postavu do PTU" url="https://robertsspaceindustries.com/account/copy/ptu" />
-    </submenu>
+        </submenu>
   </item>
   <item text="---" />
   <item text="Erkul" url="https://www.erkul.games/" />
