@@ -21,7 +21,7 @@
   <item text="Roberts Space Industries">
     <submenu>
       <item text="Můj RSI účet" url="https://robertsspaceindustries.com/account/settings" />
-      <item text="Můj RSI hanár" url="https://robertsspaceindustries.com/account/pledges" />
+      <item text="Můj RSI hangár" url="https://robertsspaceindustries.com/account/pledges" />
       <item text="RSI Obchod">
         <submenu>
           <item text="Herní balíky" url="https://robertsspaceindustries.com/store/pledge/browse/game-packages" />
