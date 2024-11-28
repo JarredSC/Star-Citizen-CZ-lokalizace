@@ -8,6 +8,7 @@
           <item text="Připojit se na náš Discord" url="https://www.google.com" />
           <item text="Kanál s návody" url="https://discord.com/channels/926921932341919765/1019872713713659965" />
           <item text="Diskuze k překladu Star Citizen" url="https://discord.com/channels/926921932341919765/1162077785376964719" />
+<item text="Co je to PTU a jak funguje" url="https://discord.com/channels/926921932341919765/1139302959239397446" />          
         </submenu>
       </item>
       <item text="Komunitní mapa hráčů" url="https://www.google.com/maps/d/u/2/viewer?mid=1D-N794_RD7wsDt5AayWjf0QJ82fwe0o&amp;hl=cs&amp;ll=49.53699999999999%2C16.512000000000018&amp;z=8" />
@@ -49,4 +50,7 @@
   <item text="Cornerstone" url="https://finder.cstone.space/" />
   <item text="Armory" url="https://armory.thespacecoder.space/" />
   <item text="VerseGuide" url="https://verseguide.com/" />
+  <item text="Mining Cheat Sheets" url="https://redmonstergaming.com/mining-cheat-sheets/" />
+  <item text="Armory" url="https://armory.thespacecoder.space/" />
+  <item text="Finder" url="https://finder.cstone.space/" />
 </menu>
