@@ -105,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * [EPTU] přidány stovky nových parametrů pro soustavu Pyro
 * [EPTU] přeloženy Pyro mise:
-   * Find Missing Cargo Hauler; Locate ~mission(TargetName) and Important Intel; Return Stolen Supplies; Repossess Supplies; Recover Cargo
+   * od Citizens for Prosperity: Find Missing Cargo Hauler; Locate ~mission(TargetName) and Important Intel; Return Stolen Supplies; Repossess Supplies; Recover Cargo
 * název aplikace v mobiGlas "REP" přejmenováno na "REPUTACE"
 * "Engineering" část lodi přeložena jako "strojovna"
 * opravy nahlášených chyb
