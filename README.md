@@ -109,6 +109,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
    * od Rough & Ready: _Claim XenoThreat Ship For Your Own, Wrecked Ships for Sale, Salvage Wrecked Ships on the Drift_
    * od Headhunterů: _Commandeer Supplies, Cave Raid, Grab Requested Goods, Easy Pickings, Steal Some Goods_
    * od Bit Zeros: _Plenty of Cargo to Share, XenoThreat Grab Bag, Enough For Everyone, Easy Pickings, XenoThreat = GoodLoot, Goods for the Getting_
+   * od místních obyvatel: _Anyone handy with a multi-tool?, Got a big repairs, Need some repairs done?_
    * přepravní mise od Red Wind Linehaul
 * název aplikace v mobiGlas "REP" přejmenováno na "REPUTACE"
 * "Engineering" část lodi přeložena jako "strojovna"
