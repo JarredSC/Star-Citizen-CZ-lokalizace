@@ -107,6 +107,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [EPTU] přeloženy Pyro mise:
    * od Citizens for Prosperity: _Find Missing Cargo Hauler; Locate Person and Important Intel; Return Stolen Supplies; Repossess Supplies; Recover Cargo; Raid to Recover Supplies; Reclaim Stolen Cargo; Regain Supplies from XenoThreat; Search Outpost for Our Supplies; Retrieve Supplies; Find Lost Supply Ship; Find Convoy and Reclaim Cargo; Attack Outlaw Bases to Reclaim Supplies; Confront Outlaws and Return Stolen Supplies; Fighting Fire with Fire; Recover Convoy Cargo; Raid Headhunters Cave_
    * od Rough & Ready: _Claim XenoThreat Ship For Your Own, Wrecked Ships for Sale, Salvage Wrecked Ships on the Drift_
+   * od Headhunterů: _Commandeer Supplies, Cave Raid, Grab Requested Goods, Easy Pickings, Steal Some Goods_
 * název aplikace v mobiGlas "REP" přejmenováno na "REPUTACE"
 * "Engineering" část lodi přeložena jako "strojovna"
 * opravy nahlášených chyb
