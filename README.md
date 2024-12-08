@@ -107,6 +107,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [EPTU] přeloženy Pyro mise:
    * od Citizens for Prosperity: _Search Cave for Our Supplies, Raid Headhunters Outpost, Get Supplies from Satellite Outpost, High-Risk Ship Ready for Salvage_ 
 * odebrána diakritika na vybraných místech u slov "košile, osobní zbraně a oblečení" (parametry jsou sdílené s Kel-To terminálem, který nepodporuje háčky)
+* opravy nahlášených chyb
 
 ### 0.7s | 06-12-2024
 
