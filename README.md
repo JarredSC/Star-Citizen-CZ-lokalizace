@@ -103,6 +103,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7t | v přípravě
 
+* [EPTU] přidány nové parametry pro soustavu Pyro (169)
+* [EPTU] přeloženy Pyro mise:
+   * od Citizens for Prosperity: _Search Cave for Our Supplies, Raid Headhunters Outpost, Get Supplies from Satellite Outpost, High-Risk Ship Ready for Salvage_ 
+* odebrána diakritika na vybraných místech u slov "košile, osobní zbraně a oblečení" (parametry jsou sdílené s Kel-To terminálem, který nepodporuje háčky)
+
 ### 0.7s | 06-12-2024
 
 [![Static Badge](https://img.shields.io/badge/EPTU%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
