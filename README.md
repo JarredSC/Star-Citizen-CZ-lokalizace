@@ -105,7 +105,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * [EPTU] přidány nové parametry pro soustavu Pyro (169)
 * [EPTU] přeloženy Pyro mise:
-   * od Citizens for Prosperity: _Search Cave for Our Supplies; Raid Headhunters Outpost; Get Supplies from Satellite Outpost; High-Risk Ship Ready for Salvage; Rush Salvage Job on XenoThreat Ship; Ship Available to Salvage; Ship Salvage Field; High Risk, High Reward Salvage; Defend Convoy, Claim Cargo & Salvage; High Risk Salvage and Cargo; Salvage Ships and Cargo; Ship Ready to Dismantle_ 
+   * od Citizens for Prosperity: _Search Cave for Our Supplies; Raid Headhunters Outpost; Get Supplies from Satellite Outpost; High-Risk Ship Ready for Salvage; Rush Salvage Job on XenoThreat Ship; Ship Available to Salvage; Ship Salvage Field; High Risk, High Reward Salvage; Defend Convoy, Claim Cargo & Salvage; High Risk Salvage and Cargo; Salvage Ships and Cargo; Ship Ready to Dismantle_
+   * od Headhunterů: _Get Our Goods from XenoThreat; Return Goods; Get the Good Stuff; Two Birds, One Stone; Test Your Mettle; Get Our Shit!; Search for Ship; Lost in Space; Strike Back; Revenge Raid_
 * odebrána diakritika na vybraných místech u slov "košile, osobní zbraně a oblečení" (parametry jsou sdílené s Kel-To terminálem, který nepodporuje háčky)
 * opravy nahlášených chyb
 
