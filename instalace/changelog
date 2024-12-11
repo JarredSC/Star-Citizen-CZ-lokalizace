@@ -1,0 +1,42 @@
+1.12.2024 | verze 0.8
+- kompletně přepracované a rozšířené menu
+- možnost spuštění RSI Launcheru přímo z Instalátoru
+- neustále aktualizovaný stav RSI služeb (platforma, perzistentní vesmír a arena commander), aktualizováno každých 30 vteřin
+- možnost vybrat RSI knihovnu ručně (experimentální funkce)
+- menu užitečné odkazy, aneb všechny odkazy, které byste mohli při hraní Star Citizen potřebovat. Star Citizen CZ/SK staff může odkazy přidávat/upravovat dle potřeby bez nutnosti aktualizace programu
+- nové okno "O programu" s informacemi o autorech
+- nové okno "Podpořte vývoj"  s možnost zaslat PayPalem dobrovolný příspěvek na vývoj češtiny na konto SC CZ/SK
+- ožnost otevřít složku s uloženými herními postavami, které jste si vytvořili pomocí character editoru ve hře
+- možnost nastavit pagefile na jeden klik + vysvětlení k čemu slouží
+- možnost resetovat nastavení pagefile do výchozího nastavení OS
+- možnost otevřít pokročilé nastavení OS, ze kterého se lze pak dostat do nastavení pagefile (ruční nastavení)
+- možnost vymazat Star Citizen shadery
+- možnost vymazat NVIDIA shadery
+- možnost vymazat AMD shadery
+- zvětšení fontu zobrazovaných verzí
+- drobné opravy chyb
+
+18.11.2024 | verze 0.7
+- opraven problém, kdy při spuštění instalátoru nebylo vidět rozhraní programu, dokud se nenalezla RSI knihovna
+- upravená detekce instalovaných verzí překladu
+
+11.11.2024 | verze 0.6
+- přepracovaná instalace
+- "auto updater" nyní kontroluje nové verze instalátoru. Upozorní, stáhne a spustí instalaci aktualizace
+- kontrola konektivity
+- změna textu "Star Citizen knihovny" na "RSI knihovny"
+- vánoční motiv, aktivní pouze od 1.12. do 31.12., screenshot poskytl Phoenix
+- základní statistika instalovaných verzí překladu
+
+24.10.2024 | verze 0.4
+- přidána podpora pro PTU prostředí
+- ve výchozím stavu zapnuté ukládání cesty k RSI knihovně
+- odebrány neaktivní volby EPTU a TECH-PREVIW
+- optimalizace kódu
+- optimalizace detekce instalovaných verzí češtiny
+
+28.1.2024 | verze 0.3
+- první, veřejně zpřístupněná verze
+- základní funkce pro instalaci/odinstalaci čestiny do LIVE prostředí
+- možnost otevření složky se screenshoty
+- automatická vyhledání RSI knihovny
