@@ -1,3 +1,10 @@
+1.1.2025 | verze 0.9
+- přidána podpora pro EPTU prostředí
+- nová možnost "Na vašem názoru záleží"
+- opravená chyba při vyhledání RSI knihovny vytvořené starým RSI Laucherem
+- přepracované okno aktualizace, nyní se seznamem změn
+- přepracované zobrazování instalovaných verzí překladu
+
 1.12.2024 | verze 0.8
 - kompletně přepracované a rozšířené menu
 - možnost spuštění RSI Launcheru přímo z Instalátoru
