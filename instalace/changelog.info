@@ -4,7 +4,7 @@
 - opravená chyba při vyhledání RSI knihovny vytvořené starým RSI Laucherem
 - přepracované okno aktualizace, nyní se seznamem změn
 - přepracované zobrazování instalovaných verzí překladu
-- nové okno ladícíh informací (CTRL+D), experimentální funkce
+- nové okno ladících informací (CTRL+D), experimentální funkce
 - záznam logu pro případ řešení problémů s Instalátorem
 - možnost vyvolat reinstalaci / update ručně (CTRL+U), experimentální funkce
 
