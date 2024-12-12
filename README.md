@@ -101,7 +101,18 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7t | v přípravě
+### 0.7u | v přípravě
+
+### 0.7t | 12-12-2024
+
+[![Static Badge](https://img.shields.io/badge/EPTU%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
+
+[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
+
+[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [EPTU] přidány nové parametry pro soustavu Pyro (250)
 * [EPTU] přeloženy mise:
@@ -112,15 +123,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * opravy nahlášených chyb
 
 ### 0.7s | 06-12-2024
-
-[![Static Badge](https://img.shields.io/badge/EPTU%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
-<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
-
-[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
-
-[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * [EPTU] přidány stovky nových parametrů pro soustavu Pyro (590)
 * [EPTU] přeloženy Pyro mise:
