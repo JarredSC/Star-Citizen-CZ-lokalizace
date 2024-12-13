@@ -103,6 +103,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7u | v přípravě
 
+* přidány nové parametry (15)
+
 ### 0.7t | 12-12-2024
 
 [![Static Badge](https://img.shields.io/badge/EPTU%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
