@@ -103,7 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.7u | v přípravě
 
-* přidány nové parametry (15)
+* přidány nové parametry (23)
 
 ### 0.7t | 12-12-2024
 
