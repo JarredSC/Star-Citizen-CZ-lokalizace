@@ -102,6 +102,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.7v | v přípravě
+* [EPTU] přeloženy parametry pro stav Jump Drive (skokový pohon), zobrazující se v HUDu lodí (52)
 
 ### 0.7u | 17-12-2024
 
