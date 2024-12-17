@@ -101,11 +101,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.7u | v přípravě
+### 0.7v | v přípravě
 
-* přidány nové parametry (23)
-
-### 0.7t | 12-12-2024
+### 0.7u | 17-12-2024
 
 [![Static Badge](https://img.shields.io/badge/EPTU%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -115,6 +113,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* [EPTU] přidány nové parametry (53) včetně parametrů pro Mirai Guardian a Mirai Guardian QI a jejich 6 nových skinů
+
+### 0.7t | 12-12-2024
 
 * [EPTU] přidány nové parametry pro soustavu Pyro (250)
 * [EPTU] přeloženy mise:
