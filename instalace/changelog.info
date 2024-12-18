@@ -1,12 +1,15 @@
 1.1.2025 | verze 0.9
+- zobrazení aktualní LIVE / PTU verze patche (menu RSI služby)
+- zobrazení počtu registrovanýcm "vesmírných občanů" (menu RSI služby)
+- zobrazení velkové vybrané částky v USD (menu RSI služby), po najetí myší se ukáže přepočet na Kč
 - přidána podpora pro EPTU prostředí
 - nová možnost "Na vašem názoru záleží"
-- opravená chyba při vyhledání RSI knihovny vytvořené starým RSI Laucherem
+- opravená chyba při vyhledání RSI knihovny vytvořené starým RSI Laucherem (Live/LIVE)
 - přepracované okno aktualizace, nyní se seznamem změn
 - přepracované zobrazování instalovaných verzí překladu
 - nové okno ladících informací (CTRL+D), experimentální funkce
 - záznam logu pro případ řešení problémů s Instalátorem
-- možnost vyvolat reinstalaci / update ručně (CTRL+U), experimentální funkce
+- možnost vyvolat reinstalaci / update Instalátoru ručně (CTRL+U), experimentální funkce
 
 1.12.2024 | verze 0.8
 - kompletně přepracované a rozšířené menu
