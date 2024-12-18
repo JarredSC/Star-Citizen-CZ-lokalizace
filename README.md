@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [EPTU] přeloženy parametry pro stav Jump Drive (skokový pohon), zobrazující se v HUDu lodí (52)
 * přeloženy mise:
    * od Foxwell Enforcement: _Yellow Level Contract: Ship Under Attack; Yellow Level Contract: Ship In Need; Red Level Contract: Ship Under Attack; Orange Level Contract: Ship Needs Assistance; Orange Level Contract: Ambushed Ship_
+   * od Headhunterů: _Location needs some repairs; Massive repairs at Location; Bunch of repairs at Location_
 * přeloženo na 7000 titulkových hlášek (nemusí sedět kontext v dané situaci; ne všechny hlášeky se v současném stavu hry zobrazují jako titulky) 
 
 
