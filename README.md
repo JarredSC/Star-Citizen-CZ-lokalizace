@@ -108,7 +108,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
    * od Headhunterů: _Location needs some repairs; Massive repairs at Location; Bunch of repairs at Location_
    * od Vaungha: _A Straightforward Task; An Uncomplicated Task; A Basic Task; Spread Your Wings; An Intimate Affair; The Whites Of Their Eyes; A Personal Touch; A Chance to Prove Your Mettle; Another Chance to Prove Your Mettle_
    * od Citizens for Prosperity: _Need a Hauler; Assistance Needed Against Headhunter Raid; Assistance Needed Against XenoThreat Raid_
-* přeloženo na 7000 titulkových hlášek (nemusí sedět kontext v dané situaci; ne všechny hlášeky se v současném stavu hry zobrazují jako titulky) 
+* přeloženo na 7000 titulkových hlášek (nemusí sedět kontext v dané situaci; ne všechny hlášeky se v současném stavu hry zobrazují jako titulky)
+* přeložeby chybové hlášky (37) 
 
 
 ### 0.7u | 17-12-2024
