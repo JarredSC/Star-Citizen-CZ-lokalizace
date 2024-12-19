@@ -106,6 +106,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy mise:
    * od Foxwell Enforcement: _Yellow Level Contract: Ship Under Attack; Yellow Level Contract: Ship In Need; Red Level Contract: Ship Under Attack; Orange Level Contract: Ship Needs Assistance; Orange Level Contract: Ambushed Ship_
    * od Headhunterů: _Location needs some repairs; Massive repairs at Location; Bunch of repairs at Location_
+   * od Vaungha: _A Straightforward Task; An Uncomplicated Task; A Basic Task; Spread Your Wings; An Intimate Affair; The Whites Of Their Eyes; A Personal Touch; A Chance to Prove Your Mettle; Another Chance to Prove Your Mettle_
+   * od Citizens for Prosperity: _Need a Hauler; Assistance Needed Against Headhunter Raid; Assistance Needed Against XenoThreat Raid_
 * přeloženo na 7000 titulkových hlášek (nemusí sedět kontext v dané situaci; ne všechny hlášeky se v současném stavu hry zobrazují jako titulky) 
 
 
