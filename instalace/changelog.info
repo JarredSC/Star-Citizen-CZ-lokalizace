@@ -1,3 +1,7 @@
+20.12.2025 | verze 0.91
+- oprava při vyhledávání RSI knihovny po přejmenování LIVE složky na 4.0_PREVIEW
+- opravené otevírání složky se screenshoty pro kanály EPTU a 4.0_PREVIEW
+
 20.12.2025 | verze 0.9
 - přidána podpora pro 4.0_PREVIEW prostředí
 - přidána podpora pro EPTU prostředí
