@@ -1,4 +1,6 @@
-1.1.2025 | verze 0.9
+20.12.2025 | verze 0.9
+- přidána podpora pro 4.0_PREVIEW prostředí
+- přidána podpora pro EPTU prostředí
 - zobrazení aktualní LIVE / PTU verze patche (menu RSI služby)
 - zobrazení počtu registrovanýcm "vesmírných občanů" (menu RSI služby)
 - zobrazení velkové vybrané částky v USD (menu RSI služby), po najetí myší se ukáže přepočet na Kč
