@@ -101,6 +101,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
+### 0.8a | v přípravě
+
+* odstranění diakritiky u některých nápověd (vybraní výrobci lodí nepodporují některé znaky s českou diakritikou)
+* přejmenování starých překladů "Občané za blahobyt" na "Občané za prosperitu"
+* opravy nahlášených chyb
+
 ### 0.8 | 20-12-2024
 
 [![Static Badge](https://img.shields.io/badge/PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
