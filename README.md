@@ -103,6 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8a | v přípravě
 
+* ponechání "tuningu" u skokových bodů v angličtině, protože dané textové parametry nepodporují českou diakritiku
 * odstranění diakritiky u některých nápověd (vybraní výrobci lodí nepodporují některé znaky s českou diakritikou)
 * přejmenování starých překladů "Občané za blahobyt" na "Občané za prosperitu"
 * opravy nahlášených chyb
