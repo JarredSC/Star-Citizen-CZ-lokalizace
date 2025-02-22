@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * aktualizováno na 593 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 159 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* opravy nahlášených chyb
 
 ### 0.8c | 29-01-2025
 
