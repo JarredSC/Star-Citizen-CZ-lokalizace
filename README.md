@@ -128,6 +128,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### 0.8b | 28-01-2025
 
+* přeložena interface těžebních gadgetů
 * přidány nové parametry pro LIVE 4.0 (překlad bude hotový až s vydáním finální verze 4.0 ve středu)
 * opravy nahlášených chyb
 * odstraněno 368 vyřazených parametrů
