@@ -105,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy Location Rush mise pro:
   * Citizens for Prosperity: *Strategic Detatrine Reserve – Small Resupply, Strategic Detatrine Reserve – Large Resupply, Strategic Detatrine Reserve – Medium Resupply, Strategic Resource Reserve – Small Resupply, Strategic Resource Reserve – Large Resupply, Strategic Resource Reserve – Medium Resupply, Strategic Salvage Reserve – Small Resupply, Strategic Salvage Reserve – Large Resupply, Strategic Salvage Reserve – Medium Resupply*
-  * Headhunters: *Out of Detatrine – Small Resupply, Out of Detatrine – Large Resupply, Out of Detatrine – Medium Resupply*
+  * Headhunters: *Out of Detatrine – Small Resupply, Out of Detatrine – Large Resupply, Out of Detatrine – Medium Resupply, Out of Resources – Small Resupply, Out of Resources – Large Resupply, Out of Resources – Medium Resupply, Out of Salvage – Small Resupply, Out of Salvage – Large Resupply, Out of Salvage – Medium Resupply*
 * přeloženy krátké popisky outlaw outpostů v Pyru
 * Přeloženy chybové hlášky, které už nejsou označené jako placeholdery (26)
 * aktualizováno na 593 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
