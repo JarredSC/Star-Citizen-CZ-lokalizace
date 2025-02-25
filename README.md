@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8d | v přípravě
 
 * překlad březnového přehledu Terry Gazzete (objeví se zřejmě v březnu v Journalu/Deníku)
+* přeloženy datapady v contested zónách
 * přeloženy Citizens for Prosperity mise: *Eliminate Fuel Stores; Reduce Outlaw's Operational Readiness; Danger: Contraband Weapons Inbound; Alert: location under attack; Taking back from the Headhunters; Help defend location from Headhunters*
 * přeloženy Location Rush mise pro:
   * Citizens for Prosperity: *Strategic Detatrine Reserve – Small Resupply, Strategic Detatrine Reserve – Large Resupply, Strategic Detatrine Reserve – Medium Resupply, Strategic Resource Reserve – Small Resupply, Strategic Resource Reserve – Large Resupply, Strategic Resource Reserve – Medium Resupply, Strategic Salvage Reserve – Small Resupply, Strategic Salvage Reserve – Large Resupply, Strategic Salvage Reserve – Medium Resupply*
