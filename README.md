@@ -110,7 +110,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy popisky nových in-game organizací
 * přeloženy parametry ke Collector (Banu) úkolům
 * přeloženy Collector (Banu) dialogy
-  * pozn: *Tyto dialogy jsou přeloženy s kreativním respektem na nedokonalou znalost jazyka. V angličtině porušováním gramatiky, v češtině vyjádřeno nejčastěji jako neskloňování sloves případně jiných slovních druhů. Bere se také v potaz, že některé fráze má cizinec naučené správně, ovšem tyto fráze mohou až být přehnaně spisovné, jak to při učení cizího jazyka obvykle bývá.*
+  * pozn: *Tyto dialogy jsou přeloženy s kreativním respektem na řečníkovu (Banu) nedokonalou znalost lidského jazyka. V angličtině porušováním gramatiky, v češtině vyjádřeno nejčastěji jako neskloňování sloves případně jiných slovních druhů. Bere se také v potaz, že některé fráze má cizinec naučené správně, ovšem tyto fráze mohou až být přehnaně spisovné, jak to při učení cizího jazyka obvykle bývá.*
 * aktualizovány 4 parametry (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 
