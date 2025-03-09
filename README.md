@@ -110,6 +110,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy popisky nových in-game organizací
 * přeloženy parametry ke Collector (Banu) úkolům
 * přeloženy Collector (Banu) dialogy
+* aktualizovány 4 parametry (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 
 ### 0.8e | 07-03-2025
