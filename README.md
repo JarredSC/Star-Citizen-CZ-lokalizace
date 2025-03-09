@@ -104,13 +104,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8f | připravuje se
 
 * přidáno 31 nových parametrů pro verzi 4.1.0 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* Přeložena nová lovecká mise "*Interested in Building a Better Future?*" pro Rayari Inc.
+* přeložena nová lovecká mise "*Interested in Building a Better Future?*" pro Rayari Inc.
 * přeloženy parametry spojené s OLP a Hathor
 * přeloženy popisky nových těžitelných surovin
 * přeloženy popisky nových in-game organizací
 * přeloženy parametry ke Collector (Banu) úkolům
 * přeloženy Collector (Banu) dialogy
-  * pozn: *Tyto dialogy jsou přeloženy s kreativním respektem na řečníkovu (Banu) nedokonalou znalost lidského jazyka. V angličtině porušováním gramatiky, v češtině vyjádřeno nejčastěji jako neskloňování sloves případně jiných slovních druhů. Bere se také v potaz, že některé fráze má cizinec naučené správně, ovšem tyto fráze mohou až být přehnaně spisovné, jak to při učení cizího jazyka obvykle bývá.*
+  * pozn: *Tyto dialogy jsou přeloženy s kreativním respektem na řečníkovu (Banu) nedokonalou znalost lidského jazyka. V angličtině porušováním gramatiky, v češtině vyjádřeno nejčastěji jako neskloňování sloves případně jiných slovních druhů. Bere se také v potaz, že některé fráze má cizinec naučené správně, ovšem tyto fráze mohou být až přehnaně spisovné – jak to při učebnicovém učení cizího jazyka obvykle bývá.*
 * aktualizovány 4 parametry (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 
