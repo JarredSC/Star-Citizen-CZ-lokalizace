@@ -104,7 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8f | připravuje se
 
 * přidáno 31 nových parametrů pro verzi 4.1.0 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* přeložena nová lovecká mise "*Interested in Building a Better Future?*" pro Rayari Inc.
+* přeloženy nové mise pro Rayari Inc: *Interested in Building a Better Future?; Additional Resources For Research; Vital Resources Needed For Research; Need item for Research; Biological Research Material Needed; Research Material Needed: ~mission(Items)*
 * přeloženy parametry spojené s OLP a Hathor
 * přeloženy popisky nových těžitelných surovin
 * přeloženy popisky nových in-game organizací
