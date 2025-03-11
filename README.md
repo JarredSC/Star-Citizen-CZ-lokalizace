@@ -111,6 +111,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy parametry ke Collector (Banu) úkolům
 * přeloženy Collector (Banu) dialogy
   * pozn: *Tyto dialogy jsou přeloženy s kreativním respektem na řečníkovu (Banu) nedokonalou znalost lidského jazyka. V angličtině porušováním gramatiky, v češtině vyjádřeno nejčastěji jako neskloňování sloves případně jiných slovních druhů. Bere se také v potaz, že některé fráze má cizinec naučené správně, ovšem tyto fráze mohou být až přehnaně spisovné – jak to při učebnicovém učení cizího jazyka obvykle bývá.*
+* aktualizován záznam v Journalu/Deníku "Guide to Stanton Wildlife" / "Průvodce divočinou Stantonu" o novou faunu v soustavě Stanton
 * aktualizováno 24 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 910 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru; _většinu tvoří již přeložené dialogy – stinná stránka překladu hry v alfa fázi, část práce přijde vniveč_)
 
