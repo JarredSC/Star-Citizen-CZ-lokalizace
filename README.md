@@ -101,6 +101,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
+### 0.8g | v přípravě
+
+* přidáno dalších 13 nových parametrů pro nejnovější PTU verzi 4.1.0
+
 ### 0.8f | 11-03-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
