@@ -103,7 +103,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8g | v přípravě
 
-* přidáno dalších 13 nových parametrů pro nejnovější PTU verzi 4.1.0
+* přidáno dalších 225 nových parametrů pro nejnovější PTU verzi 4.1.0
+* odstraněno 13 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8f | 11-03-2025
 
