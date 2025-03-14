@@ -106,6 +106,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidáno dalších 225 nových parametrů pro nejnovější PTU verzi 4.1.0
 * přeložen nový obsáhlý text v Journalu/Deníku "_A Forager's Guide to Stanton_" (CZ: "_Sběračův průvodce po Stantonu_")
   * v rámci zpestření mají některé plodiny v tomto textu uvedený i český ekvivalent jako "_kameňák_", "_soumračník_", "_zlaté medmonky_" nebo "_srdcales_"
+* přeloženy nové mise verze 4.1 pro:
+  *  Highpoint Wilderness Specialists: _Pest Control; Intensive Eradication Effort; Cull Invasive Creatures; Reduce Overpopulation_
 * přeloženy nové sezónní dialogy NPC postav, které odrážejí aktuální příběhové dění jako npř. boje s Frontier Fightery, zprávy o problémech s regenerací aj. (153)
 * odstraněno 13 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
