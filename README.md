@@ -108,7 +108,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * v rámci zpestření mají některé plodiny v tomto textu uvedený i český ekvivalent jako "_kameňák_", "_soumračník_", "_zlaté medmonky_" nebo "_srdcales_"
 * přeloženy nové mise verze 4.1 pro:
   *  Highpoint Wilderness Specialists: _Pest Control; Intensive Eradication Effort; Cull Invasive Creatures; Reduce Overpopulation_
+  *  Northrock: _Pro Tem Bounty Assignment_
 * přeloženy nové sezónní dialogy NPC postav, které odrážejí aktuální příběhové dění jako npř. boje s Frontier Fightery, zprávy o problémech s regenerací aj. (153)
+* přeloženy další nové dialogy pro Wikela (4)
 * odstraněno 13 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8f | 11-03-2025
