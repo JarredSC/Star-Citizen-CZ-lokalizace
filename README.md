@@ -105,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy nové mise verze 4.1 pro:
     * Foxwell: _Yellow Level Contract: Merc Work; Yellow Level Contract: Clear Out PAF; Red Level Contract: Retrieve Cargo Haul; Red Level Contract: Recoup Stolen Cargo Haul; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP; Red Level Contract: Retrieval Operation; Red Level Contract: Return Stolen Goods_
-* drobné opravy (přizpůsobování českého textu, aby vyhovoval nepodporovaným fontům ve hře)
+* drobné opravy (přizpůsobování českého textu, aby vyhovoval fontům ve hře, které plně nepodporují celou sadu českých znaků)
 
 ### 0.8g | 15-03-2025
 
