@@ -101,6 +101,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
+### 0.8h | v přípravě
+
+* přeloženy nové mise verze 4.1 pro:
+    * Foxwell: _Yellow Level Contract: Merc Work; Yellow Level Contract: Clear Out PAF; Red Level Contract: Retrieve Cargo Haul; Red Level Contract: Recoup Stolen Cargo Haul; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
+* drobné opravy (přizpůsobování českého textu, aby vyhovoval nepodporovaným fontům ve hře)
+
 ### 0.8g | 15-03-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
