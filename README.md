@@ -104,11 +104,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8h | v přípravě
 
 * přidáno dalších 288 nových parametrů pro nejnovější PTU verzi 4.1.0
+* popisky pro novou Drake loď a variantu ATLS
+* popisky nových skinů pro _Prospector, GOLEM, MOLE, Corsair, ATLS_
 * přeloženy nové mise verze 4.1 pro:
     * Foxwell: _Yellow Level Contract: Merc Work; Yellow Level Contract: Clear Out PAF; Red Level Contract: Retrieve Cargo Haul; Red Level Contract: Recoup Stolen Cargo Haul; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP; Red Level Contract: Retrieval Operation; Red Level Contract: Return Stolen Goods_
 * přeloženy outlaw Hathor datapady pro Hathor stanoviště
 * drobné opravy (přizpůsobování českého textu, aby vyhovoval fontům ve hře, které plně nepodporují celou sadu českých znaků)
-* odstraněno 105 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* aktualizováno 14 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* odstraněno 119 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8g | 15-03-2025
 
