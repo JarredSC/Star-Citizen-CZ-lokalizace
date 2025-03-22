@@ -101,7 +101,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.8h | 21-03-2025
+### 0.8h | 22-03-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.0.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -115,6 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidáno dalších 288 nových parametrů pro nejnovější PTU verzi 4.1.0
+* překlad dubnového přehledu New United (najdete v Journalu/Deníku) zaměřeného na b-příběh startující právě v dubnu
 * popisky pro novou Drake loď a variantu ATLS
 * popisky nových skinů pro _Prospector, GOLEM, MOLE, Corsair, ATLS_
 * přeloženy nové mise verze 4.1 pro:
@@ -122,7 +123,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy outlaw Hathor datapady pro Hathor stanoviště
 * přeloženy popisky k vystaveným předmětům na Wikelo stanicích
 * drobné opravy (přizpůsobování českého textu, aby vyhovoval fontům ve hře, které plně nepodporují celou sadu českých znaků)
-* aktualizováno 14 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 18 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 119 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8g | 15-03-2025
