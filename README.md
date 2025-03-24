@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy nové mise ve verzi 4.1 pro:
   * Eckhart Security: _Secure Site; Repel Raiders; Protect Location; Expel Outlaws; High-Risk Bounty: target; Hunt Bounty: target; Security Contractor Evaluation; Security Contractor Reevaluation; Deal with target and Support Forces; Safeguard Confidential Material; Repel Attack and Retrieve Confidential Cargo; Retake Site and Secure Cargo_
+  * Foxwell Enforcement: _Knock Out New Drug Op; Destroy Dangerous Drugs; Destroy Illegal Drugs; Help Protect Site; Carefully Clear Site_
 * přeloženy popisky pro nové VOLT zbraně
 
 ### 0.8h | 22-03-2025
