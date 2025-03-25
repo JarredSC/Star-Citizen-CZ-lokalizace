@@ -103,10 +103,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8i | v přípravě
 
+* přidáno dalších 8 nových parametrů pro nejnovější PTU verzi 4.1.0
 * přeloženy nové mise ve verzi 4.1 pro:
   * Eckhart Security: _Secure Site; Repel Raiders; Protect Location; Expel Outlaws; High-Risk Bounty: target; Hunt Bounty: target; Security Contractor Evaluation; Security Contractor Reevaluation; Deal with target and Support Forces; Safeguard Confidential Material; Repel Attack and Retrieve Confidential Cargo; Retake Site and Secure Cargo_
   * Foxwell Enforcement: _Exciting New Opportunities with Foxwell Enforcement; Still Looking for Work?; Knock Out New Drug Op; Destroy Dangerous Drugs; Destroy Illegal Drugs; Help Protect Site; Carefully Clear Site; Sweep and Clear Location; Precision Strike on target; Track Down target_
-  * Headhuntery: _Deliver a Message; Show Them Who's Boss; Settle a Grudge_
+  * Headhuntery: _Deliver a Message; Show Them Who's Boss; Settle a Grudge; Ghost target; Cargo Retrieval; Stock Taking; Getting Our Goods Back; Opportunity Knocks at location; Steal Some item_
+  * Wikelo: _Want Polaris? Need something special._
 * přeloženy popisky pro nové VOLT zbraně
 
 ### 0.8h | 22-03-2025
