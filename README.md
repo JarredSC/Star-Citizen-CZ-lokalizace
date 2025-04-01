@@ -101,7 +101,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.8i | 27-03-2025
+### 0.8i AC hotfix| 01-04-2025
 
 <!--[![Static Badge](https://img.shields.io/badge/PTU%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 [![Static Badge](https://img.shields.io/badge/LIVE%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -111,6 +111,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* odstraněna vybraná diakritika v Arena Commander modulu kvůli Triggerfish eventu
+* přeloženy Triggerfish "Mimořádné zprávy" v Arena Commander
+
+### 0.8i | 27-03-2025
 
 * přidáno dalších 8 nových parametrů pro nejnovější PTU verzi 4.1.0
 * přeloženy nové mise ve verzi 4.1 pro:
