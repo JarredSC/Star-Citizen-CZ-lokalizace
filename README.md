@@ -106,6 +106,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidáno 1378 nových parametrů pro nejnovější PTU verzi 4.1.1 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
   * přidáno 202 nových dialogů
   * názvy a popisky nových lodí
+* odstraněno 180 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
  
 
 ### 0.8i AC hotfix | 01-04-2025
