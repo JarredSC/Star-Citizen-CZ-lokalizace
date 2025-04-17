@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8j | v přípravě
 
 * přidáno 1378 nových parametrů pro nejnovější PTU verzi 4.1.1 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+  * přeloženy mise pro Gillyho leteckou školu: _scénář #1–8_
   * přidáno 202 nových dialogů
   * názvy a popisky nových lodí
 * přeloženy vybrané položky v advanced settings (díky Zangovi)
