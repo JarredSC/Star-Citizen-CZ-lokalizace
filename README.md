@@ -101,7 +101,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.8j | v přípravě
+### 0.8l | v přípravě
 
 * přeloženy parametry pro verzi 4.1.1:
    * přeloženy mise pro Gillyho leteckou školu k Invictu: _scénář #1–3_
