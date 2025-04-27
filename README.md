@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy parametry pro verzi 4.1.1:
    * přeloženy mise pro Gillyho leteckou školu k Invictu: _scénář #1–3_
+   * nová žetonová měna "scrip" zatím nepřeložena, jen počeštěna jako "skrip"
 
 ### 0.8k | 26-04-2025
 
