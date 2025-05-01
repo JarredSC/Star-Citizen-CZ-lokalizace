@@ -101,17 +101,20 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.8l | v přípravě
+### 0.8l | 01-05-2025
 
+* přidáno 21 nových parametrů pro nejnovější PTU verzi 4.1.1
 * přeloženy parametry pro verzi 4.1.1:
    * přeloženy mise pro Gillyho leteckou školu k Invictu: _scénář #1–3_
    * přeložena mise _Hunt The Polaris_ včetně přidělených parametrů (23)
    * přeloženy mise pro Foxwell: _Yellow Level Contract: Security Sweep; Orange Level Contract: Potential Security Threat; Orange Level Contract: Security Patrol; Red Level Contract: Secure Threatened Space; Yellow Level Contract: Routine Patrol; Red Level Contract: High-Risk Security Patrol; Yellow Level Contract: Surprise Strike; Orange Level Contract: Return the Favor; Orange Level Contract: Spring a Trap_
+   * přeložena Invictus mise
    * přeložen květnový zpravodaj (tentokrát Crosshair od Mercenary Guildy)
    * nová žetonová měna "scrip" zatím nepřeložena, jen počeštěna jako "skrip"
    * přeloženy dialogy (24)
 * aktualizovány 4 parametry (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněny 2 smazané parametry (parametry, které vývojáři odebrali z lokalizačního souboru)
+* opravy nahlášených chyb
 
 ### 0.8k | 26-04-2025
 
