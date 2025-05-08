@@ -103,7 +103,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8m | v přípravě
 
-* přidáno 69 nových parametrů pro nejnovější PTU verzi 4.1.1
+* přidáno 73 nových parametrů pro nejnovější PTU verzi 4.1.1
+* přeloženy dialogy pro Polaris eventovou misi
 
 ### 0.8l | 01-05-2025
 
