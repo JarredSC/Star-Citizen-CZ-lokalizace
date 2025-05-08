@@ -105,6 +105,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 73 nových parametrů pro nejnovější PTU verzi 4.1.1
 * přeloženy dialogy pro Polaris eventovou misi
+* přeloženy doprovodné parametry pro nové archetypy misí (patrol a ambush)
+* přeloženy údržbářské mise pro CFP: _Minor Repairs Needed_
 
 ### 0.8l | 01-05-2025
 
