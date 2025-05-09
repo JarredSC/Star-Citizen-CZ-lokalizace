@@ -104,6 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8m | v přípravě
 
 * přidáno 370 nových parametrů pro nejnovější PTU verzi 4.1.1
+* přeloženy popisky nových lodí a vozidla: _Anvil Asgard_, _Mirai Guardian MX_, _Starlancer TAC_, respektive _Greycat MTC_
 * přeloženy dialogy pro Polaris eventovou misi
 * přeloženy doprovodné parametry pro nové archetypy misí (patrol a ambush)
 * přeloženy údržbářské mise pro CFP: _Minor Repairs Needed_
