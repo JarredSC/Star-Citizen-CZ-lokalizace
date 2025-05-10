@@ -103,12 +103,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8m | v přípravě
 
-* přidáno 370 nových parametrů pro nejnovější PTU verzi 4.1.1
+* přidáno 380 nových parametrů pro nejnovější PTU verzi 4.1.1
 * přeloženy popisky nových lodí a vozidla: _Anvil Asgard_, _Mirai Guardian MX_, _Starlancer TAC_, respektive _Greycat MTC_
 * přeloženy popisky nových skinů pro lodě, vozidla a exoskelety: _ATLS_, _Arrow_, _Asgard_, _Constellation_, _Gladius_, _Guardian_, _Hammerhead_, _MTC_, _Nova_, _Polaris_, _Redeemer_, _Scorpius_, _Starlancer_ a _Vanguard_
 * přeloženy dialogy pro Polaris eventovou misi
 * přeloženy doprovodné parametry pro nové archetypy misí (patrol a ambush)
-* přeloženy údržbářské mise pro CFP: _Minor Repairs Needed_
+* přeloženy údržbářské mise pro CFP: _Minor Repairs Needed; _Moderate Repairs Needed, Extensive Repairs Needed_
+* přeložen průvodce údržbou v mobiGlas
 
 ### 0.8l | 01-05-2025
 
