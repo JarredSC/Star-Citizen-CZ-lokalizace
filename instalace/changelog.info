@@ -1,6 +1,7 @@
 XX.XX.2025 | verze 0.92
 - přidána možnost "Kdo mě zabil?" (kill feed ze hry)
-- nové výchozí pozadí
+- odebrána podpora pro 4.0_PREVIEW
+- nové výchozí pozadí, drobné úpravy UI
 
 20.12.2024 | verze 0.91
 - oprava při vyhledávání RSI knihovny po přejmenování LIVE složky na 4.0_PREVIEW
