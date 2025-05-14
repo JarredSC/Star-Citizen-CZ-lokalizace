@@ -101,7 +101,16 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
-### 0.8n | v přípravě
+### 0.8n | 14-05-2025
+
+<!--[![Static Badge](https://img.shields.io/badge/PTU%204.1.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+[![Static Badge](https://img.shields.io/badge/LIVE%204.1.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+<!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+
+[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
+
+[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přeloženy parametry pro verzi 4.1.1:
   * přeloženy dialogy pro Rowenu Dulli ze CDF (nejen pro Hunt The Polaris)
@@ -111,17 +120,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * přeloženy popisky skinů pro Idris
 * doplněny chybějící texty v tutoriálu a "tutoriálová" loď přejmenovaná na "výcvikovou" loď
 * opravy nahlášených chyb
- 
+* aktualizovánO 38 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+
 ### 0.8m | 10-05-2025
-
-[![Static Badge](https://img.shields.io/badge/PTU%204.1.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-<!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
-<!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
-
-[Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
-
-[Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidáno 380 nových parametrů pro nejnovější PTU verzi 4.1.1
 * přeloženy popisky nových lodí a vozidla: _Anvil Asgard_, _Mirai Guardian MX_, _Starlancer TAC_, respektive _Greycat MTC_
