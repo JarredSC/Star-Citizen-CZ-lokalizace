@@ -105,6 +105,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy parametry pro verzi 4.1.1:
   * přeloženy dialogy pro Rowenu Dulli ze CDF (nejen pro Hunt The Polaris)
+  * přeloženy popisky bladů
+  * blade prozatím překládano jako "jednotka" a v popiscích je "blade" v závorce
+* doplněny chybějící texty v tutoriálu a "tutoriálová" loď přejmenovaná na "výcvikovou" loď
+* opravy nahlášených chyb
  
 ### 0.8m | 10-05-2025
 
