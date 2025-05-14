@@ -107,6 +107,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * přeloženy dialogy pro Rowenu Dulli ze CDF (nejen pro Hunt The Polaris)
   * přeloženy popisky bladů
   * blade prozatím překládano jako "jednotka" a v popiscích je "blade" v závorce
+  * přidány popisky pro lodě _Idris-M_ a _Idris-P_
+  * přeloženy popisky skinů pro Idris
 * doplněny chybějící texty v tutoriálu a "tutoriálová" loď přejmenovaná na "výcvikovou" loď
 * opravy nahlášených chyb
  
