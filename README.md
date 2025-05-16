@@ -103,6 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8o | v přípravě
 
+* přeloženy nápovědy pro tractor beam
 * opravy nahlášených chyb
 
 ### 0.8n | 14-05-2025
