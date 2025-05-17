@@ -11,7 +11,6 @@
 ---
 ## OBSAH
 - [INSTALACE automatická pomocí instalátoru](#instalace-automatická-pomocí-instalátoru)
-- [INSTALACE automatická pomocí skriptu](#instalace-automatická-pomocí-skriptu)
 - [INSTALACE manuální](#instalace-manuální)
 - [ODINSTALOVÁNÍ](#odinstalování)
 - [Otázky a odpovědi](#otázky-a-odpovědi)
@@ -21,7 +20,7 @@
 
 
 ## INSTALACE automatická pomocí instalátoru
-Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
+Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
 [Stáhnout instalátor](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star%20Citizen%20CZ.exe) (*Tento instalační soubor nemá zatím certifikát, proto může váš systém Windows vyžadovat potvrzení pro spuštění.*)
 
@@ -41,17 +40,10 @@ Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
 
 *Jelikož se jedná o beta verzi, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
 
-## INSTALACE automatická pomocí skriptu
-1. Stáhněte si instalační script: [Star_Citizen_-_Instalator_jazyku-V2.cmd](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd) přes pravé tlačítko myši "`Uložit odkaz jako…`".
-    > Tento script pro vás automaticky nainstaluje nejnovější verzi překladu, nastaví `user.cfg` soubor a vymění EasyAntiCheat obrázek, který se zobrazuje při spouštění hry. A protože se jedná o script, Windows vás bude před spuštěním varovat. Toto varování můžete vklidu igonorovat. Pokud se ale přesto chcete přesvědčit o bezpečnosti scriptu, můžete se podívat na jeho [zdrojový kod](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/blob/d90fec3517d538a939e368cce8ac154cc1685907/instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd "instalace/Star_Citizen_-_Instalator_jazyku-V2.cmd").
-2. Spusťte ho v herním adresáři `\StarCitizen\LIVE\data\`.
-    > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
-3. Po dokončení instalace můžete začít hrát!
-
 ## INSTALACE manuální
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
-3. Vytvořit složku `data` v adresáři `\StarCitizen\LIVE\`
-3. V tomto zipu se nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
+3. Vytvořte složku `data` v adresáři `\StarCitizen\LIVE\`
+3. Ve staženém zip souboru se po rozbalení nachází složka `Localization`, kterou přesuňte do adresáře `\StarCitizen\LIVE\data\`.
     > Pokud chcete použít lokalizaci na PTU, spusťte skript v herním adresáři: `\StarCitizen\PTU\data\`.
     > Pokud chcete použít lokalizaci na EPTU, spusťte skript v herním adresáři: `\StarCitizen\EPTU\data\`.
 4. To je vše, můžete začít hrát!
@@ -66,6 +58,9 @@ Instalátor v0.4 beta jsme vytvořili, abychom hráčům zjednodušili možnost 
 
 **Všechno mám naistalované správně, ale ve hře se všude objevují technické texty začínající zavináčem. Co je špatně?**
   > Zřejmě nemá soubor global.ini správné kódování. Ujistěte se, že soubor je uložen v kódování UTF-8 BOM.
+
+**Češtinu mám nainstalovanou, ale stále vydím vše v angličtině. Co dělám špatně?**
+  > S velkou pravděpodobností máte češtinu v jiném adresáři, než v tom, ze kterého se spouští hra. To se občas stane lidem, kteří přeinstalovávají Star Citizen do jiného adresáře a zapomenou, že mají ve svém počítači víc než jeden adresář se hrou.
 
 **Našel jsem chybu, kde ji mohu nahlásit?**
   > Chyby nám prosím hlaště na komunitním discordu v kanálu [Lokalizace Star Citizen](https://discord.com/channels/926921932341919765/1162077785376964719).
@@ -97,8 +92,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
 ### Specifické případy
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
-* **Názvy misí po rozkliknutí mobiGlas**: Chybí diakritika u rozkliknutých názvů misí v mobiGlas. Tyto názvy mají navíc všechna počáteční písmena slov velká. Tento font zatím nepovoluje české znaky a aplikuje anglickou gramatiku.
-[![Známe problémy](https://i.imgur.com/VkNsrta.png)](#)
 ---
 ## Změny
 ### 0.8o | v přípravě
