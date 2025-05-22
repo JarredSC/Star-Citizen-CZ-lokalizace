@@ -98,6 +98,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 581 nových parametrů pro nejnovější (E)PTU verzi 4.2
 * přeloženy mise pro:
+  * Rayari: _Collect Irradiated Kopion Horns; Obtain Irradiated Valakkar Pearls;Gather Irradiated Valakkar Fangs; Collect Irradiated Valakkar Eggs_
   * Foxwell Enforcement: _Red Level Contract: Surprise Attack, Yellow Level Contract: Ambush An Amateur, Red Level Contract: Ambush Attack Squad_
 * přeloženy nápovědy pro tractor beam
 * opravy nahlášených chyb
