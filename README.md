@@ -96,6 +96,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8o | v přípravě
 
+* přidáno 581 nových parametrů pro nejnovější (E)PTU verzi 4.2
 * přeloženy mise pro:
   * Foxwell Enforcement: _Red Level Contract: Surprise Attack, Yellow Level Contract: Ambush An Amateur, Red Level Contract: Ambush Attack Squad_
 * přeloženy nápovědy pro tractor beam
