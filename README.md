@@ -99,6 +99,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidáno 7 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * přeloženy parametry pro verzi 4.2:
   * 22 zpráv pro 7 datapedů, které lze objevit v lokacích během nové sandboxové aktivity
+  * popisky collectible předmětů získatelných z valakkarů
 * odstraněno 467 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8o | 28-05-2025
