@@ -103,6 +103,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * pro Vaughna: _A Challenging Contract; Another Challenge to be Removed; Killing a Ghost; Pyro Contract_  
   * 22 zpráv pro 7 datapedů, které lze objevit v lokacích během nové sandboxové aktivity
   * popisky collectible předmětů získatelných z valakkarů
+  * přeloženy různé texty, hlášky a interface spojené s novou sandboxovou aktivitou
+  * přeložené dialogy (133)
 * odstraněno 467 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8o | 28-05-2025
