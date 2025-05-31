@@ -99,8 +99,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidáno 8 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * přeloženy parametry pro verzi 4.2:
   * přeloženy mise:
-    * pro Bitzeros: _Need some Prism shotguns_
-    * pro Vaughna: _A Challenging Contract; Another Challenge to be Removed; Killing a Ghost; Pyro Contract_  
+    * pro Bitzeros: _Need some Prism shotguns; A little of the bash and crash; Anyone like hitting things?; Hammer some item; Operation Clean Slate; Disruptor needed; Involuntary Change of Ownership; Calling all thieves; ASD Heist_
+    * pro Vaughn: _A Challenging Contract; Another Challenge to be Removed; Killing a Ghost; Pyro Contract_  
   * 22 zpráv pro 7 datapedů, které lze objevit v lokacích během nové sandboxové aktivity Storm Breaker
   * popisky collectible předmětů získatelných z valakkarů
   * přeloženy různé texty, hlášky a interface spojené s novou sandboxovou aktivitou Storm Breaker
