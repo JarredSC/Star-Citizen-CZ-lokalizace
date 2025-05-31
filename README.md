@@ -101,12 +101,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * přeloženy mise:
     * pro Bitzeros: _Need some Prism shotguns_
     * pro Vaughna: _A Challenging Contract; Another Challenge to be Removed; Killing a Ghost; Pyro Contract_  
-  * 22 zpráv pro 7 datapedů, které lze objevit v lokacích během nové sandboxové aktivity
+  * 22 zpráv pro 7 datapedů, které lze objevit v lokacích během nové sandboxové aktivity Storm Breaker
   * popisky collectible předmětů získatelných z valakkarů
-  * přeloženy různé texty, hlášky a interface spojené s novou sandboxovou aktivitou
-  * přeložené dialogy (133)
+  * přeloženy různé texty, hlášky a interface spojené s novou sandboxovou aktivitou Storm Breaker
+  * přeložené dialogy (146)
+  * přeložen měsíční zpravodaj od Terra Gazette na měsíc červen
 * odstraněno 467 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
-* aktualizovánO 47 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 47 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 ### 0.8o | 28-05-2025
 
