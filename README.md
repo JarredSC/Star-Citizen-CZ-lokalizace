@@ -96,7 +96,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8p | v přípravě
 
-* přidáno 7 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přidáno 8 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * přeloženy parametry pro verzi 4.2:
   * přeloženy mise:
     * pro Bitzeros: _Need some Prism shotguns_
@@ -106,6 +106,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * přeloženy různé texty, hlášky a interface spojené s novou sandboxovou aktivitou
   * přeložené dialogy (133)
 * odstraněno 467 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* aktualizovánO 47 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 ### 0.8o | 28-05-2025
 
