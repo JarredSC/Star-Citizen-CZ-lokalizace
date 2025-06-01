@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Banners>
+  <Banner>
+    <ImageUrl>https://example.com/image1.jpg</ImageUrl>
+    <LinkUrl>https://www.seznam.cz</LinkUrl>
+  </Banner>
+  <Banner>
+    <ImageUrl>https://example.com/image2.jpg</ImageUrl>
+    <LinkUrl>https://www.google.com</LinkUrl>
+  </Banner>
+  <Banner>
+    <ImageUrl>https://example.com/image3.jpg</ImageUrl>
+    <LinkUrl>https://www.idnes.cz</LinkUrl>
+  </Banner>
+</Banners>
