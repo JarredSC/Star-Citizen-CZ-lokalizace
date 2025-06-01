@@ -5,11 +5,11 @@
     <LinkUrl>https://barcitizen.star-citizen.cz/</LinkUrl>
   </Banner>
   <Banner>
-    <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/2.jpg</ImageUrl>
+    <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/2.png</ImageUrl>
     <LinkUrl>https://www.google.com</LinkUrl>
   </Banner>
   <Banner>
-    <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/3.jpg</ImageUrl>
+    <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/3.png</ImageUrl>
     <LinkUrl>https://www.idnes.cz</LinkUrl>
   </Banner>
 </Banners>
