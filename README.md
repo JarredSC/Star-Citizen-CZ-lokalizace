@@ -96,8 +96,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8q | v přípravě
 
-* přidáno 8 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizovánO 381 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* přidáno 30 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 381 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * aktualizovány záznamy v Journalu (Deníku) a raidaci a nemoc z ozáření
 * odstraněno 7 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
