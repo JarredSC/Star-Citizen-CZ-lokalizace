@@ -105,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
-* přidáno 31 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přidáno 142 nových parametrů pro PTU verzi 4.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 548 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * aktualizovány záznamy v Journalu (Deníku) o raidaci a nemoc z ozáření
 * odstraněno 11 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
