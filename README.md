@@ -98,6 +98,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 111 nových parametrů pro PTU verzi 4.2
 * překlad vybraných dialogů
+* sjednocení některých pojmů (různé překlady stejného názvu)
 * harmonizace vybraných dialogů Wikela
 * doplňující překlady vybraných parametrů
 * opravy nahlášených chyb
