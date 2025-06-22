@@ -2,14 +2,17 @@
 <Banners>
   <Banner>
     <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/1.jpg</ImageUrl>
+    <Title>Test</Title>
     <LinkUrl>https://barcitizen.star-citizen.cz/</LinkUrl>
   </Banner>
   <Banner>
     <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/2.jpg</ImageUrl>
+    <Title>Test</Title>
     <LinkUrl>https://star-citizen.cz/ace-trials-turnaj/</LinkUrl>
   </Banner>
   <Banner>
     <ImageUrl>https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/refs/heads/main/instalace/bannery/3.jpg</ImageUrl>
+    <Title>Test</Title>
     <LinkUrl>https://youtube.com/watch?v=B5blvMB3bgs</LinkUrl>
   </Banner>
 </Banners>
