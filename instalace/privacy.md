@@ -1,4 +1,4 @@
-# Privacy Policy / Zásady ochrany osobních údajů
+# Zásady ochrany osobních údajů / Privacy Policy
 
 [🇨🇿 Čeština](#česká-verze) | [🇬🇧 English](#english-version)
 
@@ -8,72 +8,90 @@
 
 ### Zásady ochrany osobních údajů aplikace Češtinátor
 
-Vaše soukromí je pro nás důležité. Tato zásada ochrany osobních údajů vysvětluje, jak aplikace **Češtinátor** shromažďuje, používá a chrání vaše osobní údaje.
+**Češtinátor** (dále jen „aplikace“) si váží vašeho soukromí a zavazuje se chránit vaše osobní údaje v souladu s platnými zákony, včetně Obecného nařízení o ochraně osobních údajů (GDPR).
 
-### Jaké údaje shromažďujeme?
+### Jaké údaje aplikace shromažďuje a proč?
 
-- **Neosobní údaje:** Aplikace nevyžaduje žádné osobní údaje k použití.
-- **Technická data:** Pro funkčnost aplikace se čtou lokální logy z vašeho počítače (cesta k souborům hry Star Citizen) a informace o verzích souborů překladu.
-- **Síťové požadavky:** Pro stahování překladových souborů aplikace používá internetové připojení k veřejnému repozitáři na GitHubu.
+- **Osobní údaje:** Aplikace neshromažďuje žádné osobní údaje (např. jméno, e-mail, IP adresu).
+- **Technická data:** Aplikace čte pouze lokální herní logy a informace o verzích překladových souborů za účelem zajištění správné funkčnosti.
+- **Síťové požadavky:** Pro stahování aktualizací překladů aplikace navazuje spojení s veřejným GitHub repozitářem přes zabezpečený protokol HTTPS.
+- **Analytika a sledování:** Aplikace neobsahuje žádné analytické nebo sledovací nástroje.
 
-### Jak data používáme?
+### Jak aplikace používá údaje?
 
-- Data z lokálních logů slouží pouze pro detekci instalovaných větví hry Star Citizen.
-- Verze překladových souborů jsou porovnávány s verzí online, aby bylo možné nabídnout aktualizaci.
-- Neodesíláme ani nesdílíme žádná vaše osobní data s třetími stranami.
-- Informace o stahování slouží výhradně k zajištění funkčnosti aktualizací.
+- Data z lokálních souborů slouží výhradně pro detekci instalace hry a správné nabídnutí aktualizací.
+- Neodesíláme ani nesdílíme žádná data s třetími stranami.
+- Všechny síťové přenosy jsou zabezpečené a slouží jen ke stažení nezbytných souborů.
 
-### Ukládání a zabezpečení dat
+### Uchovávání a zabezpečení dat
 
-- Aplikace neukládá žádná osobní data mimo váš počítač.
-- Přístup k lokálním souborům je omezen pouze na čtení potřebných logů a překladových souborů.
-- Veškerá komunikace ke vzdáleným serverům probíhá přes zabezpečené protokoly HTTPS.
+- Aplikace neukládá žádná data mimo vaše zařízení.
+- Přístup k lokálním souborům je omezen pouze na čtení nezbytných souborů.
+- Pro komunikaci používáme šifrované protokoly (HTTPS).
 
-### Startup a automatické spuštění
+### Automatické spuštění
 
-- Aplikace nabízí možnost nastavit automatické spuštění po startu systému, které můžete kdykoliv zapnout nebo vypnout.
-- Tato funkce neodesílá žádná data, pouze spouští aplikaci lokálně.
+- Aplikace nabízí volitelnou funkci automatického spuštění po startu systému.
+- Automatické spuštění je možné kdykoliv vypnout a nezahrnuje žádný přenos dat.
 
-### Kontakty a další informace
+### Vaše práva
 
-Pokud máte jakékoliv otázky ohledně ochrany osobních údajů, kontaktujte mě prosím přes [GitHub repository](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace).
+- Máte právo požadovat informace o údajích zpracovávaných aplikací.
+- Můžete kdykoliv zakázat automatické spuštění a omezit přístup aplikace k souborům.
+- Pro případné dotazy k ochraně osobních údajů nás můžete kontaktovat níže.
+
+### Kontaktní informace
+
+Pokud máte otázky ohledně ochrany osobních údajů, kontaktujte nás prosím přes:
+
+- GitHub repozitář: [https://github.com/JarredSC/Star-Citizen-CZ-lokalizace](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace)
+- E-mail: jan@pichrt.info
 
 ---
 
 ## English version
 
-### Privacy Policy of the Češtinátor Application
+### Privacy Policy of the Češtinátor application
 
-Your privacy is important to us. This privacy policy explains how the **Češtinátor** app collects, uses, and protects your personal data.
+The **Češtinátor** application (hereinafter "the app") respects your privacy and is committed to protecting your personal data in compliance with applicable laws, including the General Data Protection Regulation (GDPR).
 
-### What data do we collect?
+### What data does the app collect and why?
 
-- **Non-personal data:** The app does not require any personal data to operate.
-- **Technical data:** The app reads local log files on your computer (paths related to the Star Citizen game installation) and version info of translation files.
-- **Network requests:** To download translation files, the app uses internet access to a public GitHub repository.
+- **Personal data:** The app does not collect any personal data (such as name, email, IP address).
+- **Technical data:** The app only reads local game logs and translation file version info to ensure correct functionality.
+- **Network requests:** To download translation updates, the app connects to a public GitHub repository via secure HTTPS protocol.
+- **Analytics and tracking:** The app contains no analytics or tracking tools.
 
-### How do we use the data?
+### How does the app use data?
 
-- Local log data is used only to detect installed Star Citizen branches.
-- Translation file versions are compared with online versions to offer updates.
-- We do not send or share any personal data with third parties.
-- Download info is used exclusively to ensure update functionality.
+- Local file data is used solely to detect the game installation and properly offer updates.
+- We do not send or share any data with third parties.
+- All network communication is secure and used only to download necessary files.
 
-### Data storage and security
+### Data retention and security
 
-- The app does not store any personal data outside your computer.
-- Access to local files is limited to reading necessary logs and translation files.
-- All communication with remote servers is done over secure HTTPS protocols.
+- The app does not store any data outside your device.
+- Access to local files is restricted to reading only the necessary files.
+- Communication uses encrypted protocols (HTTPS).
 
-### Startup and automatic launch
+### Automatic startup
 
-- The app offers an option to enable or disable automatic launch at system startup.
-- This feature does not send any data; it only launches the app locally.
+- The app offers an optional feature to launch automatically at system startup.
+- The automatic startup can be disabled anytime and does not involve any data transmission.
 
-### Contact and further information
+### Your rights
 
-If you have any questions regarding privacy, please contact me via the [GitHub repository](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace).
+- You have the right to request information about data processed by the app.
+- You can disable automatic startup and restrict app access to files at any time.
+- For any questions related to privacy, please contact us below.
+
+### Contact information
+
+If you have any privacy-related questions, please contact us via:
+
+- GitHub repository: [https://github.com/JarredSC/Star-Citizen-CZ-lokalizace](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace)
+- E-mail: jan@pichrt.info
 
 ---
 
-*Děkuji za použití aplikace Češtinátor! / Thank you for using Češtinátor!*
+*Thank you for using Češtinátor! / Děkujeme za použití aplikace Češtinátor!*
