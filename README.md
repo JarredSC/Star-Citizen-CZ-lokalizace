@@ -97,6 +97,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8v | v přípravě
 
 * přidány 3 nové parametry pro verzi 4.2.1
+* přeloženy "Základy těžby" v Deníku
+* přeloženy eventové mise pro:
+  * Hurston: _RESOURCE DRIVE: LARGE SIZED HAUL; RESOURCE DRIVE: MEDIUM SIZED HAUL; RESOURCE DRIVE: SMALL SIZED HAUL; RESOURCE DRIVE: LARGE CARGO RETRIEVAL; RESOURCE DRIVE: SMALL CARGO RETRIEVAL; RESOURCE DRIVE: LARGE STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: SMALL STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: MATERIALS REQUIRED; RESOURCE DRIVE: HAULER REQUIRED; RESOURCE DRIVE: LARGE VESSEL UNDER ATTACK; RESOURCE DRIVE: SMALL VESSEL UNDER ATTACK_
+* přeloženy dialogy nových NPC k eventu:
+  * Aldus Carmichael (28)
 * aktualizováno 6 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 7 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
