@@ -103,7 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy dialogy nových NPC k eventu:
   * Aldus Carmichael (28)
 * přeloženy popisky k novým skinům z eventu (36)
-* aktualizováno 6 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 18 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 7 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8u | 25-06-2025
