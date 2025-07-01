@@ -94,7 +94,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### 0.8v | 01-07-2025
+### 0.u | 01-07-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.2.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -105,21 +105,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
-* přidáno 42 nových parametrů pro verzi 4.2.1
+* přidáno 238 nových parametrů pro verzi 4.2.1
 * přeloženy "Základy těžby" v Deníku (bug ve hře zatím neukazuje)
 * přeloženy eventové mise pro:
   * Hurston: _RESOURCE DRIVE: LARGE SIZED HAUL; RESOURCE DRIVE: MEDIUM SIZED HAUL; RESOURCE DRIVE: SMALL SIZED HAUL; RESOURCE DRIVE: LARGE CARGO RETRIEVAL; RESOURCE DRIVE: SMALL CARGO RETRIEVAL; RESOURCE DRIVE: LARGE STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: SMALL STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: MATERIALS REQUIRED; RESOURCE DRIVE: HAULER REQUIRED; RESOURCE DRIVE: LARGE VESSEL UNDER ATTACK; RESOURCE DRIVE: SMALL VESSEL UNDER ATTACK_
 * přeloženy dialogy nových NPC k eventu:
   * Aldus Carmichael (28)
 * přeloženy popisky k novým skinům z eventu (36)
-* aktualizováno 30 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
-* odstraněno 7 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
-
-### 0.8u | 25-06-2025
-
-* přidáno 196 nových parametrů pro verzi 4.2.1 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizováno 127 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
-* odstraněno 122 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* aktualizováno 157 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* odstraněno 129 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * opravy nahlášených chyb
 
 ### 0.8t | 25-06-2025
