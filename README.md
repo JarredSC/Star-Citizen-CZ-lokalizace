@@ -889,7 +889,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * překlad popisků hlavních lokací a orbitálních stanic
 * stovky malých překladů a úprav
 
-### verze 0.0b (experimentální) 13-10-2024 12:00
+### verze 0.0b (experimentální) 13-10-2023 12:00
 * opravy překlepů a přizpůsobení přeložených stringů na kapitálky, kde si to žádá diakritika
 * pojem "vehicle" je dočaně nahrazen slovem "stroj" (ne všude)
 * ASOP terminál: specifický font nepodporuje diakritiku, překlad tedy ponechán bez diakritiky
