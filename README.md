@@ -94,7 +94,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### 0.u | 01-07-2025
+### 0.8v | v přípravě
+
+* přeloženy eventové mise pro:
+  * Crusader: _RESOURCE DRIVE: HEAVY SHIPMENT, RESOURCE DRIVE: MEDIUM SHIPMENT, RESOURCE DRIVE: SMALL SHIPMENT, RESOURCE DRIVE: LARGE CARGO SHIP RECOVERY, RESOURCE DRIVE: SMALL CARGO SHIP RECOVERY, RESOURCE DRIVE: LARGE GOODS RECOVERY, RESOURCE DRIVE: SMALL GOODS RECOVERY, RESOURCE DRIVE: URGENT MATERIALS NEEDED, RESOURCE DRIVE: CARGO HAULER NEEDED, RESOURCE DRIVE: DEFEND LARGE CARGO SHIP, RESOURCE DRIVE: DEFEND SMALL CARGO SHIP_
+
+### 0.8u | 01-07-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.2.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
