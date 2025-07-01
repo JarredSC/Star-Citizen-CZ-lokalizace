@@ -106,7 +106,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidáno 42 nových parametrů pro verzi 4.2.1
-* přeloženy "Základy těžby" v Deníku
+* přeloženy "Základy těžby" v Deníku (bug ve hře zatím neukazuje)
 * přeloženy eventové mise pro:
   * Hurston: _RESOURCE DRIVE: LARGE SIZED HAUL; RESOURCE DRIVE: MEDIUM SIZED HAUL; RESOURCE DRIVE: SMALL SIZED HAUL; RESOURCE DRIVE: LARGE CARGO RETRIEVAL; RESOURCE DRIVE: SMALL CARGO RETRIEVAL; RESOURCE DRIVE: LARGE STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: SMALL STOLEN CARGO RETRIEVAL; RESOURCE DRIVE: MATERIALS REQUIRED; RESOURCE DRIVE: HAULER REQUIRED; RESOURCE DRIVE: LARGE VESSEL UNDER ATTACK; RESOURCE DRIVE: SMALL VESSEL UNDER ATTACK_
 * přeloženy dialogy nových NPC k eventu:
