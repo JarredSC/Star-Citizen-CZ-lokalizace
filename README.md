@@ -105,6 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * Aster Remmington (28)
   * Ella Tieno (28)
 * přeloženy hlášky odměn (40)
+* přeloženy dialogy (74)
 
 ### 0.8u | 01-07-2025
 
