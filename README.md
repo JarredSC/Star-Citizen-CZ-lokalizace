@@ -103,6 +103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * ArcCorp: _RESOURCE DRIVE: LARGE CARGO NEEDS HAULING, RESOURCE DRIVE: MEDIUM CARGO NEEDS HAULING, RESOURCE DRIVE: SMALL CARGO NEEDS HAULING, RESOURCE DRIVE: RECOVER LARGE SHIPMENT, RESOURCE DRIVE: RECOVER SMALL SHIPMENT, RESOURCE DRIVE: GET OUR LARGE CARGO BACK, RESOURCE DRIVE: GET OUR SMALL CARGO BACK, RESOURCE DRIVE: BRING US MATERIALS, RESOURCE DRIVE: DELIVER MATERIAL DONATION, RESOURCE DRIVE: LARGE CARGO SHIP NEEDS HELP, RESOURCE DRIVE: SMALL CARGO SHIP NEEDS HELP_
 * přeloženy mise pro:
   * Headhunters: _Protect Our Site; Help Headhunters at location; Secure Our Airspace; Restore Order at location; Eliminate Annoyance; Stop Attack at location_
+  * Foxwell: _Yellow Level Contract: Defend location, Orange Level Contract: Protect Our Client’s Interests, Orange Level Contract: Ship Protection Needed, Red Level Contract: Support VIP Clients, Yellow Level Contract: Stand Up to Aggressors, Red Level Contract: Save Ships at location_
 * přeloženy dialogy nových NPC k eventu:
   * Denver Samuels (28)
   * Aster Remmington (28)
