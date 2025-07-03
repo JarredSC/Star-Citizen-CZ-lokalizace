@@ -107,6 +107,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * Denver Samuels (28)
   * Aster Remmington (28)
   * Ella Tieno (28)
+  * generické (20)
 * přeloženy hlášky odměn (40)
 * přeloženy dialogy (74)
 
