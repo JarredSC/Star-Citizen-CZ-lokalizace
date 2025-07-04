@@ -110,6 +110,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * Ella Tieno (28)
 * přeloženy hlášky odměn (40)
 * přeloženy dialogy (166)
+* aktualizováno 8 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * opravy nahlášených chyb
 
 ### 0.8u | 01-07-2025
@@ -130,7 +131,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy dialogy nových NPC k eventu:
   * Aldus Carmichael (28)
 * přeloženy popisky k novým skinům z eventu (36)
-* aktualizováno 165 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 157 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 129 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * opravy nahlášených chyb
 
