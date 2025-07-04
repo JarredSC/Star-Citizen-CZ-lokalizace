@@ -94,7 +94,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### 0.8v | v přípravě
+### 0.8v | 04-07-2025
 
 * přidáno 56 nových parametrů pro verzi 4.2.1
 * přeloženy eventové mise pro:
@@ -110,6 +110,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * Ella Tieno (28)
 * přeloženy hlášky odměn (40)
 * přeloženy dialogy (166)
+* opravy nahlášených chyb
 
 ### 0.8u | 01-07-2025
 
@@ -129,7 +130,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy dialogy nových NPC k eventu:
   * Aldus Carmichael (28)
 * přeloženy popisky k novým skinům z eventu (36)
-* aktualizováno 157 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 165 parametrŮ (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 129 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * opravy nahlášených chyb
 
