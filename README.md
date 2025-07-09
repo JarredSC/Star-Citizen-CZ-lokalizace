@@ -94,6 +94,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
+### 0.8w | v přípravě
+
+* přidáno 39 nových parametrů pro verzi 4.2.1
+* odstraněno 16 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* aktualizováno 11 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+
 ### 0.8v | 04-07-2025
 
 * přidáno 56 nových parametrů pro verzi 4.2.1
