@@ -96,6 +96,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8w | v přípravě
 
+* přeložen měsíční zpravodaj od Terra Gazette na měsíc červenec
 * přidáno 39 nových parametrů pro verzi 4.2.1
 * odstraněno 16 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * aktualizováno 11 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
