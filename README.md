@@ -105,7 +105,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
-* přeložen měsíční zpravodaj od Terra Gazette na měsíc červenec
+* přeložen měsíční zpravodaj od New United na měsíc červenec
 * přidáno 72 nových parametrů pro verzi 4.2.1
 * odstraněno 19 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * aktualizováno 93 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
