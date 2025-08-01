@@ -96,8 +96,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8x | v přípravě
 
+* přidány 3 nové parametry pro verzi 4.2.1
 * oprava špatného odřádkování v 20 parametrů (oprava "\N" na "\n")
 * parametr "actor_species_human" přeložen dočasně jako "osoba" a ne jako "člověk" (diakritika nefunguje v Cargo Manageru)
+* oprava nahlášených chyb
 
 ### 0.8w | 18-07-2025
 
