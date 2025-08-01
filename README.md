@@ -96,6 +96,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8x | v přípravě
 
+* přeloženy skiny pro Meteor
+* drobné překlady
 * odstraněny 2 smazané parametry (parametry, které vývojáři odebrali z lokalizačního souboru)
 * aktualizováno 22 popisků misí a názvů (u nákladních misí je odstraněna diakritika kvůli nákladním výtahům, které nepodporují diakritiku)
 * oprava špatného odřádkování v 20 parametrů (oprava "\N" na "\n")
