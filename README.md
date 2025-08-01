@@ -97,7 +97,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8x | v přípravě
 
 * odstraněny 2 smazané parametry (parametry, které vývojáři odebrali z lokalizačního souboru)
-* aktualizováno 12 popisků misí a názvů (u nákladních misí je odstraněna diakritika kvůli nákladním výtahům, které nepodporují diakritiku)
+* aktualizováno 22 popisků misí a názvů (u nákladních misí je odstraněna diakritika kvůli nákladním výtahům, které nepodporují diakritiku)
 * oprava špatného odřádkování v 20 parametrů (oprava "\N" na "\n")
 * parametr "actor_species_human" přeložen dočasně jako "osoba" a ne jako "člověk" (diakritika nefunguje v Cargo Manageru)
 * oprava nahlášených chyb
