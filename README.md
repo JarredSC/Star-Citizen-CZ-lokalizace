@@ -107,7 +107,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 25 nových parametrů pro verzi 4.3 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * přeloženo 610 parametrů pro verzi 4.3
-* aktualizováno 47 popisků misí a názvů (u nákladních misí je odstraněna diakritika kvůli nákladním výtahům, které nepodporují diakritiku)
+* aktualizováno 47 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * překlad srpnového přehledu Terra Gazette (najdete v Journalu/Deníku)
 
 ### 0.8y | 06-08-2025
