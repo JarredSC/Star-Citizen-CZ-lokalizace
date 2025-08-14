@@ -94,6 +94,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
+### 0.8ab | v přípravě
+
+* aktualizováno 11 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* odstraněno 37 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+
 ### 0.8aa | 13-08-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
