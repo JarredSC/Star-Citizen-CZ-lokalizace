@@ -96,6 +96,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8ab | v přípravě
 
+* přeloženy mise pro:
+  * Eckhart: _INFILITRATE ASD SITE AND DESTROY SERVERS; PURGE ASD SERVERS; FIND SERVERS AT ASD SITE AND DESTROY; SEEK AND DESTROY ASD DATA_
+  * Hockrow Agency: _Jorrit Dossier: Onyx Personnel Files; Jorrit Dossier: Access Engineering Files; Jorrit Dossier: Access Research Files; Jorrit Dossier: Updated Energy Anomaly Data; Jorrit Dossier: Retrieve Energy Anomaly Data; Jorrit Dossier: Updated Security Data_
 * aktualizováno 26 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 37 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
