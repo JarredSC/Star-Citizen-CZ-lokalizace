@@ -94,7 +94,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### 0.8ab | 17-08-2025
+### O.8aC | v přípravě
+
+* aktualizace popisků misí (popisky byly v originále změněny):
+    * Foxwell: _Yellow Level Contract: Security Sweep; Orange Level Contract: Potential Security Threat; Orange Level Contract: Security Patrol; Red Level Contract: Secure Threatened Space; Yellow Level Contract: Routine Patrol; Red Level Contract: High-Risk Security Patrol; Yellow Level Contract: Surprise Strike; Orange Level Contract: Return the Favor; Orange Level Contract: Spring a Trap; Red Level Contract: Surprise Attack; Yellow Level Contract: Ambush An Amateur; Red Level Contract: Ambush Attack Squad_
+* opravy nahlášených chyb (manuální převod diakritiky na velká písmena u parametrů pro Onyx)
+
+### 0.8aB | 17-08-2025
 
 <!--[![Static Badge](https://img.shields.io/badge/PTU%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
