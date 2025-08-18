@@ -94,11 +94,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
-### O.8aC | v přípravě
+### O.8aC | 18-08-2025
 
 * aktualizace popisků misí (popisky byly v originále změněny):
     * Foxwell: _Yellow Level Contract: Security Sweep; Orange Level Contract: Potential Security Threat; Orange Level Contract: Security Patrol; Red Level Contract: Secure Threatened Space; Yellow Level Contract: Routine Patrol; Red Level Contract: High-Risk Security Patrol; Yellow Level Contract: Surprise Strike; Orange Level Contract: Return the Favor; Orange Level Contract: Spring a Trap; Red Level Contract: Surprise Attack; Yellow Level Contract: Ambush An Amateur; Red Level Contract: Ambush Attack Squad_
     * Headhunters: _Protect Our Site; Restore Order at location; Stop Attack at location_
+* přeloženy nové popisky skinů pro Asgarda, Avengera, Corsaira, Ursu a Wolfa
 * opravy nahlášených chyb (manuální převod diakritiky na velká písmena u Onyx parametrů)
 
 ### 0.8aB | 17-08-2025
