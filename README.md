@@ -99,11 +99,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * aktualizace popisků misí (popisky byly v originále změněny):
     * Covalex: _Holiday Delivery; Multi-Stop Delivery Route_
     * Foxwell: _Orange Level Contract: Ship Protection Needed; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
+    * FTL: _FTL Courier Assignment; FTL Courier Employment Evaluation_
     * Headhunters: _Getting Our Goods Back_
     * Ling Family: _Package Delivery for Ling; Ling Family Local Delivery Route; Ling Family Seeking New Contractors; Ling Contractor Re-evaluation; Ling Shipment Delivery; Job Opportunity with Ling Hauling_
+    * Northrock: _Bounty Assignment: Name; Pro Tem Bounty Contract; Pro Tem Bounty Contract (Reevaluation); Apprehend Suspect: Name; Pro Tem Suspect Apprehension; Pro Tem Suspect Apprehension (Reevaluation); Retrieval Op_
+    * Rayari: _Obtain Irradiated Valakkar Pearls_
     * Red Wind: _Red Wind Discreet Courier Run; Red Wind In Need of Discreet Couriers; RED WIND DELIVERY PILOT NEEDED_
     * UDM: _UDM Local Delivery Route; UDM Local Delivery Evaluation; UDM Local Delivery Re-evaluation_
-* aktualizováno 18 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 20 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* drobné překlady
   
 ### O.8aC | 18-08-2025
 
