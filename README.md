@@ -100,6 +100,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * Covalex: _Holiday Delivery; Multi-Stop Delivery Route_
     * Foxwell: _Orange Level Contract: Ship Protection Needed; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
     * Headhunters: _Getting Our Goods Back_
+    * Ling Family: _Package Delivery for Ling; Ling Family Local Delivery Route; Ling Family Seeking New Contractors; Ling Contractor Re-evaluation; Ling Shipment Delivery; Job Opportunity with Ling Hauling_
     * Red Wind: _Red Wind Discreet Courier Run; Red Wind In Need of Discreet Couriers; RED WIND DELIVERY PILOT NEEDED_
     * UDM: _UDM Local Delivery Route; UDM Local Delivery Evaluation; UDM Local Delivery Re-evaluation_
 * aktualizováno 18 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
