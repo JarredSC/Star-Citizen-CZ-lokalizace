@@ -97,6 +97,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8aD | v přípravě
 
 * aktualizace popisků misí (popisky byly v originále změněny):
+    * Covalex: _Holiday Delivery; Multi-Stop Delivery Route_
     * Foxwell: _Orange Level Contract: Ship Protection Needed; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
     * Headhunters: _Getting Our Goods Back_
 * aktualizováno 18 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
@@ -113,7 +114,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * aktualizace popisků misí (popisky byly v originále změněny):
-    * Covalex: _Holiday Delivery; Multi-Stop Delivery Route_
     * Foxwell: _Yellow Level Contract: Security Sweep; Orange Level Contract: Potential Security Threat; Orange Level Contract: Security Patrol; Red Level Contract: Secure Threatened Space; Yellow Level Contract: Routine Patrol; Red Level Contract: High-Risk Security Patrol; Yellow Level Contract: Surprise Strike; Orange Level Contract: Return the Favor; Orange Level Contract: Spring a Trap; Red Level Contract: Surprise Attack; Yellow Level Contract: Ambush An Amateur; Red Level Contract: Ambush Attack Squad_
     * Headhunters: _Protect Our Site; Restore Order at location; Stop Attack at location_
 * přeloženy nové popisky skinů pro Asgarda, Avengera, Corsaira, Ursu a Wolfa
