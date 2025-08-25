@@ -97,7 +97,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8aD | v přípravě
 
 * aktualizace popisků misí (popisky byly v originále změněny):
-    * Covalex: _Holiday Delivery; Multi-Stop Delivery Route_
+    * Covalex: _Holiday Delivery; Multi-Stop Delivery Route;Covalex Package Handler; Covalex Local Delivery Route; Covalex Evaluation; Covalex Re-evaluation_
     * Foxwell: _Orange Level Contract: Ship Protection Needed; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
     * FTL: _FTL Courier Assignment; FTL Courier Employment Evaluation_
     * Headhunters: _Getting Our Goods Back_
