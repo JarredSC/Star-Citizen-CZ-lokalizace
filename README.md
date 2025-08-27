@@ -56,11 +56,22 @@ Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost
 **Může mi překlad rozbít hru? Hrozí mi 30k?**
   > Ne. Soubor global.ini pouze nahrazuje znaky textových řětezců ve hře. Na chod hry, klienta nebo serveru nemá žádný vliv.
 
+**Jak zjistím, že mám staženou aktuální verzi češtiny?**
+  > Ověřit si to můžete přímo ve hře na domovské obrazovce, kde se logujete do hry. Vlevo nahoře vidíte verzi češtiny.
+  > O bezproblémovou instalaci se stará automatický instalátor.
+  > <img src="https://i.imgur.com/AKlpzX6.png" width="50%">
+  
 **Všechno mám naistalované správně, ale ve hře se všude objevují technické texty začínající zavináčem. Co je špatně?**
   > Zřejmě nemá soubor global.ini správné kódování. Ujistěte se, že soubor je uložen v kódování UTF-8 BOM.
+  > O správné kódování se stará automatický instalátor.
 
 **Češtinu mám nainstalovanou, ale stále vydím vše v angličtině. Co dělám špatně?**
   > S velkou pravděpodobností máte češtinu v jiném adresáři, než v tom, ze kterého se spouští hra. To se občas stane lidem, kteří přeinstalovávají Star Citizen do jiného adresáře a zapomenou, že mají ve svém počítači víc než jeden adresář se hrou.
+  > O bezproblémovou instalaci se stará automatický instalátor.
+
+**Mám nainstalovanou aktuální verzi, ale ve hře je stále starší verze. Jak to napravit?**
+  > To se stává v případě, že jste přeinstalovali Star Citizen na jiné místo. Češtinu máte nahranou ve starém adresáři Star Citizen, než ze kterého spouštíte hru.
+  > O bezproblémovou instalaci se stará automatický instalátor.
 
 **Našel jsem chybu, kde ji mohu nahlásit?**
   > Chyby nám prosím hlaště na komunitním discordu v kanálu [Lokalizace Star Citizen](https://discord.com/channels/926921932341919765/1162077785376964719).
