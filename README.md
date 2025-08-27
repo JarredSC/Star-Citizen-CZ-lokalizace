@@ -104,7 +104,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * Ling Family: _Package Delivery for Ling; Ling Family Local Delivery Route; Ling Family Seeking New Contractors; Ling Contractor Re-evaluation; Ling Shipment Delivery; Job Opportunity with Ling Hauling_
     * Northrock: _Bounty Assignment: Name; Pro Tem Bounty Contract; Pro Tem Bounty Contract (Reevaluation); Apprehend Suspect: Name; Pro Tem Suspect Apprehension; Pro Tem Suspect Apprehension (Reevaluation); Retrieval Op_
     * Rayari: _Obtain Irradiated Valakkar Pearls_
-    * Red Wind: _Red Wind Discreet Courier Run; Red Wind In Need of Discreet Couriers; RED WIND DELIVERY PILOT NEEDED; <RepRank> Hauler Needed for Direct <Cargo> Route_
+    * Red Wind: _Red Wind Discreet Courier Run; Red Wind In Need of Discreet Couriers; RED WIND DELIVERY PILOT NEEDED; <RepRank> Hauler Needed for Direct <Cargo> Route; Red Wind Local Delivery Route; Red Wind Seeking New Pilots; Another Attempt at Red Wind Delivery_
     * UDM: _UDM Local Delivery Route; UDM Local Delivery Evaluation; UDM Local Delivery Re-evaluation_
 * přidány popisky pro Terrapin Medic (Wikelo), Golem (Wikelo), Starlance TAC (Wikelo) a L-21 Wolf
 * aktualizováno 20 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
