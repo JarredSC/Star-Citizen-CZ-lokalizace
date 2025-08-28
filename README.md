@@ -1,7 +1,8 @@
 # Star Citizen lokalizace
 🚧 Toto je rozpracovaná verze neoficiálního překladu hry Star Citizen, na které se stále pracuje.
 
-⚠️ Hra ještě nemá implementované všechny building blocky pro UI a některé prvky jsou zastaralé (např. mobiGlas a lodní HUD). To znamená, že některé texty nelze vůbec přeložit, neboť jsou fixní částí dané interface. Taktéž řada tlačítek má fixní rozměry a je nutné překlad jejich textu přizpůsobit jejich velikosti.
+⚠️ Hra je stále ve vývoji a tomu odpovídá i český překlad. Berte tedy prosím překlad češtiny jako pomoc při vašem hraní.
+$\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety přizpůsobené všem českým znakům, bude stále překlad působit nedokončeně.}}$
 
 ## Podpora
 Čeština a všechny její aktualizace jsou poskytovány zdarma. Pokud ale chcete přispět na pokračující vývoj lokalizace, můžete nám přispět libovolnou částkou. [![Darovat příspěvek](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ETTG6FZNFU3RJ)
