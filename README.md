@@ -2,7 +2,7 @@
 🚧 Toto je rozpracovaná verze neoficiálního překladu hry Star Citizen, na které se stále pracuje.
 
 ⚠️ Hra je stále ve vývoji a tomu odpovídá i český překlad. Berte tedy prosím překlad češtiny jako pomoc při vašem hraní.
-$\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety přizpůsobené všem českým znakům, bude stále překlad působit nedokončeně.}}$
+$\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety přizpůsobené všem českým znakům}}$, bude stále překlad působit nedokončeně. Berte na to prosím ohledy.
 
 ## Podpora
 Čeština a všechny její aktualizace jsou poskytovány zdarma. Pokud ale chcete přispět na pokračující vývoj lokalizace, můžete nám přispět libovolnou částkou. [![Darovat příspěvek](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ETTG6FZNFU3RJ)
