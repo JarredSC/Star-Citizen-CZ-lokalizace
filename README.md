@@ -13,6 +13,7 @@
 - [INSTALACE automatická pomocí instalátoru](#instalace-automatická-pomocí-instalátoru)
 - [INSTALACE manuální](#instalace-manuální)
 - [ODINSTALOVÁNÍ](#odinstalování)
+- [Limitace překladu](#limitace-překladu)
 - [Otázky a odpovědi](#otázky-a-odpovědi)
 - [Přispěvatelé](#přispěvatelé)
 - [Známé problémy](#známé-problémy)
@@ -50,6 +51,14 @@ Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost
 
 ## ODINSTALOVÁNÍ
 1. Stačí smazat (nebo přepsat) složku `Localization` v adresáři `\data\`.
+---
+## Limitace překladu
+V dnešní době najdete jen minimum přeložených MMO her do češtiny. Důvodů je mnoho včetně neustálé potřeby aktualizovat stávající texty a přidávat nové. V případě Star Citizen existuje ještě další velká překážka – aktuální vývoj v alfa verzi. Samotná hra tak obsahuje spoustu starých herních assetů nebo fontů, které nejsou stavěné na české znaky a limitují nás tak v možnostech překladu. Kvůli alfa vývojí se často zpětně mění originální texty a my musíme tyto změny reflektovat v úpravě překladů.
+
+To vše pak vytváří češtinu, která není za daných podmínek ideální: někde musíme mít překlad bez diakritiky, někde musíme překlad přizpůsobit tak, abychom se vyvarovali skloňování (se kterým angličtina nepočítá) nebo s mužským a ženským rodem. Mnoho textů je tvořeno tzv. „proměnnými“ – tedy zástupnými parametry, které se mohou měnit a nebo jsou použité na vícero místech ve hře – někde překlad funguje, někde nefunguje, někde je použitý správný font podporující všechny znaky, někde zase nefungují vybrané znaky.
+
+> $\color{Yellow}{\textsf{Berte tedy prosím překlad češtiny jako pomoc při vašem hraní.}}$
+$\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety přizpůsobené všem českým znakům, bude stále překlad působit nedokončeně.}}$
 ---
 ## Otázky a odpovědi
 
@@ -97,12 +106,10 @@ Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost
 ---
 ## Známé problémy
 Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsahuje velkou škálu starých assetů, které nejsou uzpůsobené pro texty jiných jazyků.
-* **chybějící diakritika**: hra má řadu fontů, které nepodporují českou diakritiku, proto některé přeložené texty bez diakritiky
-* **nepřeložené texty**: některá interface (např. starmapa s plánováním cest nebo rozhraní pro kvantové cestování, nastavení chatovacích kanálů aj.) nejsou přizpůsobená pro překlad do žádného jazyka; tyto interface mají texty zakódované přímo v herním kódu a nelze je změnit
-* **divný překlad**: některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál
-* **chybí konce textů**: některé prvky ve hře (popisky aj.) nezobrazují celý text a nelze jej ani posunout na konec, toto je chyba hry a vyskytuje se i v originálu bez ohledu na překlad
+* **chybějící diakritika**: Hra má řadu fontů, které nepodporují českou diakritiku, proto některé přeložené texty musí zatím být bez diakritiky.
+* **nepřeložené texty**: Některá interface (např. nastavení chatovacích kanálů aj.) nejsou přizpůsobená pro překlad do žádného jazyka. Tyto interface mají texty zakódované přímo v herním kódu a nelze je změnit. Ne všechny texty přeložitelné texty jsou přeložené, postupně se s každou vydanou verzí překladu tento počet nepřeložených textů snižuje.
+* **divný překlad**: Některé prvky ve hře mají omezený prostor pro text (například některá tlačítka, která dovolují jen 4 znaky apod.), v některých příkladech se snažíme najít českou alternativu, použít zkratku a nebo ponechat anglický originál.
 ### Specifické případy
-* **Názvy kategorií nejsou sjednocené**: Některé kategorie jsou psány všemi velkými písmeny a některé ne. Důvodem je, že stejný parameter s daným textem je použit i na jiném místě ve hře a na tomto místě daný font potřebuje vše velkým písmem.
 ---
 ## Změny
 ### 0.8aD | v přípravě
