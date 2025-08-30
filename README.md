@@ -21,26 +21,22 @@ $\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety př
 - [Změny](#změny)
 
 
-## INSTALACE automatická pomocí instalátoru
-Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
+## INSTALACE automatická pomocí Češtinátoru
+Češtinátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
 [Stáhnout instalátor](https://apps.microsoft.com/store/detail/9MZPHT7654M4?cid=GitHub)
 
 ### Základní funkce:
-- detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění)
-- detekce aktuální verze překladu v hlavním repozitáři pro LIVE a PTU
+- detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění - LIVE, PTU, EPTU, HOTFIX a TECH-PREVIEW)
+- detekce aktuální verze překladu v hlavním repozitáři
 - detekce instalované verze překladu (včetně skriptem, či ručně instalovaného překladu)
 - možnost jedním klikem instalovat, aktualizovat nebo odinstalovat překlad
 - možnost otevřít adresář s uloženými screenshoty ze hry
-- možnost zobrazení seznamu změn
-- proklik na komunitní Discord (logo Discord v hlavním okně programu)
-- checkbox pro zapnutí (automaticky nastaveno) nebo vypnutí ukládání nalezené cesty ke game library; dovoluje resetovat a vyhledat cestu znovu po restartu instalátoru)
 
-### Známé chyby / problémy:
-- Pokud vám instalátor detekuje jinou složku, než kde máte hru ve skutečnosti nainstalovanou, zkontrolujte lokaci vaší hry v RSI Launcheru. Pokud se nalezená cesta v instalátoru odlišuje od cesty uvedené v RSI Launcheru, známená to, že máte hru nainstalovanou na více místech (duplicitně). V takovém případě se podívejte do složky, kterou vám našel instalátor a tuto smažte. Poté v instalátoru odšrtněte políčko "Po restartu si pamatuj knihovnu" a restartujte instalátor. Automaticky by se pak měla nalézt správna cesta.
-- Ve výjimečných případech nedokáže instalátor detekovat adresář se hrou. V takových případech prosím zkuste spustit program jako správce - pravý klik na ikonku programu a volba "Spustit jako správce". Pokud ani toto nepomůže, dejte nám prosím vědět na našem Discordu.
+### Tipy pro Češtinátor:
+- Pokud Češtinátor nedetekuje vaší instalaci Star Citizen, např. při kopírování či přejmenování složky z důvodu úspory místa na disku, postačí takovou instalaci verifikovat v RSI Launcheru či alespoň jednou spustit. Poté by měla být instalace v Češtinátoru bez problémů vidět.
 
-*Jelikož se jedná o beta verzi, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
+*Jelikož se Češtinátor neustále vyvíjí, mohou se vyskytnou chyby, které jsme při našem testování neodhalili. V takovém případě prosíme o report na náš Discord, abychom mohli připravit aktualizaci s opravou.*
 
 ## INSTALACE manuální
 1. Stáhněte si zip soubor: [Localization.zip](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace/releases/latest/download/Localization.zip).
