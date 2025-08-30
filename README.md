@@ -24,7 +24,7 @@ $\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety př
 ## INSTALACE automatická pomocí instalátoru
 Instalátor v0.91 beta jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Proces vyhledávání je indikován ve spodní části okna programu. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Seznam změn či nápovědu lze otevřít i v průběhu vyhledávání. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
-[Stáhnout instalátor](https://raw.githubusercontent.com/JarredSC/Star-Citizen-CZ-lokalizace/main/instalace/Star%20Citizen%20CZ.exe) (*Tento instalační soubor nemá zatím certifikát, proto může váš systém Windows vyžadovat potvrzení pro spuštění.*)
+[Stáhnout instalátor](https://apps.microsoft.com/store/detail/9MZPHT7654M4?cid=GitHub)
 
 ### Základní funkce:
 - detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění)
