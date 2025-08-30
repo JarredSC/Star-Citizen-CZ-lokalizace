@@ -32,7 +32,11 @@ Microsoft Store: [Češtinátor](https://apps.microsoft.com/store/detail/9MZPHT7
 - detekce aktuální verze překladu v hlavním repozitáři
 - detekce instalované verze překladu (včetně skriptem, či ručně instalovaného překladu)
 - možnost jedním klikem instalovat, aktualizovat nebo odinstalovat překlad
-- možnost otevřít adresář s uloženými screenshoty ze hry
+- možnost otevřít adresář s uloženými screenshoty a postavami ze hry
+- možnost vymazávání SC/AMD/NVIDIA shaderů
+- možnost přepínání DX/Vulkan bez potřeby spouštět hru
+- spousta užitečných odkazů, které jsou pravidelně aktualizované
+- možnost zobrazení stavu RSI služeb
 
 ### Tipy pro Češtinátor:
 - Pokud Češtinátor nedetekuje vaší instalaci Star Citizen, např. při kopírování či přejmenování složky z důvodu úspory místa na disku, postačí takovou instalaci verifikovat v RSI Launcheru či alespoň jednou spustit. Poté by měla být instalace v Češtinátoru bez problémů vidět.
