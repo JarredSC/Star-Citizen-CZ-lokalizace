@@ -24,7 +24,8 @@ $\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety př
 ## INSTALACE automatická pomocí Češtinátoru
 Češtinátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
 
-[Stáhnout instalátor](https://apps.microsoft.com/store/detail/9MZPHT7654M4?cid=GitHub)
+## Odkaz ke stažení Češtinátoru
+Microsoft Store: [Čeětinátor](https://apps.microsoft.com/store/detail/9MZPHT7654M4?cid=GitHub)
 
 ### Základní funkce:
 - detekce adresáře s hrou Star Citizen (probíhá automaticky při spuštění - LIVE, PTU, EPTU, HOTFIX a TECH-PREVIEW)
