@@ -1,7 +1,8 @@
-XX.XX.2025 | verze 0.92
-- přidána možnost "Kdo mě zabil?" (kill feed ze hry)
-- odebrána podpora pro 4.0_PREVIEW
-- nové výchozí pozadí, drobné úpravy UI
+04.09.2025 | verze 0.93
+- migrační update - nová verze Microsoft Store
+- aktualizace pro tento instálátor již nebudoui vycházet
+- prosíme aktualizujte na verzi z Microsoft Store
+- pokračujte stažením aktualizace pomocí tohoto průvodce
 
 20.12.2024 | verze 0.91
 - oprava při vyhledávání RSI knihovny po přejmenování LIVE složky na 4.0_PREVIEW
