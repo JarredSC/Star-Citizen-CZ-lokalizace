@@ -126,8 +126,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * Rayari: _Obtain Irradiated Valakkar Pearls_
     * Red Wind: _Red Wind Discreet Courier Run; Red Wind In Need of Discreet Couriers; RED WIND DELIVERY PILOT NEEDED; <RepRank> Hauler Needed for Direct <Cargo> Route; Red Wind Local Delivery Route; Red Wind Seeking New Pilots; Another Attempt at Red Wind Delivery; RED WIND DELIVERY PILOT NEEDED_
     * UDM: _UDM Local Delivery Route; UDM Local Delivery Evaluation; UDM Local Delivery Re-evaluation_
+* přeloženy Wikelo mise a sjednocení jeho stylu lámané češtiny
 * přidány popisky pro Terrapin Medic (Wikelo), Golem (Wikelo), Starlance TAC (Wikelo) a L-21 Wolf
 * aktualizováno 20 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* sjednocení překladu pojmů vztahujících se ke kvantovému cestování, skoku atd.
+* opravy nahlášených chyb
 * drobné překlady
   
 ### O.8aC | 18-08-2025
