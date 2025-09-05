@@ -20,6 +20,7 @@ $\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety př
 - [Známé problémy](#známé-problémy)
 - [Změny](#změny)
 
+<img src="https://i.imgur.com/Z0H0cqX.png" width="100%">
 
 ## INSTALACE automatická pomocí Češtinátoru
 Češtinátor jsme vytvořili, abychom hráčům zjednodušili možnost instalace a aktualizace našeho překladu. Po spuštění se program automaticky pokusí nalézt adresář se hrou Star Citizen. Toto může chvilku trvat, zvláště pak na pomalejších počítačích bez výkonného SSD. Po nalezení se zpřístupní funkce pro instalaci / aktualizaci / odstranění překladu. Pokročilí uživatelé mohou překlad samozřejmě stále instalovat ručně.
