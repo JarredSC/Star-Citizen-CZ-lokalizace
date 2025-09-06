@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aD | v přípravě
+### 0.8aD | 06-09-2025
 
 * aktualizace popisků misí (popisky byly v originále změněny):
     * Covalex: _Holiday Delivery; Multi-Stop Delivery Route;Covalex Package Handler; Covalex Local Delivery Route; Covalex Evaluation; Covalex Re-evaluation; Shipping Error - QT Sensitive Cargo; Delivery Pilot for Covalex_
