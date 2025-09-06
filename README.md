@@ -117,6 +117,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aD | 06-09-2025
 
+* přidáno 927 nových parametrů pro verzi 4.3.1 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizace popisků misí (popisky byly v originále změněny):
     * Covalex: _Holiday Delivery; Multi-Stop Delivery Route;Covalex Package Handler; Covalex Local Delivery Route; Covalex Evaluation; Covalex Re-evaluation; Shipping Error - QT Sensitive Cargo; Delivery Pilot for Covalex_
     * Foxwell: _Orange Level Contract: Ship Protection Needed; Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP_
