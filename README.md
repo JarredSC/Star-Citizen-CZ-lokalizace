@@ -117,11 +117,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aE | v přípravě
 
-* přeloženo 296 parametrů pro verzi 4.3.1
+* přeloženo 314 parametrů pro verzi 4.3.1
     * nové dialogy pro NPC: _Argent Kent, Arken Mallor, Lima Endicott, Dr. Jorrit, Stows, Kevin Walton_ (242)
     * hlášení pro spaceport na Lorville (30)
     * nové mise pro CFP: _Disable Headhunter Comm Towers; Shutdown Xenothreat Comm Towers_
     * nové mise pro Headhuntery: _Shutdown CFP’s Comms; Silence the Xenothreat_
+    * Hockrow parametry pro Onyx (18)
     * texty spojené s MedGelem
     * drobné překlady
 
