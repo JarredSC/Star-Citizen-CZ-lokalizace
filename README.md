@@ -117,9 +117,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aE | v přípravě
 
-* přeloženo 272 parametrů pro verzi 4.3.1
+* přeloženo 288 parametrů pro verzi 4.3.1
     * nové dialogy pro NPC: _Argent Kent, Arken Mallor, Lima Endicott, Dr. Jorrit, Stows, Kevin Walton_ (242)
     * hlášení pro spaceport na Lorville (30)
+    * texty spojené s MedGelem
+    * drobné překlady
 
 ### 0.8aD | 06-09-2025
 
