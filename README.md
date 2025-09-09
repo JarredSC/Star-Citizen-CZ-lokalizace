@@ -115,18 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aE | v přípravě
-
-* přeloženo 382 parametrů pro verzi 4.3.1
-    * nové dialogy pro NPC: _Argent Kent, Arken Mallor, Lima Endicott, Dr. Jorrit, Stows, Kevin Walton_ (242)
-    * hlášení pro spaceport na Lorville (30)
-    * nové mise pro CFP: _Disable Headhunter Comm Towers; Shutdown Xenothreat Comm Towers_
-    * nové mise pro Headhuntery: _Shutdown CFP’s Comms; Silence the Xenothreat_
-    * Hockrow parametry pro Onyx (86)
-    * texty spojené s MedGelem
-    * drobné překlady
-
-### 0.8aD | 06-09-2025
+### 0.8aE | 09-09-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.3.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -136,6 +125,20 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 5 nových parametrů pro verzi 4.3.1
+* přeloženo 385 parametrů pro verzi 4.3.1
+    * nové dialogy pro NPC: _Argent Kent, Arken Mallor, Lima Endicott, Dr. Jorrit, Stows, Kevin Walton_ (242)
+    * hlášení pro spaceport na Lorville (30)
+    * nové mise pro CFP: _Disable Headhunter Comm Towers; Shutdown Xenothreat Comm Towers_
+    * nové mise pro Headhuntery: _Shutdown CFP’s Comms; Silence the Xenothreat_
+    * Hockrow parametry pro Onyx (86)
+    * texty spojené s MedGelem
+    * drobné překlady
+* aktualizováno 45 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* odstraněno 62 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+
+### 0.8aD | 06-09-2025
 
 * přidáno 927 nových parametrů pro verzi 4.3.1 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizace popisků misí (popisky byly v originále změněny):
