@@ -118,7 +118,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8aF | v přípravě
 
 * přidány 2 nové parametry pro verzi 4.3.1
-* aktualizováno 124 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 148 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* překlad zářijového přehledu New United (najdete v Journalu/Deníku)
 * drobné překlady
 * opravy nahlášených chyb
 
