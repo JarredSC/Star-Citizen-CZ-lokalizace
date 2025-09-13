@@ -117,10 +117,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aG | 13-09-2025
 
-* přidáno 97 nových parametrů pro verzi 4.3.1 (včetně parametrů pro Apollo)
-
-### 0.8aF | 12-09-2025
-
 [![Static Badge](https://img.shields.io/badge/PTU%204.3.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
@@ -129,6 +125,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 97 nových parametrů pro verzi 4.3.1 (včetně parametrů pro Apollo)
+
+### 0.8aF | 12-09-2025
 
 * přidány 2 nové parametry pro verzi 4.3.1
 * aktualizováno 148 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
