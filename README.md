@@ -115,9 +115,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aH | v přípravě
+### 0.8aH | 16-09-2025
 
 * přidáno 6 nových parametrů pro verzi 4.3.1
+* přeloženy a aktualizovány mise pro BHG: _Verified Bounty: <Name> at <Location>; Verified Bounty: <Name> at <Location>; Preliminary Bounty: <Name>; Verified Bounty: <Name> | ~mission(Danger); Verified Bounty: <Name> | HeadHunters | <Danger>; Verified Bounty: <Name> | XenoThreat | <Danger>; Suspect Apprehension Certification; Tracker Beginner's Permit Certification; Fugitive Recovery Certification; Journeyman Tracker License Certification; Tracker License Certification; Master Tracker License Certification; Tracker Training Permit Certification; Advanced Tracker License Certification_
 * aktualizováno 107 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněny 2 smazané parametry (parametry, které vývojáři odebrali z lokalizačního souboru)
 
