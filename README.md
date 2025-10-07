@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aI | 06-10-2025
+### 0.8aJ | 07-10-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.3.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -125,6 +125,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 15 nových parametrů pro verzi 4.3.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* překlad říjnového přehledu Crosshair (najdete v Journalu/Deníku)
+* aktualizováno 14 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* odstraněno 16 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+
+### 0.8aI | 06-10-2025
 
 * přidáno 767 nových parametrů pro verzi 4.3.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 311 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
