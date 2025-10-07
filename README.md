@@ -116,7 +116,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.8aK | V PŘÍPRAVĚ
-* přeloženy parametry mission_location (125)
+* přeloženy parametry pro lokace misí: mission_location (125)
+* přeloženy parametry pro nápovědy FPS težby: hints_FPS (20)
 
 ### 0.8aJ | 07-10-2025
 
