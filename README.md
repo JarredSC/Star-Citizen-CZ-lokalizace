@@ -115,6 +115,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### 0.8aK | V PŘÍPRAVĚ
+* přeloženy parametry mission_location (125)
+
 ### 0.8aJ | 07-10-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.3.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
