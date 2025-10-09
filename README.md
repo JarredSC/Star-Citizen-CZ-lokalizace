@@ -115,15 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8AL | v přípravě
-
-* přidáno 16 nových parametrů pro verzi 4.3.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* přeloženy mise pro verzi 4.3.2:
-    * pro CFP: _[Recon] Find Frontier Fighters Operative and Intel; [Recon] Secure Frontier Fighters Data; [Recon] Get Datapad from Frontier Fighters; [Recon] Missing CFP Op & Intel; [Recon] Rescue and Recovery Operation; [Recon] Lost CFP Op & Datapad; [Siege] Stop Frontier Fighters from Regenning; [Siege] Destroy Frontier Fighters Ability to Regen; [Siege] Eliminate MedGel Recharge Station; [Siege] Ambush Frontier Fighters; [Siege] Take Out Frontier Fighters Commander; [Siege] Surprise Strike on Frontier Fighters; [Take Down] Stop the Frontier Fighters' Attack_
-    * pro Headhuntery: _[Recon] Kill & Collect; [Recon] Assassinate Target & Seize Datapad; [Recon] Hunt Down Op & Intel; [Recon] Locate Lost Headhunter and Intel; [Recon] Search Party; [Recon] Tracking Down Missing HeadHunter; [Siege] Ruin MedGel Recharge Station; [Siege] Raid and Ravage MedGel Recharge Stations; [Siege] Let's Close the Loop; [Siege] Ambush Frontier Fighters; [Siege] Surprise Frontier Fighters Squad; [Siege] Exact Revenge; [Take Down] Kill Frontier Fighters' Leader Amelia Boyd_
-
-
-### 0.8aK | 08-10-2025
+### 0.8aL | 09-10-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.3.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -133,6 +125,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 16 nových parametrů pro verzi 4.3.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přeloženy mise pro verzi 4.3.2:
+    * pro CFP: _[Recon] Find Frontier Fighters Operative and Intel; [Recon] Secure Frontier Fighters Data; [Recon] Get Datapad from Frontier Fighters; [Recon] Missing CFP Op & Intel; [Recon] Rescue and Recovery Operation; [Recon] Lost CFP Op & Datapad; [Siege] Stop Frontier Fighters from Regenning; [Siege] Destroy Frontier Fighters Ability to Regen; [Siege] Eliminate MedGel Recharge Station; [Siege] Ambush Frontier Fighters; [Siege] Take Out Frontier Fighters Commander; [Siege] Surprise Strike on Frontier Fighters; [Take Down] Stop the Frontier Fighters' Attack_
+    * pro Headhuntery: _[Recon] Kill & Collect; [Recon] Assassinate Target & Seize Datapad; [Recon] Hunt Down Op & Intel; [Recon] Locate Lost Headhunter and Intel; [Recon] Search Party; [Recon] Tracking Down Missing HeadHunter; [Siege] Ruin MedGel Recharge Station; [Siege] Raid and Ravage MedGel Recharge Stations; [Siege] Let's Close the Loop; [Siege] Ambush Frontier Fighters; [Siege] Surprise Frontier Fighters Squad; [Siege] Exact Revenge; [Take Down] Kill Frontier Fighters' Leader Amelia Boyd_
+
+
+### 0.8aK | 08-10-2025
 
 * přidáno 11 nových parametrů pro verzi 4.3.2 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 29 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
