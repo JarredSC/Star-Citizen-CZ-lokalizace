@@ -116,7 +116,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 ### 0.8aM | V PŘÍPRAVĚ
-* přeloženy parametry: interaction_condition (54), manufacturer_desc (75)
+* přeloženy parametry: interaction_condition (54), manufacturer_desc (75), hints - texty nápověd (116)
 * 
 
 ### 0.8aL | 09-10-2025
