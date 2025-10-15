@@ -118,6 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### 0.8aN | v přípravě
 
 * přeloženy dialogy pro 4.3.2 (175)
+* aktualizováno 17 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 ### 0.8aM | 13-10-2025
 
