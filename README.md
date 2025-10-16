@@ -117,7 +117,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aN | v přípravě
 
-* přeloženy dialogy pro 4.3.2 (280)
+* přeloženy dialogy a hlášky pro 4.3.2 včetně nových ATC hlášek pro microTech a Orison (305)
+* přeloženy nové skiny pro 4.3.2 (30)
+* drobné překlady
 * aktualizováno 17 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
 ### 0.8aM | 13-10-2025
