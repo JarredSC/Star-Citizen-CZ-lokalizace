@@ -119,6 +119,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy dialogy a hlášky pro 4.3.2 včetně nových ATC hlášek pro microTech a Orison (305)
 * přeloženy nové skiny pro 4.3.2 (30)
+* přeloženy textové parametry pro datapady k Frontier Fighters eventu (65)
 * drobné překlady
 * aktualizováno 17 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 
