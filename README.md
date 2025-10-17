@@ -1098,4 +1098,32 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeložeby delivery mise od UDM
 * název aplikace v mobiGlas "Contract Manager" je v češtině zkrácen jen na "Kontrakty"
 
+--------------
+v0.9 (v přípravě - listopad 2025)
 
+#### Mise
+* přeloženy mise:
+    * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
+* navrácení diakritiky u názvů misí (32)
+* aktualizace popisku misí (21)
+
+#### Dialogy a hlášky
+* přeloženy dialogy a hlášky:
+    * Dulli (26)
+    * Clovus DARNEELY (59)
+    * Eckhart (161)
+    * Pacheco (123)
+    * Stows (110)
+    * Walton (122)
+    * různá hlášení (315)
+    * restaurace, bary a patroni (44)
+    * dogfight, piloti a hlídkování (1317)
+    * náklad (65)
+    * Crusader mise (108)
+    * Hurston mise (129)
+    * microTech mise (59)
+    * GrimHex (132)
+    * konverzace (144)
+    * outlaw (1045)
+
+konec 897
