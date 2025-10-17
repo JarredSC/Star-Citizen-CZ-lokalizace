@@ -1108,13 +1108,14 @@ v0.9 (v přípravě - listopad 2025)
 * aktualizace popisku misí (21)
 
 #### Dialogy a hlášky
-* přeloženy dialogy a hlášky:
+* přeloženy dialogy a hlášky pro mission givery:
     * Dulli (26)
     * Clovus DARNEELY (59)
     * Eckhart (161)
     * Pacheco (123)
     * Stows (110)
     * Walton (122)
+* přeloženy dialogy a hlášky:
     * různá hlášení (315)
     * restaurace, bary a patroni (44)
     * dogfight, piloti a hlídkování (1317)
