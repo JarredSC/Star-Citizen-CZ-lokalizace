@@ -1107,8 +1107,8 @@ v0.9 (v přípravě - listopad 2025)
 #### Mise
 * přeloženy mise:
     * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
-* navrácení diakritiky u názvů misí (80)
-* aktualizace popisku misí (61)
+* navrácení diakritiky u názvů misí (86)
+* aktualizace popisku misí (66)
 
 #### Dialogy a hlášky
 * přeloženy dialogy a hlášky pro mission givery:
@@ -1130,4 +1130,4 @@ v0.9 (v přípravě - listopad 2025)
     * konverzace (144)
     * outlaw (1045)
 
-konec 1525
+konec 1579
