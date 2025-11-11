@@ -117,7 +117,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### 0.8aO | V PŘÍPRAVĚ
 
-* přidáno 1193 nových parametrů pro verzi 4.4 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům) 
+* přidáno 1455 nových parametrů pro verzi 4.4 a IAE (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům) 
 * přeloženy parametry: ui_controlhints (57)
 * drobné překlady
 * opravy nahlášených chyb
