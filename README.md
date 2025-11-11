@@ -121,6 +121,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy parametry: ui_controlhints (57)
 * drobné překlady
 * opravy nahlášených chyb
+* odstraněno 164 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 
 ### 0.8aN | 16-10-2025
 
