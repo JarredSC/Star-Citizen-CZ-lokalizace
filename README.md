@@ -1123,6 +1123,7 @@ v0.9 (v přípravě - listopad 2025)
 * přeloženy mise:
     * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
     * Citizens for Prosperity: _Location needs help; Assistance needed at location_
+    * Dead Saints: _DEAD SAINTS - Rank - Cargo Haul (drogy); DEAD SAINTS - Rank - Cargo Haul (drogy časovka); DEAD SAINTS - Rank - Cargo Haul (altruciatoxin); Cleaning Up Someone Else’s Mess; Taking Back Our Goods; Wayward Goods; Retrieval Op; Lost But Not Gone; Finishing The Job; Showing Them Who’s Boss_
 * navrácení diakritiky u názvů misí (86)
 * aktualizace popisku misí (66)
 
