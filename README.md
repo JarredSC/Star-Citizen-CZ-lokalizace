@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aO | 11-11-2025
+### 0.8aP | 12-11-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.4-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.3.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -125,6 +125,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* (PTU) přidáno 18 nových parametrů pro verzi 4.4 (tyto parametry oznamují "správce" monitorované oblasti a s tím spojené texty – prosíme o kontrolu zobrazování diakritiky)
+* aktualizováno 38 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* (PTU) přeloženy mise pro DEAD SAINTS: _DEAD SAINTS - Trial Cargo Haul; DEAD SAINTS - Rank - Cargo Haul; Write Off; Making the Most of a Bad Situation_
+* (PTU) přeloženy popisky nových komodit převážně pro Nyx: _Lindinium, Lindinium (Ore), Organics, Savrilium, Savrilium (Ore), Torite, Torite (Ore)_ včetně dvou hub na sběr: _Bluemoon Fungus, Miner's Horn_
+* (PTU) přeloženy reputační profily a jejich parametry pro DEAD SAINTS a InterSec Defense Solutions
+
+
+### 0.8aO | 11-11-2025
 
 * přidáno 1455 nových parametrů pro verzi 4.4 a IAE (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 134 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
