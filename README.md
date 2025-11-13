@@ -1136,10 +1136,12 @@ v0.9 (v přípravě - listopad 2025)
 * aktualizace popisku misí (66)
 
 #### Dialogy a hlášky
-* přeloženy dialogy a hlášky pro mission givery:
+* přeloženy dialogy a hlášky pro mission givery a jmenovité NPC:
     * Dulli (26)
     * Clovus DARNEELY (59)
     * Eckhart (161)
+    * Forge (23)
+    * Macken (57)
     * Pacheco (123)
     * Stows (110)
     * Walton (122)
@@ -1154,6 +1156,5 @@ v0.9 (v přípravě - listopad 2025)
     * GrimHex (132)
     * konverzace (144)
     * outlaw (1045)
-    * Forge (23)
 
 konec 1583
