@@ -1133,6 +1133,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 v0.9 (v přípravě - listopad 2025)
 
 #### Mise
+* přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
 * přeloženy mise:
     * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
     * Citizens for Prosperity: _Location needs help; Assistance needed at location_
