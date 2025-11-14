@@ -1103,7 +1103,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeložena velká část UI zbraní
 * přeložena velká část textů outlaw komentů, dialogů atd.
 * "stroj" změněno na "vozidlo"
-
+    
 ### verze 0.1
 * ASOP terminál: překlad rozhraní pro claimování
 * přeložen dialog pro ukončení hry
@@ -1154,6 +1154,7 @@ v0.9 (v přípravě - listopad 2025)
     * Tobin (37)
     * Walton (122)
 * přeloženy dialogy a hlášky:
+    * vanduulský bojovník (24)
     * prodejci a civilisti v Nyxu (199)
     * různá hlášení (315)
     * restaurace, bary a patroni (44)
