@@ -1150,6 +1150,7 @@ v0.9 (v přípravě - listopad 2025)
     * Macken (57)
     * Pacheco (123)
     * Stows (110)
+    * Tieno (54)
     * Walton (122)
 * přeloženy dialogy a hlášky:
     * prodejci a civilisti v Nyxu (199)
