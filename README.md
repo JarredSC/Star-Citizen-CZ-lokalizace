@@ -1152,7 +1152,7 @@ v0.9 (v přípravě - listopad 2025)
     * Stows (110)
     * Walton (122)
 * přeloženy dialogy a hlášky:
-    * prodejci a civilisti v Nyxu (136)
+    * prodejci a civilisti v Nyxu (199)
     * různá hlášení (315)
     * restaurace, bary a patroni (44)
     * dogfight, piloti a hlídkování (1317)
