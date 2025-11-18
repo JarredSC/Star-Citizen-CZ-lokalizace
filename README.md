@@ -132,6 +132,28 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * FTL: _NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL - EXP: U_
 * navrácení diakritiky u názvů misí (86)
 * aktualizace popisku misí (66)
+ 
+#### Popisky
+* přeloženy popisky nových lodí: _Drake Clipper, Drake Golem OX, Greycat MDC, Kruger L-22 Alpha Wolf, RSI Salvation_
+* přeloženy popisky pro speciální IAE 2955 skiny lodí a vozidel: _Avenger Titan, Defender, Dragonfly, F7CM Mk2, Fortune, Fury, Guardian MX, HoverQuad, Intrepid, Lynx, Meteor, MPUV, MTC, Mule, Nomad, Nox, Paladin, Prowler Utility, ROC, ROC DS, Saber Peregrine, San'tok.yai, Spirit C1, Stinger, STV, Syulen, Talon, Wolf, X1_
+* přeloženy popisky pro kusy oblečení a zbroje:
+    * nové skiny zbroje pro IAE 2955: _Aves Armor Epoque set; Geist Armor Epoque set; Dust Devil Armor Epoque set)
+    * s tagem "jacket" (112 popisků sdílených mezi cca 420 jednotlivých názvů)
+    * s tagem "shoes" (40 popisků sdílených mezi 179 názvů)
+    * s tagem "boots" (32 popisků sdílených mezi 126 názvů)
+    * s tagem "pants" (90 popisků sdílených mezi 347 názvů)
+    * s tagem "mask" (10 popisků sdílených mezi 37 názvů)
+    * s tagem "jumpsuit" (7 popisků sdílených mezi 40 názvů)
+    * s tagem "flightsuit", "flightsuit_helmet", "flightsuit_jetpack" (24 popisků sdílených mezi 50 názvů)
+    * s tagem "slippers" (1 popisek sdílený mezi 3 názvy)
+    * s tagem "gown" (1 popisek sdílený mezi 3 názvy)
+    * s tagem "hat (11)
+    * s tagem "vest" (4)
+    * s tagem "scrubs" (1 popisek sdílený mezi 3 názvy)
+    * s tagem "undersuit" (38 popisků sdílených mezi 155 názvů)
+    * s tagem "helmet" (176 popisků sdílených mezi 618 názvů)
+    * s tagem "backpack" (56 popisků sdílených mezi 87 názvů)
+    * s tagem "suit" (29 popisků sdílených mezi 31 názvů)
 
 #### Dialogy a hlášky
 * přeloženy dialogy a hlášky pro mission givery a jmenovité NPC:
@@ -158,28 +180,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * GrimHex (132)
     * konverzace (144)
     * outlaw (1045)
- 
-#### Popisky
-* přeloženy popisky nových lodí: _Drake Clipper, Drake Golem OX, Greycat MDC, Kruger L-22 Alpha Wolf, RSI Salvation_
-* přeloženy popisky pro speciální IAE 2955 skiny lodí a vozidel: _Avenger Titan, Defender, Dragonfly, F7CM Mk2, Fortune, Fury, Guardian MX, HoverQuad, Intrepid, Lynx, Meteor, MPUV, MTC, Mule, Nomad, Nox, Paladin, Prowler Utility, ROC, ROC DS, Saber Peregrine, San'tok.yai, Spirit C1, Stinger, STV, Syulen, Talon, Wolf, X1_
-* přeloženy popisky pro kusy oblečení a zbroje:
-    * nové skiny zbroje pro IAE 2955: _Aves Armor Epoque set; Geist Armor Epoque set; Dust Devil Armor Epoque set)
-    * s tagem "jacket" (112 popisků sdílených mezi cca 420 jednotlivých názvů)
-    * s tagem "shoes" (40 popisků sdílených mezi 179 názvů)
-    * s tagem "boots" (32 popisků sdílených mezi 126 názvů)
-    * s tagem "pants" (90 popisků sdílených mezi 347 názvů)
-    * s tagem "mask" (10 popisků sdílených mezi 37 názvů)
-    * s tagem "jumpsuit" (7 popisků sdílených mezi 40 názvů)
-    * s tagem "flightsuit", "flightsuit_helmet", "flightsuit_jetpack" (24 popisků sdílených mezi 50 názvů)
-    * s tagem "slippers" (1 popisek sdílený mezi 3 názvy)
-    * s tagem "gown" (1 popisek sdílený mezi 3 názvy)
-    * s tagem "hat (11)
-    * s tagem "vest" (4)
-    * s tagem "scrubs" (1 popisek sdílený mezi 3 názvy)
-    * s tagem "undersuit" (38 popisků sdílených mezi 155 názvů)
-    * s tagem "helmet" (176 popisků sdílených mezi 618 názvů)
-    * s tagem "backpack" (56 popisků sdílených mezi 87 názvů)
-    * s tagem "suit" (29 popisků sdílených mezi 31 názvů)
 
 ### 0.8aQ | 13-11-2025
 
