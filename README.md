@@ -115,10 +115,67 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### 0.8aR | v přípravě
 
-* (PTU) přidány 2 nové parametry pro verzi 4.4
+### v0.9 | v přípravě
+* přidány 2 nové parametry pro verzi 4.4
 * aktualizováno 48 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* opravy nahlášených chyb
+
+#### Mise
+* přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
+* přeloženy mise:
+    * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
+    * Citizens for Prosperity: _Location needs help; Assistance needed at location_
+    * Dead Saints: _DEAD SAINTS - Rank - Cargo Haul (drogy); DEAD SAINTS - Rank - Cargo Haul (drogy časovka); DEAD SAINTS - Rank - Cargo Haul (altruciatoxin); Cleaning Up Someone Else’s Mess; Taking Back Our Goods; Wayward Goods; Retrieval Op; Lost But Not Gone; Finishing The Job; Showing Them Who’s Boss; Easy Creds for Easy Work; Get My Gear Back; Pick Up and Drop Off; Getting What They Deserve_
+    * Eckhart Security: _Support Client in Need; Request for Ship Support; Support Client Under Attack; Repel Shattered Blade Ships; Stop Attack on High-Profile Client; Serious Shattered Blade Attack; High-Risk Ship Encounter; Shattered Blade Strike; Extremely Dangerous Defense; Client Needs Combat Support; Stop Deadly Ship Attack; Stop Shattered Blade Attack; Save Ship; Executive Protection Detail; VIP Client Needs Protection; New Opportunity - Protection Detail; Experienced Protection Detail Needed; Top Tier Operator Needed; Low Risk Protection Detail; Protection Detail Needed. High Risk.; Time to Teach a Lesson; Tricky Ambush; New Opportunity - Ambush Strike; Launch Surprise Attack; Highly Dangerous Ambush; Settle a Score; Dangerous Ambush_
+    * FTL: _NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL - EXP: U_
+* navrácení diakritiky u názvů misí (86)
+* aktualizace popisku misí (66)
+
+#### Dialogy a hlášky
+* přeloženy dialogy a hlášky pro mission givery a jmenovité NPC:
+    * Dulli (26)
+    * Clovus DARNEELY (59)
+    * Eckhart (161)
+    * Forge (23)
+    * Macken (57)
+    * Pacheco (123)
+    * Stows (110)
+    * Tieno (54)
+    * Tobin (37)
+    * Walton (122)
+* přeloženy dialogy a hlášky:
+    * vanduulský bojovník (24)
+    * prodejci a civilisti v Nyxu (199)
+    * různá hlášení (315)
+    * restaurace, bary a patroni (44)
+    * dogfight, piloti a hlídkování (1317)
+    * náklad (65)
+    * Crusader mise (108)
+    * Hurston mise (129)
+    * microTech mise (59)
+    * GrimHex (132)
+    * konverzace (144)
+    * outlaw (1045)
+ 
+#### Popisky
+* přeloženy popisky pro kusy oblečení a zbroje:
+    * s tagem "jacket" (110; 18 ne v "dámských velikostech"; 420 názvů s tagem "jacket")
+    * s tagem "shoes" (40; 5 ne v dámských velikostech, 2 ne v pánských; 179 názvů)
+    * s tagem "boots" (32; 1 ne v dámských; 126 názvů)
+    * s tagem "pants" (90; 347 názvů)
+    * s tagem "mask" (10; 37 názvů)popisky pro "jumpsuit" (7 celkem ale 1 už přeložen; 40 názvů)
+    * s tagem "flightsuit", "flightsuit_helmet", "flightsuit_jetpack" (24, 50 názvů)
+    * s tagem "slippers" (1, 3 názvy)
+    * s tagem "gown" (1, 3 názvy)
+    * s tagem "hat (11, 66 již přeloženo, 118 názvů)
+    * s tagem "vest" (4, 5 názvů)
+    * s tagem "scrubs" (1, 3 názvy)
+    * s tagem "undersuit" (38, 155 názvů)
+    * s tagem "helmet"
+    * s tagem "backpack" (56; 87 názvů)
+    * s tagem "suit" (29, 31 názvů)
+    * s tagem "helmet" (176, 618 názvů)
 
 ### 0.8aQ | 13-11-2025
 
@@ -1128,45 +1185,3 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy popisky chladičů pro Arena Commander
 * přeložeby delivery mise od UDM
 * název aplikace v mobiGlas "Contract Manager" je v češtině zkrácen jen na "Kontrakty"
-
---------------
-v0.9 (v přípravě - listopad 2025)
-
-#### Mise
-* přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
-* přeloženy mise:
-    * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
-    * Citizens for Prosperity: _Location needs help; Assistance needed at location_
-    * Dead Saints: _DEAD SAINTS - Rank - Cargo Haul (drogy); DEAD SAINTS - Rank - Cargo Haul (drogy časovka); DEAD SAINTS - Rank - Cargo Haul (altruciatoxin); Cleaning Up Someone Else’s Mess; Taking Back Our Goods; Wayward Goods; Retrieval Op; Lost But Not Gone; Finishing The Job; Showing Them Who’s Boss; Easy Creds for Easy Work; Get My Gear Back; Pick Up and Drop Off; Getting What They Deserve_
-    * Eckhart Security: _Support Client in Need; Request for Ship Support; Support Client Under Attack; Repel Shattered Blade Ships; Stop Attack on High-Profile Client; Serious Shattered Blade Attack; High-Risk Ship Encounter; Shattered Blade Strike; Extremely Dangerous Defense; Client Needs Combat Support; Stop Deadly Ship Attack; Stop Shattered Blade Attack; Save Ship; Executive Protection Detail; VIP Client Needs Protection; New Opportunity - Protection Detail; Experienced Protection Detail Needed; Top Tier Operator Needed; Low Risk Protection Detail; Protection Detail Needed. High Risk.; Time to Teach a Lesson; Tricky Ambush; New Opportunity - Ambush Strike; Launch Surprise Attack; Highly Dangerous Ambush; Settle a Score; Dangerous Ambush_
-    * FTL: _NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL - EXP: U_
-* navrácení diakritiky u názvů misí (86)
-* aktualizace popisku misí (66)
-
-#### Dialogy a hlášky
-* přeloženy dialogy a hlášky pro mission givery a jmenovité NPC:
-    * Dulli (26)
-    * Clovus DARNEELY (59)
-    * Eckhart (161)
-    * Forge (23)
-    * Macken (57)
-    * Pacheco (123)
-    * Stows (110)
-    * Tieno (54)
-    * Tobin (37)
-    * Walton (122)
-* přeloženy dialogy a hlášky:
-    * vanduulský bojovník (24)
-    * prodejci a civilisti v Nyxu (199)
-    * různá hlášení (315)
-    * restaurace, bary a patroni (44)
-    * dogfight, piloti a hlídkování (1317)
-    * náklad (65)
-    * Crusader mise (108)
-    * Hurston mise (129)
-    * microTech mise (59)
-    * GrimHex (132)
-    * konverzace (144)
-    * outlaw (1045)
-
-konec 1583
