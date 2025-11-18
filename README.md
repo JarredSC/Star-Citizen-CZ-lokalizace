@@ -120,9 +120,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidány 2 nové parametry pro verzi 4.4
 * aktualizováno 48 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * opravy nahlášených chyb
+* přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
+* drobné překlady
 
 #### Mise
-* přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
 * přeloženy mise:
     * Bit Zeros: _Server Not Found; Delicate Dealings; Plenty of Cargo to Share; XenoThreat Grab Bag; Enough For Everyone; Easy Pickings; XenoThreat = GoodLoot_
     * Citizens for Prosperity: _Location needs help; Assistance needed at location_
@@ -159,6 +160,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * outlaw (1045)
  
 #### Popisky
+* přeloženy popisky nových lodí: _Drake Clipper, Drake Golem OX, Greycat MDC, Kruger L-22 Alpha Wolf, RSI Salvation_
 * přeloženy popisky pro speciální IAE 2955 skiny lodí a vozidel: _Avenger Titan, Defender, Dragonfly, F7CM Mk2, Fortune, Fury, Guardian MX, HoverQuad, Intrepid, Lynx, Meteor, MPUV, MTC, Mule, Nomad, Nox, Paladin, Prowler Utility, ROC, ROC DS, Saber Peregrine, San'tok.yai, Spirit C1, Stinger, STV, Syulen, Talon, Wolf, X1_
 * přeloženy popisky pro kusy oblečení a zbroje:
     * nové skiny zbroje pro IAE 2955: _Aves Armor Epoque set; Geist Armor Epoque set; Dust Devil Armor Epoque set)
