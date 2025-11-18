@@ -159,23 +159,25 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * outlaw (1045)
  
 #### Popisky
+* přeloženy popisky pro speciální IAE 2955 skiny lodí a vozidel: _Avenger Titan, Defender, Dragonfly, F7CM Mk2, Fortune, Fury, Guardian MX, HoverQuad, Intrepid, Lynx, Meteor, MPUV, MTC, Mule, Nomad, Nox, Paladin, Prowler Utility, ROC, ROC DS, Saber Peregrine, San'tok.yai, Spirit C1, Stinger, STV, Syulen, Talon, Wolf, X1_
 * přeloženy popisky pro kusy oblečení a zbroje:
-    * s tagem "jacket" (110; 18 ne v "dámských velikostech"; 420 názvů s tagem "jacket")
-    * s tagem "shoes" (40; 5 ne v dámských velikostech, 2 ne v pánských; 179 názvů)
-    * s tagem "boots" (32; 1 ne v dámských; 126 názvů)
-    * s tagem "pants" (90; 347 názvů)
-    * s tagem "mask" (10; 37 názvů)popisky pro "jumpsuit" (7 celkem ale 1 už přeložen; 40 názvů)
-    * s tagem "flightsuit", "flightsuit_helmet", "flightsuit_jetpack" (24, 50 názvů)
-    * s tagem "slippers" (1, 3 názvy)
-    * s tagem "gown" (1, 3 názvy)
-    * s tagem "hat (11, 66 již přeloženo, 118 názvů)
-    * s tagem "vest" (4, 5 názvů)
-    * s tagem "scrubs" (1, 3 názvy)
-    * s tagem "undersuit" (38, 155 názvů)
-    * s tagem "helmet"
-    * s tagem "backpack" (56; 87 názvů)
-    * s tagem "suit" (29, 31 názvů)
-    * s tagem "helmet" (176, 618 názvů)
+    * nové skiny zbroje pro IAE 2955: _Aves Armor Epoque set; Geist Armor Epoque set; Dust Devil Armor Epoque set)
+    * s tagem "jacket" (112 popisků sdílených mezi cca 420 jednotlivých názvů)
+    * s tagem "shoes" (40 popisků sdílených mezi cca 179 názvů)
+    * s tagem "boots" (32 popisků sdílených mezi cca 126 názvů)
+    * s tagem "pants" (90 popisků sdílených mezi cca 347 názvů)
+    * s tagem "mask" (10 popisků sdílených mezi cca 37 názvů)
+    * s tagem "jumpsuit" (7 popisků sdílených mezi cca 40 názvů)
+    * s tagem "flightsuit", "flightsuit_helmet", "flightsuit_jetpack" (24 popisků sdílených mezi cca 50 názvů)
+    * s tagem "slippers" (1 popisek sdílený mezi cca 3 názvy)
+    * s tagem "gown" (1 popisek sdílený mezi cca 3 názvy)
+    * s tagem "hat (11)
+    * s tagem "vest" (4)
+    * s tagem "scrubs" (1 popisek sdílený mezi cca 3 názvy)
+    * s tagem "undersuit" (38 popisků sdílených mezi cca 155 názvů)
+    * s tagem "helmet" (176 popisků sdílených mezi cca 618 názvů)
+    * s tagem "backpack" (56 popisků sdílených mezi cca 87 názvů)
+    * s tagem "suit" (29 popisků sdílených mezi cca 31 názvů)
 
 ### 0.8aQ | 13-11-2025
 
