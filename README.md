@@ -131,6 +131,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * Eckhart Security: _Support Client in Need; Request for Ship Support; Support Client Under Attack; Repel Shattered Blade Ships; Stop Attack on High-Profile Client; Serious Shattered Blade Attack; High-Risk Ship Encounter; Shattered Blade Strike; Extremely Dangerous Defense; Client Needs Combat Support; Stop Deadly Ship Attack; Stop Shattered Blade Attack; Save Ship; Executive Protection Detail; VIP Client Needs Protection; New Opportunity - Protection Detail; Experienced Protection Detail Needed; Top Tier Operator Needed; Low Risk Protection Detail; Protection Detail Needed. High Risk.; Time to Teach a Lesson; Tricky Ambush; New Opportunity - Ambush Strike; Launch Surprise Attack; Highly Dangerous Ambush; Settle a Score; Dangerous Ambush_
     * FTL: _NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL - EXP: U_
     * Foxwell: _Yellow Level Contract: Eradicate Illegal Monitors; Orange Level Contract: Destroy Data Skimmers; Orange Level Contract: Handle Security Threat; Red Level Contract: Dismantle Spying Op; Yellow Level Contract: Unauthorized Surveillance Monitors; Red Level Contract: Protect Important Client Data_
+    * Headhunters: _Guard Our Backs; Prove Yourself; Headhunter Needs Help; Backup Needed Now; Bring Down the Hammer; Looking for a Damn Hero; Rally to Help Clips Convoy_
 * navrácení diakritiky u názvů misí (86)
 * aktualizace popisku misí (66)
  
