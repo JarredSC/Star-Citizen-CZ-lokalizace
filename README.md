@@ -163,6 +163,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 #### Dialogy a hlášky
 * přeloženy dialogy a hlášky pro mission givery a jmenovité NPC:
+    * Brunt (90)
     * Dulli (26)
     * Clovus DARNEELY (59)
     * Eckhart (161)
