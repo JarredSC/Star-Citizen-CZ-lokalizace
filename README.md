@@ -116,7 +116,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 
-### v0.9 | v přípravě
+### v0.9 | 19-11-2025
 * přidány 2 nové parametry pro verzi 4.4
 * aktualizováno 63 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * opravy nahlášených chyb
