@@ -132,6 +132,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * FTL: _NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL - EXP: U_
     * Foxwell: _Yellow Level Contract: Eradicate Illegal Monitors; Orange Level Contract: Destroy Data Skimmers; Orange Level Contract: Handle Security Threat; Red Level Contract: Dismantle Spying Op; Yellow Level Contract: Unauthorized Surveillance Monitors; Red Level Contract: Protect Important Client Data_
     * Headhunters: _Guard Our Backs; Prove Yourself; Headhunter Needs Help; Backup Needed Now; Bring Down the Hammer; Looking for a Damn Hero; Rally to Help Clips Convoy_
+    * Hockrow: _Blackbox Recovery Request: Junior Level; Blackbox Recovery Request: Senior Investigator Level; NEW HIRE: Blackbox Recovery; Blackbox Recovery Request: Investigator Level; Blackbox Recovery Request: Special Investigator Level; Blackbox Recovery Request: Probationary Level; Blackbox Recovery Request: Lead Investigator Level_
 * navrácení diakritiky u názvů misí (86)
 * aktualizace popisku misí (66)
  
