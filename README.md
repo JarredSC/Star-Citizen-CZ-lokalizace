@@ -118,7 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### v0.9 | v přípravě
 * přidány 2 nové parametry pro verzi 4.4
-* aktualizováno 48 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 63 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * opravy nahlášených chyb
 * přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
 * přeložen „Průvodce obchodováním v Impériu“ (A Guide to Trading in the Empire), který najdete v Journalu/Deníku
