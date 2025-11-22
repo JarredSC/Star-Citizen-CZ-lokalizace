@@ -140,10 +140,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidány 2 nové parametry pro verzi 4.4
 * aktualizováno 63 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
-* opravy nahlášených chyb
 * přeložen listopadový newsletter Vox Populi (naleznete v Journalu/Deníku)
 * přeložen „Průvodce obchodováním v Impériu“ (A Guide to Trading in the Empire), který najdete v Journalu/Deníku
+* přeloženy parametry pro dešifrování v soustavě Nyx
 * drobné překlady
+* opravy nahlášených chyb
 
 #### Mise
 * přeloženy mise:
