@@ -118,7 +118,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### v0.9a | v přípravě
 
+* přeloženy Wikelo mise pro verzi 4.4
+* přeloženy texty pro lodní třídy a zaměření lodí
 * přeloženy mapové amenties lokací
+* přeloženy texty pro dokování
 * dodán popisek pro Levski
 * úpravy textů pro Levski kvůli diakritice
 * přeloženo 11 dialů
