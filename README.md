@@ -118,7 +118,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### v0.9a | v přípravě
 
-* přeloženy Wikelo mise pro verzi 4.4
+* přeloženy mise pro 4.4:
+    * pro Wikelo: _Curious Weapon; Armor with Vanduul; Guardian WiK-X; RSI Meteor Mod_
 * přeloženy texty pro lodní třídy a zaměření lodí
 * přeloženy mapové amenties lokací
 * přeloženy texty pro dokování
