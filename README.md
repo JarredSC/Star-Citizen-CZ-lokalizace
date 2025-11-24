@@ -123,6 +123,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * pro BHG: _Verified Bounty: [Name]_
     * Bit Zeors: _Getting To the Bottom of It; Legendary Info?; Data Transfer; Too Smart For Our Own Good; Bad at Goodbyes; Pick Up, Put Down; Our Version of The Truth_
     * Citizens for Prosperity: _Seeking Experienced Combat Pilots; Provide Combat Support; Stop Attack on Ship; Help Ambushed Convoy; Stop Savage Shattered Blade Attack; Come to Aid of Convoy; Convoy Under Attack; Respond to Distress Beacon; Support Ship Under Attack; Patrol Risky Travel Lanes; Patrol Outlaw Hunting Grounds; Patrol & Protect Travel Lanes; Patrol Dangerous Travel Lanes; Patrol Extremely Dangerous Sector; Patrol Travel Lanes; Patrol Dangerous Outlaw Sector_
+    * Covalex: _[Rank] - Direct [Route] [Cargo] Cargo Haul (deliverAll); [Rank] - Direct [Route] [Cargo] Cargo Haul (fromLevski); [Rank] - Direct [Route] [Cargo] Cargo Haul (toLevski); [Rank] - Direct [Route] [Cargo] Cargo Haul (fromRuinStation); [Rank] - Direct [Route] [Cargo] Cargo Haul (toRuinStation); [Rank] - [Cargo] Cargo Haul (toCFP); [Rank] - [Cargo] Cargo Haul (valakkar)_
 * přeloženy texty pro lodní třídy a zaměření lodí
 * přeloženy mapové amenties lokací
 * přeloženy texty pro dokování
