@@ -120,6 +120,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přeloženy mise pro 4.4:
     * pro Wikelo: _Curious Weapon; Armor with Vanduul; Guardian WiK-X; RSI Meteor Mod_
+    * pro BHG: _Verified Bounty: [Name]_
+    * Bit Zeors: _Getting To the Bottom of It; Legendary Info?; Data Transfer; Too Smart For Our Own Good; Bad at Goodbyes; Pick Up, Put Down; Our Version of The Truth_
 * přeloženy texty pro lodní třídy a zaměření lodí
 * přeloženy mapové amenties lokací
 * přeloženy texty pro dokování
