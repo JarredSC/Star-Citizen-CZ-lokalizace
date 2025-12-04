@@ -118,6 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### v0.9d | v přípravě
 
 * přidány 3 nové parametry pro verzi 4.5 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 32 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * aktualizovány popisky misí pro Dead Saints: _Write Off; Making the Most of a Bad Situation; Easy Creds for Easy Work; Get My Gear Back; Pick Up and Drop Off; Getting What They Deserve_
 
 ### v0.9c | 03-12-2025
