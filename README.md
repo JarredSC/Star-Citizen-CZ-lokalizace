@@ -115,13 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9d | v přípravě
-
-* přidány 3 nové parametry pro verzi 4.5 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizováno 32 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
-* aktualizovány popisky misí pro Dead Saints: _Write Off; Making the Most of a Bad Situation; Easy Creds for Easy Work; Get My Gear Back; Pick Up and Drop Off; Getting What They Deserve_
-
-### v0.9c | 03-12-2025
+### v0.9d | 05-12-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.4-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -131,6 +125,18 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 9 nových parametrů pro verzi 4.5 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 66 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizovány popisky misí:
+    * pro Bit Zeros: _Getting To the Bottom of It; Legendary Info?; Data Transfer; Too Smart For Our Own Good; Bad at Goodbyes; Pick Up, Put Down; Our Version of The Truth_
+    * pro Dead Saints: _Write Off; Making the Most of a Bad Situation; Easy Creds for Easy Work; Get My Gear Back; Pick Up and Drop Off; Getting What They Deserve_
+    * pro FLT: _COURIER NEEDED FOR RETRIEVAL. EXP: E; COURIER NEEDED FOR RETRIEVAL. EXP: S; NEW RETRIEVAL RUN AVAILABLE; COURIER NEEDED FOR RETRIEVAL. EXP: JR; COURIER NEEDED FOR RETRIEVAL. EXP: EL; COURIER NEEDED FOR RETRIEVAL - EXP: U; COURIER NEEDED FOR RETRIEVAL. EXP: EX_
+    * pro Hockrow Agency: _Blackbox Recovery Request: Junior Level; Blackbox Recovery Request: Senior Investigator Level; NEW HIRE: Blackbox Recovery; Blackbox Recovery Request: Investigator Level; Blackbox Recovery Request: Special Investigator Level; Blackbox Recovery Request: Probationary Level; Blackbox Recovery Request: Lead Investigator Level_
+    * pro Red Wind: _Red Wind Easy Package Recovery; Red Wind Challenging Package Recovery; Red Wind Seeking New Couriers; Red Wind Straightforward Package Recovery; Red Wind Package Recovery; Red Wind Dangerous Package Recovery_
+* opravy nahlášených chyb
+
+### v0.9c | 03-12-2025
 
 * přidáno 11 nových parametrů pro verzi 4.5 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 66 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
