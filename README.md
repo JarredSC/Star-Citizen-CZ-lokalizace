@@ -115,6 +115,13 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9e | v přípravě
+
+* přidáno 23 nových parametrů pro verzi 4.5 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přeloženy Wikelo mise: _Asgard Fight Mod; Ready for RAFT?; Special Idris For Killing; Where Wolf? Here Wolf; Prospects Look Good; Most Special Wolf_
+* drobné překlady
+* opravy nahlášených chyb
+
 ### v0.9d | 05-12-2025
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
