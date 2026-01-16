@@ -119,6 +119,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 170 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizován anglický popisek u 164 parametrů pro verzi 4.6
+* přeloženy mise pro Alliance Aid:
+  * courier typ: _Alliance Aid: Courier Ship Stranded; Alliance Aid: Vital Package Retrieval; Alliance Aid: Courier Needed_
+  * defend ship typ: _Alliance Aid: Ship in Trouble; Alliance Aid: Ship Under Attack; Alliance Aid: Ship in Distress_
+  * escord ship typ: _Alliance Aid: Escort Needed; Alliance Aid: Protection Detail Needed; Alliance Aid: Security Needed_
+  * hauling (velký) typ: _Alliance Aid: Interstellar Large Cargo Haul (Cryopods); Alliance Aid: Interstellar Large Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Filters)_
 
 ### v0.9h | 15-01-2026
 
