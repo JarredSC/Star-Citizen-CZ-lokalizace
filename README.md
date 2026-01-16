@@ -115,20 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9i
-
-* přidáno 170 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizován anglický popisek u 164 parametrů pro verzi 4.6
-* přeloženy mise pro Alliance Aid:
-  * courier typ: _Alliance Aid: Courier Ship Stranded; Alliance Aid: Vital Package Retrieval; Alliance Aid: Courier Needed_
-  * defend ship typ: _Alliance Aid: Ship in Trouble; Alliance Aid: Ship Under Attack; Alliance Aid: Ship in Distress_
-  * escord ship typ: _Alliance Aid: Escort Needed; Alliance Aid: Protection Detail Needed; Alliance Aid: Security Needed_
-  * hauling (velký) typ: _Alliance Aid: Interstellar Large Cargo Haul (Cryopods); Alliance Aid: Interstellar Large Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Filters)_
-  * hauling (střední) typ: _Alliance Aid: Interstellar Medium Cargo Haul (Cryopods); Alliance Aid: Interstellar Medium Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Filters)_
-  * hauling (malý) typ: _Alliance Aid: Interstellar Small Cargo Haul (Cryopods); Alliance Aid: Interstellar Small Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Filters)_
-  * kill ship (Eckhart) typ: _Alliance Aid: Supply Thief; Alliance Aid: Hauler Hunters; Alliance Aid: Resource Raiders_
-
-### v0.9h | 15-01-2026
+### v0.9i | 16-01-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -138,6 +125,23 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 170 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizován anglický popisek u 165 parametrů pro verzi 4.6
+* přeloženy mise pro Alliance Aid:
+  * courier typ: _Alliance Aid: Courier Ship Stranded; Alliance Aid: Vital Package Retrieval; Alliance Aid: Courier Needed_
+  * defend ship typ: _Alliance Aid: Ship in Trouble; Alliance Aid: Ship Under Attack; Alliance Aid: Ship in Distress_
+  * escord ship typ: _Alliance Aid: Escort Needed; Alliance Aid: Protection Detail Needed; Alliance Aid: Security Needed_
+  * hauling (velký) typ: _Alliance Aid: Interstellar Large Cargo Haul (Cryopods); Alliance Aid: Interstellar Large Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Filters)_
+  * hauling (střední) typ: _Alliance Aid: Interstellar Medium Cargo Haul (Cryopods); Alliance Aid: Interstellar Medium Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Filters)_
+  * hauling (malý) typ: _Alliance Aid: Interstellar Small Cargo Haul (Cryopods); Alliance Aid: Interstellar Small Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Filters)_
+  * kill ship (Eckhart) typ: _Alliance Aid: Supply Thief; Alliance Aid: Hauler Hunters; Alliance Aid: Resource Raiders_
+  * recover cargo (Eckhart) typ: _Alliance Aid: Attempted Cargo Theft; Alliance Aid: Thwart Cargo-jacking; Alliance Aid: Stop Cargo Heist_
+  * resource gathering typ: _Alliance Aid: Collect Manufacturing Resource - Large Scale; Alliance Aid: Large Supply of Research Resource; Alliance Aid: Collect Manufacturing Resource - Small Scale; Alliance Aid: Small Supply of Research Resource; Alliance Aid: Collect Manufacturing Resource - Medium Scale; Alliance Aid: Med. Supply of Research Resource_
+* přeloženy popisky nových stanic v soustavě Nyx
+* opravy nahlášených chyb
+
+### v0.9h | 15-01-2026
 
 * přidáno 51 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * přeloženo 73 parametrů pro verzi 4.6
