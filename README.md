@@ -124,6 +124,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
   * defend ship typ: _Alliance Aid: Ship in Trouble; Alliance Aid: Ship Under Attack; Alliance Aid: Ship in Distress_
   * escord ship typ: _Alliance Aid: Escort Needed; Alliance Aid: Protection Detail Needed; Alliance Aid: Security Needed_
   * hauling (velký) typ: _Alliance Aid: Interstellar Large Cargo Haul (Cryopods); Alliance Aid: Interstellar Large Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Large Scale; Alliance Aid: Interstellar Large Cargo Haul (Filters)_
+  * hauling (střední) typ: _Alliance Aid: Interstellar Medium Cargo Haul (Cryopods); Alliance Aid: Interstellar Medium Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Medium Scale; Alliance Aid: Interstellar Medium Cargo Haul (Filters)_
+  * hauling (malý) typ: _Alliance Aid: Interstellar Small Cargo Haul (Cryopods); Alliance Aid: Interstellar Small Cargo Haul (Medical); Alliance Aid: Medical Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Research); Alliance Aid: Treatment Cargo Haul - Small Scale; Alliance Aid: Interstellar Small Cargo Haul (Filters)_
+  * kill ship (Eckhart) typ: _Alliance Aid: Supply Thief; Alliance Aid: Hauler Hunters; Alliance Aid: Resource Raiders_
 
 ### v0.9h | 15-01-2026
 
