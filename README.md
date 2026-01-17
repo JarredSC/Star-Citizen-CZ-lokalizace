@@ -115,6 +115,15 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9j | v přípravě
+
+* přidáno 99 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 16 popisků u parametrů pro verzi 4.6
+* přeloženy nové návody v Journalu (Deníku): _Mining Fundamentals #2: Where to Mine_ a _A Salvager's Guide to Material Collection_
+* drobné překlady pro verzi 4.6
+* opravy nahlášených chyb
+
+
 ### v0.9i | 16-01-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
