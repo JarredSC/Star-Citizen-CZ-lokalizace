@@ -115,16 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9j | v přípravě
-
-* přidáno 99 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizováno 16 popisků u parametrů pro verzi 4.6
-* přeloženy nové návody v Journalu (Deníku): _Mining Fundamentals #2: Where to Mine_ a _A Salvager's Guide to Material Collection_
-* drobné překlady pro verzi 4.6
-* opravy nahlášených chyb
-
-
-### v0.9i | 16-01-2026
+### v0.9j | 17-01-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -134,6 +125,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 99 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 16 popisků u parametrů pro verzi 4.6
+* přeloženy nové návody v Journalu (Deníku): _Mining Fundamentals #2: Where to Mine_ a _A Salvager's Guide to Material Collection_
+* drobné překlady pro verzi 4.6
+* opravy nahlášených chyb
+
+### v0.9i | 16-01-2026
 
 * přidáno 170 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizován anglický popisek u 165 parametrů pro verzi 4.6
