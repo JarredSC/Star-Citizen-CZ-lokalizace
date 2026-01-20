@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9k | v příprave
+### v0.9k | 20-01-2026
 
 * přidáno 13 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * odstraněno 76 placeholderů pro verzi 4.6 (parametry, které vývojáři odstranili)
