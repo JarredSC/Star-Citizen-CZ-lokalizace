@@ -117,13 +117,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9l | v přípravě
 
-* přidáno 27 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* aktualizováno 27 popisků misí pro verzi 4.6
-* přeloženy mise pro 4.6:
-    * Shubin mining: _Hand Mining Request: Major Scale_ (Pyro-Nyx, VH); _Hand Mining Request: Extreme Scale_ (Pyro, S interstelar); _Hand Mining Request: Extreme Scale_ (Pyro, S solar); _Hand Mining Request: Major Scale_ (Pyro, VH); _Hand Mining Request: Small Scale_ (Stanton, E local); _Hand Mining Request: Small Scale_ (Stanton, E planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H planet/solar); _Hand Mining Request: Large Scale_ (Stanton, H planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H solar); _Hand Mining Request: Medium Scale_ (Stanton, M); _Hand Mining Request: Extreme Scale_ (Stanton, S solar dvě verze); _Hand Mining Request: Major Scale_ (Stanton, VH)
-
-### v0.9k | 20-01-2026
-
 [![Static Badge](https://img.shields.io/badge/PTU%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
@@ -132,6 +125,16 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 27 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 27 popisků misí pro verzi 4.6
+* přeloženy mise pro 4.6:
+    * Shubin mining (manuální těžba): _Hand Mining Request: Major Scale_ (Pyro-Nyx, VH); _Hand Mining Request: Extreme Scale_ (Pyro, S interstelar); _Hand Mining Request: Extreme Scale_ (Pyro, S solar); _Hand Mining Request: Major Scale_ (Pyro, VH); _Hand Mining Request: Small Scale_ (Stanton, E local); _Hand Mining Request: Small Scale_ (Stanton, E planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H planet/solar); _Hand Mining Request: Large Scale_ (Stanton, H planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H solar); _Hand Mining Request: Medium Scale_ (Stanton, M); _Hand Mining Request: Extreme Scale_ (Stanton, S solar dvě verze); _Hand Mining Request: Major Scale_ (Stanton, VH)
+    * Shubin mining (lodní těžba; Stanton): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Large Scale_ (H, sekundární interstellar); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary interstellar); _Ship Mining Request: Major Scale_ (VH, secondary); _Ship Mining Request: Special Assignment_ (VH, organizace)
+    * Shubin mining (lodní těžba; Pyro): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary)
+    * Shubin mining (lodní těžba; Nyx): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary)
+
+### v0.9k | 20-01-2026
 
 * přidáno 13 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * odstraněno 76 placeholderů pro verzi 4.6 (parametry, které vývojáři odstranili)
