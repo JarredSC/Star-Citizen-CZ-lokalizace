@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9l | v přípravě
+### v0.9l | 21-01-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.5-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -133,6 +133,9 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * Shubin mining (lodní těžba; Stanton): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Large Scale_ (H, sekundární interstellar); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary interstellar); _Ship Mining Request: Major Scale_ (VH, secondary); _Ship Mining Request: Special Assignment_ (VH, organizace)
     * Shubin mining (lodní těžba; Pyro): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary)
     * Shubin mining (lodní těžba; Nyx): _Ship Mining Request: Small Scale_ (E, local); _Ship Mining Request: Large Scale_ (H, primární); _Ship Mining Request: Large Scale_ (H, sekundární); _Ship Mining Request: Medium Scale_ (M); _Ship Mining Request: Extreme Scale_ (S); _Ship Mining Request: Very Small Scale_ (VE, local); _Ship Mining Request: Major Scale_ (VH, interstellar); _Ship Mining Request: Major Scale_ (VH, secondary)
+* překlad popisků nových skinů pro verzi 4.6 (17)
+* drobné překlady pro verzi 4.6
+* opravy nahlášených chyb
 
 ### v0.9k | 20-01-2026
 
