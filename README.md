@@ -119,6 +119,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 * přidáno 27 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 27 popisků misí pro verzi 4.6
+* přeloženy mise pro 4.6:
+    * Shubin mining: _Hand Mining Request: Major Scale_ (Pyro-Nyx, VH); _Hand Mining Request: Extreme Scale_ (Pyro, S interstelar); _Hand Mining Request: Extreme Scale_ (Pyro, S solar); _Hand Mining Request: Major Scale_ (Pyro, VH); _Hand Mining Request: Small Scale_ (Stanton, E local); _Hand Mining Request: Small Scale_ (Stanton, E planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H planet/solar); _Hand Mining Request: Large Scale_ (Stanton, H planetární systém); _Hand Mining Request: Large Scale_ (Stanton, H solar); _Hand Mining Request: Medium Scale_ (Stanton, M); _Hand Mining Request: Extreme Scale_ (Stanton, S solar dvě verze); _Hand Mining Request: Major Scale_ (Stanton, VH)
 
 ### v0.9k | 20-01-2026
 
