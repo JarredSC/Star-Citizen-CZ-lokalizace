@@ -118,7 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### v0.9o | v přípravě
 
 * přeloženy mise pro Shubin Interstelar: lodní těžba (26)
-* přidány chybějící popisky pro lodě a vozidla: _Andromeda, Aquila, Blade, Glaive, PTV, Starfarer Teach's Special, Starlancer MAX, Taurus_
+* přidány chybějící popisky pro lodě a vozidla: _Andromeda, Aquila, Blade, Fortune, Fortune Teach's Special, Golem Teach's Special, Glaive, Mole Teach's Special, Nomad Teach's Special, PTV, Reclaimer Teach's Special, Saber Peregrine, Starfarer Teach's Special, Starlancer MAX, Taurus, Vulture Teach's Special_
 
 ### v0.9n | 27-01-2026
 
