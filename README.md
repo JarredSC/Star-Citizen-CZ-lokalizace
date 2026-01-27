@@ -118,6 +118,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### v0.9n | v přípravě
 
 * přidáno 26 nových parametrů pro verzi 4.6 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přeložen popisek nové lodi RSI Hermes včetně všech popisků skinů (9) pro toto plavidlo.
 
 ### v0.9m | 24-01-2026
 
