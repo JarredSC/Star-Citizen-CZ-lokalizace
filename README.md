@@ -115,10 +115,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9o | v přípravě
+### v0.9o | 28-01-2026
 
 * přeloženy mise pro Shubin Interstelar: lodní těžba (26)
+* přeloženy mise pro Shubin Interstelar: vozidlová těžba (9)
+* přeloženy zbývající mise pro Alliance Aid event: _Alliance Aid: Urgent Rescue Mission; Alliance Aid: Double Interstellar Med. Haul (Medical / Filters); Alliance Aid: Small Supply of Research Resource; Alliance Aid: Molina Mold Samples_
 * přidány chybějící popisky pro lodě a vozidla: _Andromeda, Aquila, Blade, Fortune, Fortune Teach's Special, Golem Teach's Special, Glaive, Mole Teach's Special, Nomad Teach's Special, PTV, Reclaimer Teach's Special, Saber Peregrine, Starfarer Teach's Special, Starlancer MAX, Taurus, Vulture Teach's Special_
+* přeložen lednový newsletter New United (naleznete v Journalu/Deníku)
+* drobné překlady
 
 ### v0.9n | 27-01-2026
 
