@@ -115,6 +115,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9p | v přípravě
+
+* odstraněno 444 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* drobné překlady
+
 ### v0.9o | 28-01-2026
 
 * přeloženy mise pro Shubin Interstelar: lodní těžba (26)
