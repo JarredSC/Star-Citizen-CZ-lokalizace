@@ -120,6 +120,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přidány popisky (25) k planetám a měsícům ve Stantonu a v Pyru, které obsahují seznam potenciálních surovin a rud k těžbě
 * aktualizováno 13 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 444 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* opravy nahlášených chyb
 * drobné překlady
 
 ### v0.9o | 28-01-2026
