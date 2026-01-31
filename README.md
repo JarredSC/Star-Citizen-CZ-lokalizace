@@ -127,10 +127,10 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidány popisky (25) k planetám a měsícům ve Stantonu a v Pyru, které obsahují seznam potenciálních surovin a rud k těžbě
-* aktualizováno 13 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* aktualizováno 17 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 444 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * přeloženy popisky (7) pro skiny k lodím _F8_, _Pulse_, _Vulture_ a _ATLS_ pro svátky Red Festival a Coramor.
-* aktualizovány texty v Journalu pro _Mining Fundamentals #1: Basic Overview_ a _A Forager's Guide_
+* aktualizovány texty v Journalu pro _Mining Fundamentals #1: Basic Overview_ a _A Forager's Guide_ (přidány lokality sběru a seznam harvestables pro soustavu Pyro včetně lokalit sběru)
 * opravy nahlášených chyb
 * drobné překlady
 
