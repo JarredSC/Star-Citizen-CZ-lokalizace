@@ -115,13 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9t | v přípravě
-
-* přidáno 73 nových parametrů pro verzi 4.7 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
-* odstraněno 41 parametrů z verze 4.7 (parametry, které vývojáři odstranili)
-* opravy nahlášených chyb
-
-### v0.9s | 13-03-2026
+### v0.9t | 17-03-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.7-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -131,6 +125,14 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Často kladené otázky](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#ot%C3%A1zky-a-odpov%C4%9Bdi)
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
+
+* přidáno 89 nových parametrů pro verzi 4.7 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přidáno 176 překladů pro verzi 4.7
+* odstraněno 41 parametrů z verze 4.7 (parametry, které vývojáři odstranili)
+* aktualizovány 2 parametry pro verzi 4.7 (originál byl změněn)
+* opravy nahlášených chyb
+
+### v0.9s | 13-03-2026
 
 * přidáno 73 nových parametrů pro verzi 4.7 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * aktualizováno 10 popisků u parametrů pro verzi 4.7 (originál byl změněn)
