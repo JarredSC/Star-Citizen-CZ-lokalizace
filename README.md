@@ -117,7 +117,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9u | v přípravě
 
-* přidány 2 nové parametry pro verzi 4.7
+* přidáno 77 nových parametrů pro verzi 4.7
+* aktualizovány 2 parametry pro verzi 4.7 (originál byl změněn)
 * přeloženo 116 parametrů pro fabrikátor
 
 ### v0.9t | 17-03-2026
