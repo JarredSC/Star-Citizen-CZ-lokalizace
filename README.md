@@ -115,6 +115,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9v | v přípravě
+
+* přidáno 24 chybějících parametrů pro verzi 4.7
+* přeloženy Wikelo mise
+* opravy nahlášených chyb
+
 ### v0.9u | 25-03-2026
 
 [![Static Badge](https://img.shields.io/badge/PTU%204.7-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
