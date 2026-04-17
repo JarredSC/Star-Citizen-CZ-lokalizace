@@ -115,6 +115,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9w | v přípravě
+
+* drobné překlady (12)
+* odstraněno 93 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
+* opravy nahlášených chyb
+  
 ### v0.9v | 08-04-2026
 
 [![Static Badge](https://img.shields.io/badge/LIVE%204.7.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
