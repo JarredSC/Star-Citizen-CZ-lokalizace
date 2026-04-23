@@ -115,7 +115,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
-### v0.9w | v přípravě
+### v0.9w | 23-04-2026
 
 [![Static Badge](https://img.shields.io/badge/EVO%204.8-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.7.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -128,6 +128,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidáno 776 nových parametrů pro verzi 4.8 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizováno 159 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * drobné překlady (12)
 * odstraněno 93 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru)
 * opravy nahlášených chyb
