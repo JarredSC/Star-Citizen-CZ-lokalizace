@@ -77,7 +77,7 @@ $\color{Yellow}{\textsf{Dokud nebudou ve hře všechny fonty a herní assety př
   > Zřejmě nemá soubor global.ini správné kódování. Ujistěte se, že soubor je uložen v kódování UTF-8 BOM.
   > $\color{Yellow}{\textsf{O správné kódování se stará automatický instalátor.}}$
 
-**Češtinu mám nainstalovanou, ale stále vydím vše v angličtině. Co dělám špatně?**
+**Češtinu mám nainstalovanou, ale stále vidím vše v angličtině. Co dělám špatně?**
   > S velkou pravděpodobností máte češtinu v jiném adresáři, než v tom, ze kterého se spouští hra. To se občas stane lidem, kteří přeinstalovávají Star Citizen do jiného adresáře a zapomenou, že mají ve svém počítači víc než jeden adresář se hrou.
   > $\color{Yellow}{\textsf{O bezproblémovou instalaci se stará automatický instalátor.}}$
 
