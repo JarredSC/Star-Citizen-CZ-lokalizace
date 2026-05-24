@@ -117,6 +117,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9ad | v přípravě
 
+* přeloženy TSG mise včetně jejich parametrů: _Assist People's Alliance Vessel Tranquility; Strategic Bombing; Retrieve Vanduul Data; Defend People's Alliance Pilot; Extraction Mission; Tactical Strike Group Needed; Tactical Bombing Op_
 * přeloženy mise pro CFP: _Destroy Security Intel; Delete Deadly Dossier; Destroy Stolen Records; Data Center Retaliation; Destroy Sensitive Information_
 * přeložen 1 set dialogů k TSG
 * aktualizováno 43 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
