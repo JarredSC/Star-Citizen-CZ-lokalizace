@@ -115,6 +115,11 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ### Specifické případy
 ---
 ## Změny
+### v0.9ad | v přípravě
+
+* přeložen 1 set dialogů k TSG
+* aktualizováno 43 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* opravy nahlášených chyb
 
 ### v0.9ac | 21-05-2026
 
