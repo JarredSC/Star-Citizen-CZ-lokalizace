@@ -117,6 +117,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9ad | v přípravě
 
+* přeloženy mise pro CFP: _Destroy Security Intel; Delete Deadly Dossier; Destroy Stolen Records; Data Center Retaliation; Destroy Sensitive Information_
 * přeložen 1 set dialogů k TSG
 * aktualizováno 43 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * opravy nahlášených chyb
