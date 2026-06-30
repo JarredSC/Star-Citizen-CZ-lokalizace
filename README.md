@@ -117,7 +117,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9ag | v přípravě
 
-* přeloženy parametry pro Siege of Orison instanci (175)
+* přeloženy parametry pro Siege of Orison instanci (190)
+* přeloženy hlášky pro Siege of Orison instanci (139)
 * drobné překlady
 * opravy nahlášených chyb
 
