@@ -117,8 +117,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ## Změny
 ### v0.9an | 16-07-26
 
-[![Static Badge](https://img.shields.io/badge/PTU%204.9-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.8.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+<!--[![Static Badge](https://img.shields.io/badge/PTU%204.9-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
+[![Static Badge](https://img.shields.io/badge/LIVE%204.9-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
@@ -128,6 +128,8 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
 * přidáno 40 nových parametrů pro verzi 4.9 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* aktualizovány 4 parametry pro verzi 4.9 (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
+* Přeloženy zbylé mise od Recco Battaglia: _Crew Hasn’t Checked In; Missing Mining Team; Missing Persons; Blackbox Retrieval w/Danger; Blackbox Retrieval; Blackbox Retrieval Very Dangerous; Salvage Job: Small; Salvage Job: Large; Salvage Job: Mid; Ore Scan Needed; Ore To Be Scanned; Ore Deposit Needs Scanning; Full Area Scan for Ore; Large Deposit Of Ore To Confirm; High Priority Ore Scan; Extra Special Job; Scan with a Prospector Payout; Minor Mining Job; Need Some Ore Mined; Scan And Mining Needed; Ore Needs Gathering; Efficient Miners Wanted; Mining and Data Collection; Mining and MOLE_
 
 ### v0.9am | 10-07-26
 
