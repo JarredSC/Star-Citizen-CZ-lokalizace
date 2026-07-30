@@ -127,7 +127,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 [Známé problémy](https://github.com/JarredSC/Star-Citizen-CZ-lokalizace?tab=readme-ov-file#zn%C3%A1m%C3%A9-probl%C3%A9my)
 
-* přidáno 221 nových parametrů pro verzi 4.9 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
+* přidáno 221 nových parametrů pro verzi 4.10 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * opravy nahlášených chyb
 
 ### v0.9an | 16-07-26
