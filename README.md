@@ -116,7 +116,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 
-### v0.9at | 31-10-2026
+### v0.9au | 04-11-2026
 
 [![Static Badge](https://img.shields.io/badge/TECH_PREVIEW%204.11-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/PTU%204.10.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
@@ -125,8 +125,12 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 
+* přidáno 182 nových parametrů pro verzi PTU 4.10.3
+
+### v0.9at | 31-10-2026
+
 * přidáno 2798 nových parametrů pro verzi TECH_PREVIEW 4.11
-* přidáno 91 nových parametrů pro verzi TECH_PREVIEW 4.10.3
+* přidáno 91 nových parametrů pro verzi PTU 4.10.3
 
 ### v0.9as | 09-10-2026
 
