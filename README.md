@@ -129,7 +129,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * opraven 1 stávající překlad - "ODEJÍT"
 * přehled podle Item Class: Uživatelské rozhraní (UI) (ui_) (1)
 
-### v0.9ax | 21-11-2026
+### v0.9ay | 21-11-2026
 
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 
