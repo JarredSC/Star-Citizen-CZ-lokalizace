@@ -116,10 +116,17 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 
+### v0.9az | 24-11-2026
+
+[![Static Badge](https://img.shields.io/badge/PTU%205.0.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/LIVE%204.10.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+
+* přidáno 5 nových parametrů
+* upraveny 4 stávající překlady
+* přehled podle Item Class: UI & Menu (2), Mise & Kontrakty (1), Uživatelské rozhraní (UI) (ui_) (1)
+
 ### v0.9ax | 21-11-2026
 
-[![Static Badge](https://img.shields.io/badge/PTU%205.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.10.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 
 * přidáno 614 nových parametrů pro verzi 5.0
@@ -197,8 +204,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### v0.9aj | 02-07-26
 
-[![Static Badge](https://img.shields.io/badge/PTU%204.9-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.8.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%204.6-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
@@ -226,7 +231,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy hlášky pro Siege of Orison instanci (171)
 * drobné překlady
 * opravy nahlášených chyb
-
 
 ### v0.9af | 27-06-2026
 
@@ -567,7 +571,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * (PTU) přeloženy popisky nových komodit převážně pro Nyx: _Lindinium, Lindinium (Ore), Organics, Savrilium, Savrilium (Ore), Torite, Torite (Ore)_ včetně dvou hub na sběr: _Bluemoon Fungus, Miner's Horn_
 * (PTU) přeloženy reputační profily a jejich parametry pro DEAD SAINTS a InterSec Defense Solutions
 
-
 ### 0.8aO | 11-11-2025
 
 * přidáno 1455 nových parametrů pro verzi 4.4 a IAE (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
@@ -597,7 +600,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy mise pro verzi 4.3.2:
     * pro CFP: _[Recon] Find Frontier Fighters Operative and Intel; [Recon] Secure Frontier Fighters Data; [Recon] Get Datapad from Frontier Fighters; [Recon] Missing CFP Op & Intel; [Recon] Rescue and Recovery Operation; [Recon] Lost CFP Op & Datapad; [Siege] Stop Frontier Fighters from Regenning; [Siege] Destroy Frontier Fighters Ability to Regen; [Siege] Eliminate MedGel Recharge Station; [Siege] Ambush Frontier Fighters; [Siege] Take Out Frontier Fighters Commander; [Siege] Surprise Strike on Frontier Fighters; [Take Down] Stop the Frontier Fighters' Attack_
     * pro Headhuntery: _[Recon] Kill & Collect; [Recon] Assassinate Target & Seize Datapad; [Recon] Hunt Down Op & Intel; [Recon] Locate Lost Headhunter and Intel; [Recon] Search Party; [Recon] Tracking Down Missing HeadHunter; [Siege] Ruin MedGel Recharge Station; [Siege] Raid and Ravage MedGel Recharge Stations; [Siege] Let's Close the Loop; [Siege] Ambush Frontier Fighters; [Siege] Surprise Frontier Fighters Squad; [Siege] Exact Revenge; [Take Down] Kill Frontier Fighters' Leader Amelia Boyd_
-
 
 ### 0.8aK | 08-10-2025
 
@@ -698,8 +700,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### 0.8aa | 13-08-2025
 
-[![Static Badge](https://img.shields.io/badge/PTU%204.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.2.1-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/4.0_PREVIEW%204.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 
@@ -933,11 +933,7 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * aktualizováno 24 parametrů (texty parametrů, které vývojáři aktualizovali v lokalizačním souboru)
 * odstraněno 910 smazaných parametrů (parametry, které vývojáři odebrali z lokalizačního souboru; _většinu tvoří již přeložené dialogy – stinná stránka překladu hry v alfa fázi, část práce přijde vniveč_)
 
-
 ### 0.8e | 07-03-2025
-
-[![Static Badge](https://img.shields.io/badge/PTU%204.1.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%204.0.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 
 * přidáno 439 nových parametrů pro verzi 4.1.0 (překládáno průběžně, stále se k těmto parametrům musí přistupovat jako k placeholderům)
 * opravy nahlášených chyb
@@ -995,7 +991,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeložeby chybové hlášky (37)
 * opravy nahlášených chyb
 
-
 ### 0.7u | 17-12-2024
 
 * [EPTU] přidány nové parametry (53) včetně parametrů pro Mirai Guardian a Mirai Guardian QI a jejich 6 nových skinů
@@ -1038,7 +1033,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### 0.7q | 20-11-24 PTU/LIVE
 
-[![Static Badge](https://img.shields.io/badge/LIVE%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
 
@@ -1076,8 +1070,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 
 ### 0.7o | 25-10-24 PTU/LIVE
 
-[![Static Badge](https://img.shields.io/badge/PTU%203.24.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%203.24.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)-->
 <!--[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)-->
 
@@ -1114,7 +1106,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * přeloženy parametry k formaci
 * převod control hintů na velká písmena z důvodu změny fontu, který neumí převádět diakritiku minusek na verzálky (tento font nepodporuje např. české písmeno "Řř" u vybraných výrobců lodí)
 * přeloženo několik chybějících hintů
-
 
 ### 0.7k | 07-09-24 3.24.1 PTU
 * přidány nové parametry pro verzy 3.24.1 PTU včetně parametrů pro power suit ARGO ATLS
@@ -1227,9 +1218,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 * [3.23.1] nové Dying Star nátěry a jejich popisky
 * opravy nahlášených chyb
 ### 0.7 | 01-05-2024
-[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/EPTU%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
-[![Static Badge](https://img.shields.io/badge/LIVE%203.22.2-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 * přeloženy nové parametry pro verzi alfa 3.23:
   * mise Up in Smoke, Mandatory Black Out, Major Malfunction, Hit 'Em Where it Hurts, Permanently Delete, Spend Cred to Make Cred, Ownership Reassignment a Delicate Dealings ze skupiny "bitzeroes"
   * mise Elusive Bounty, Evasive Bounty, Destroy Contraband, Neutralize Outlaw Incursion, Bounty Located, Eradicate All Nests a Nest Extermination od Hurston Dynamics
@@ -1279,8 +1267,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
     * přeloženy texty z datapadů vězňů z útěkového koridoru Klescheru (10)
 
 ### 0.6d | 23-03-2024
-[![Static Badge](https://img.shields.io/badge/LIVE%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)
-[![Static Badge](https://img.shields.io/badge/EPTU%203.23-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✖-%23ff2f00?style=for-the-badge&labelColor=232323)](#)
 * upraveno nebo doplněno 46 parametrů, u kterých se změnil původní originální text (předchozí placeholdery; změna popisků)
 * dočasně odebrán překlad materiálů a komodit kvůli použití externích nástrojů (překlad bude řešen, až budou ve hře dostatečné nástroje pro ekonomiku a ochodování)
 * přeloženy popisky těžebních laserů
@@ -1361,7 +1347,6 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
  * [TECH-PREVIEW] přeloženy nové parametry včetně předmětů pro Red Festival 2954 a nových závodních okruhů
  * drobné překlady
  * opravy nahlášených chyb (chyby spojené s terminálem KelTo nejsou zahrnuty)
-
 
 ### 0.5e | 09-18-2023
 * [LIVE] přeloženy nové texty přidané s poslední verzí pro 3.22.0
