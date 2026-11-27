@@ -116,10 +116,17 @@ Star Citizen je stále ve vývoji a z podstaty svého otevřeného vývoje obsah
 ---
 ## Změny
 
-### v0.9az | 24-11-2026 - HOTFIX
+### v0.9ba | 27-11-2026
 
-[![Static Badge](https://img.shields.io/badge/PTU%205.0.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+[![Static Badge](https://img.shields.io/badge/PTU%205.0-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
 [![Static Badge](https://img.shields.io/badge/LIVE%204.10.3-brightgreen?style=for-the-badge&color=232323)![Static Badge](https://img.shields.io/badge/✔-%234cc71e?style=for-the-badge&labelColor=232323%20)](#)
+
+* přidáno 154 nových parametrů
+* nově přeloženo 6208 parametrů
+* upraveno 988 stávajících překladů
+* přehled podle Item Class: Persistent Universe (PU_) (3230), Ostatní (1767), Předměty a výstroj (item_) (1322), Uživatelské rozhraní (UI) (ui_) (258), Dynamické mise (DXSM_) (240), Personal Hangars (PH_) (239), UI & Menu (78), NPC Dialogy a dabing (Human_) (15), Vozidla a lodě (vehicle_) (15), Obchody a ekonomika (shop_) (13), Mise & Kontrakty (11), Lokace & Svět (5)
+
+### v0.9az | 24-11-2026 - HOTFIX
 
 * přidáno 5 nových parametrů
 * upraveny 4 stávající překlady
